@@ -1,0 +1,2001 @@
+CustomerID,CustomerName,City,State,CustomerType,Email
+1,"Choudhury, Bakshi and Maharaj",Rajahmundry,Chhattisgarh,Corporate,chahalpahal@example.org
+2,Chander and Sons,Dibrugarh,Punjab,Retail,issaconi@example.org
+3,Mall-Ahuja,Bhusawal,Karnataka,Retail,nachiket35@example.org
+4,Rai Inc,Hapur,Punjab,Corporate,caleb78@example.org
+5,Brar-Memon,Gangtok,Gujarat,Wholesale,bathvedant@example.com
+6,Kaul Inc,Alwar,Manipur,Retail,nicholas55@example.org
+7,"Loke, Bora and Garg",Ujjain,Manipur,Retail,omadan@example.net
+8,"Kanda, Nair and Bhalla",Patna,Uttar Pradesh,Retail,nandini41@example.org
+9,"Murty, Kala and Tata",Berhampore,Chhattisgarh,Corporate,liam38@example.net
+10,Sangha-Rastogi,Muzaffarnagar,Chhattisgarh,Retail,wchand@example.org
+11,Dua Ltd,Bhusawal,Punjab,Corporate,rajanlakshmi@example.net
+12,Wadhwa-Krishnamurthy,Raipur,Sikkim,Corporate,harini14@example.com
+13,Setty Inc,Orai,Tripura,Corporate,yashicacherian@example.net
+14,Tripathi-Issac,Dindigul,Tripura,Retail,aadinaik@example.com
+15,Choudhury LLC,Mathura,Arunachal Pradesh,Corporate,farhanchada@example.net
+16,Biswas-Walia,Warangal,Sikkim,Wholesale,qgandhi@example.net
+17,"Sampath, Kakar and Zacharia",Bijapur,Madhya Pradesh,Retail,raksha87@example.org
+18,Kar Inc,Jaipur,Odisha,Retail,thomasamble@example.org
+19,"Bhargava, Karnik and Bir",Bathinda,Assam,Retail,aryasunder@example.org
+20,"Deo, Solanki and Kibe",Vellore,Gujarat,Retail,chatterjeeraagini@example.com
+21,Roy-Sibal,Navi Mumbai,Arunachal Pradesh,Retail,znori@example.org
+22,Handa and Sons,Kolhapur,Maharashtra,Corporate,aryashere@example.org
+23,Savant PLC,Dhanbad,Rajasthan,Corporate,chanderwarjas@example.org
+24,Sunder-Srivastava,Rewa,Arunachal Pradesh,Retail,ladliagate@example.com
+25,Sha-Mangal,Miryalaguda,Sikkim,Corporate,mdubey@example.com
+26,Bhardwaj PLC,Satara,Arunachal Pradesh,Retail,soodyadavi@example.net
+27,Bhandari PLC,Gaya,Assam,Corporate,keernetra@example.org
+28,"Koshy, Baral and Bumb",Ballia,Odisha,Corporate,advika35@example.org
+29,Randhawa-Deep,Berhampore,Karnataka,Corporate,andratara@example.net
+30,"Chaudhry, Borah and Yogi",Guna,Himachal Pradesh,Corporate,ikshitabiswas@example.org
+31,Mane-Dugar,Tinsukia,Tamil Nadu,Wholesale,abhiram84@example.net
+32,Desai LLC,Aligarh,Telangana,Retail,anitamanda@example.net
+33,Oza and Sons,Dibrugarh,Meghalaya,Wholesale,charan16@example.com
+34,Aggarwal LLC,Firozabad,Goa,Corporate,jsane@example.org
+35,Borra Ltd,Bongaigaon,Arunachal Pradesh,Wholesale,manbir62@example.org
+36,Patla-Baral,Bhagalpur,Sikkim,Retail,harshilpandya@example.net
+37,Dubey-Khalsa,Belgaum,Maharashtra,Retail,golagaurangi@example.com
+38,"Kothari, Loke and Dutta",Eluru,West Bengal,Corporate,singhaltristan@example.org
+39,Palla-Mody,Rajahmundry,Andhra Pradesh,Wholesale,mohininarasimhan@example.com
+40,Mallick LLC,Jorhat,Karnataka,Wholesale,daliaadvika@example.org
+41,"Lanka, Barad and Chopra",Hapur,Telangana,Wholesale,rajata98@example.org
+42,Gupta-Kumar,Junagadh,Andhra Pradesh,Retail,janujasankar@example.org
+43,"Narayanan, Murthy and Dash",Guna,Jharkhand,Retail,znarain@example.net
+44,Datta-Handa,Nadiad,Sikkim,Wholesale,charviravi@example.net
+45,Modi LLC,Chinsurah,Uttar Pradesh,Retail,udyati77@example.net
+46,Vaidya Group,Guwahati,Jharkhand,Retail,girik34@example.org
+47,Din Inc,Sambalpur,Meghalaya,Wholesale,shahoeshi@example.net
+48,"Hayer, Rajagopalan and Talwar",Latur,Chhattisgarh,Retail,chhabrapavani@example.org
+49,Vasa Group,Proddatur,Haryana,Wholesale,shankiaan@example.com
+50,"Wali, Nadig and Savant",Motihari,Manipur,Wholesale,vaishnavisengupta@example.com
+51,Malhotra PLC,Mathura,Himachal Pradesh,Corporate,tbrahmbhatt@example.com
+52,Magar LLC,Panvel,Assam,Wholesale,matthewkashyap@example.com
+53,"Dua, Kala and Bhatt",Vellore,Karnataka,Retail,dsagar@example.org
+54,Ramachandran-Bahri,Morena,Andhra Pradesh,Corporate,chanchal66@example.net
+55,"Kannan, Sura and Kanda",Junagadh,Meghalaya,Wholesale,ramachandrangayathri@example.net
+56,"Ravel, Gandhi and Sibal",Deoghar,Andhra Pradesh,Corporate,fbala@example.net
+57,Deshmukh-Shenoy,Dhanbad,Himachal Pradesh,Retail,nnarang@example.com
+58,Nazareth-Raghavan,Bidar,Himachal Pradesh,Wholesale,singhalanirudh@example.net
+59,"Ben, Palla and Kapur",Thane,Tripura,Retail,kotaryan@example.org
+60,"Dua, Khare and Date",Raipur,Odisha,Corporate,udyatikunda@example.com
+61,Contractor and Sons,Moradabad,Odisha,Wholesale,munikeya@example.com
+62,"Issac, Borra and Kibe",Barasat,West Bengal,Corporate,barmanidika@example.net
+63,Prabhakar-Biswas,Ahmedabad,West Bengal,Corporate,gsuri@example.com
+64,Sharaf-Dua,Belgaum,Telangana,Wholesale,veda76@example.net
+65,"Loyal, Naidu and Korpal",Alwar,Manipur,Corporate,ucchalraghavan@example.com
+66,Talwar LLC,Morbi,Gujarat,Retail,aarna54@example.net
+67,"Majumdar, Anne and Varughese",Guwahati,Haryana,Corporate,jsuresh@example.org
+68,"Soni, Swaminathan and Sem",Tiruchirappalli,Jharkhand,Retail,nidhikohli@example.com
+69,"Pillay, Solanki and Wali",Khandwa,Telangana,Retail,indira74@example.com
+70,Kashyap-Dara,Satna,Bihar,Corporate,rehaankalita@example.net
+71,Malhotra-Vohra,Salem,Uttarakhand,Retail,chamankaran@example.com
+72,Mittal Inc,Panipat,Arunachal Pradesh,Wholesale,masterjonathan@example.net
+73,Chauhan-Arora,Nandyal,Meghalaya,Retail,loak@example.org
+74,Sridhar-Comar,Rewa,Meghalaya,Retail,beramax@example.org
+75,"Modi, Chada and Kothari",Proddatur,Tripura,Retail,xkara@example.net
+76,Seshadri-Savant,Giridih,Maharashtra,Wholesale,darpan91@example.org
+77,"Kakar, Lalla and Bumb",Mathura,Goa,Wholesale,dugaraarnav@example.com
+78,Singhal-Manne,Ahmednagar,Jharkhand,Wholesale,sudiksha13@example.com
+79,"Hora, Sandal and Contractor",Jalgaon,Himachal Pradesh,Corporate,ekbalbhasin@example.org
+80,Mani-Sarna,Bhind,Tamil Nadu,Wholesale,neha48@example.net
+81,Sarma-Buch,Bhiwani,Telangana,Retail,zashil01@example.org
+82,"Bail, Luthra and Baria",Nandyal,Mizoram,Wholesale,lmall@example.net
+83,Swamy-Chand,Karnal,Maharashtra,Wholesale,ekani12@example.com
+84,Tandon-Mani,Jamalpur,Arunachal Pradesh,Retail,uchakrabarti@example.com
+85,D’Alia-Raval,Hosur,Manipur,Corporate,mbhagat@example.net
+86,Tara-Sathe,Kurnool,Himachal Pradesh,Wholesale,bhavnasarma@example.net
+87,Dara-Balakrishnan,Kozhikode,Jharkhand,Corporate,reddygirik@example.org
+88,Shenoy Inc,Panchkula,Tamil Nadu,Corporate,yashodhara46@example.com
+89,Kohli-Shan,Yamunanagar,Gujarat,Corporate,ekarajmajumdar@example.com
+90,Tripathi-Loke,Ichalkaranji,Telangana,Retail,vrishti27@example.net
+91,Pai-Natarajan,Sirsa,Karnataka,Corporate,williamrajagopal@example.org
+92,Bassi-Nadkarni,Eluru,Madhya Pradesh,Corporate,warhibansal@example.org
+93,"Narula, Chaudhry and Sarraf",Hajipur,Manipur,Retail,dhawannimrat@example.net
+94,Borde Group,Sonipat,Punjab,Corporate,vbuch@example.net
+95,"Rai, Nadig and Sura",Tadipatri,Assam,Corporate,bhavnakaran@example.net
+96,Saraf Inc,Raiganj,Goa,Retail,ayush05@example.org
+97,Parmer-Prasad,Ulhasnagar,Haryana,Retail,kgole@example.org
+98,Raja PLC,Mehsana,Odisha,Wholesale,vincentshenoy@example.net
+99,Sharaf-Kumer,Kirari Suleman Nagar,Jharkhand,Wholesale,ethansathe@example.com
+100,"Mistry, Samra and Krishna",Barasat,Gujarat,Wholesale,gsubramanian@example.org
+101,Parmer-Merchant,Lucknow,Uttarakhand,Corporate,amaharaj@example.net
+102,"Bawa, Taneja and Mangat",Medininagar,Uttar Pradesh,Corporate,theodore39@example.com
+103,"Devan, Chatterjee and Baral",Gandhidham,Arunachal Pradesh,Corporate,karan14@example.com
+104,"Sagar, Gill and Iyer",Panvel,Kerala,Retail,nitesh47@example.com
+105,"Nigam, Contractor and Sidhu",Ajmer,Tripura,Corporate,mekhalapau@example.org
+106,Atwal-Lalla,Malda,Kerala,Wholesale,lakshmi51@example.net
+107,Sinha Inc,Phagwara,Haryana,Retail,shettychasmum@example.net
+108,Dada-Dey,Agra,Jharkhand,Retail,gdalia@example.org
+109,"Deshmukh, Rama and Setty",Panvel,Maharashtra,Retail,oeshichaudhary@example.com
+110,"Reddy, Mammen and Bali",Bellary,Manipur,Wholesale,xkeer@example.org
+111,"Pillai, Parmer and Bhat",Bally,Gujarat,Wholesale,shagavin@example.net
+112,Bail Inc,Latur,Chhattisgarh,Wholesale,ekapadjohal@example.net
+113,Kaul LLC,Kavali,Andhra Pradesh,Retail,maanav28@example.com
+114,Choudhary Ltd,Mira-Bhayandar,Andhra Pradesh,Retail,wazir95@example.org
+115,Lanka Inc,Bidar,Mizoram,Corporate,bhattvamakshi@example.com
+116,Varghese-Chopra,Ambala,Haryana,Corporate,vermacharvi@example.com
+117,"Balasubramanian, Bhat and Srinivas",Purnia,Sikkim,Wholesale,swaminathansachi@example.org
+118,Nagy PLC,Amritsar,Chhattisgarh,Retail,ekta69@example.net
+119,Setty-Tiwari,Navi Mumbai,Uttar Pradesh,Corporate,kalequshi@example.com
+120,Sachdev LLC,Silchar,Maharashtra,Wholesale,munshiprisha@example.com
+121,"Kumer, Prasad and Dua",Jabalpur,Assam,Wholesale,chanderrachana@example.org
+122,"Pradhan, De and Bhasin",Bhilai,Maharashtra,Corporate,pallavi04@example.net
+123,Pandey-Chawla,Bhatpara,Sikkim,Wholesale,gkapur@example.com
+124,"Pillai, Contractor and Mallick",Haldia,West Bengal,Retail,lokeayush@example.org
+125,More-Nori,Chennai,Goa,Wholesale,nandiniboase@example.org
+126,"Balasubramanian, Chand and Wali",Gandhinagar,Maharashtra,Retail,kom@example.com
+127,Nair-Chad,Bhatpara,Goa,Retail,bumbanita@example.com
+128,"Samra, Sunder and Sathe",Darbhanga,Gujarat,Corporate,paiqushi@example.org
+129,Sur-Vyas,Ranchi,Haryana,Corporate,abhakta@example.org
+130,Kakar-Devan,Ramagundam,Karnataka,Corporate,amblewidisha@example.net
+131,Gill-Dayal,Katihar,Tamil Nadu,Wholesale,xitipandya@example.org
+132,Basak-Sarin,Jaunpur,Assam,Corporate,pushti96@example.net
+133,"Sahni, Mann and Contractor",Jaipur,Karnataka,Corporate,trivenipathak@example.org
+134,Cherian-Kohli,Giridih,Madhya Pradesh,Wholesale,randhawadayita@example.net
+135,Kant-Nath,Solapur,Mizoram,Corporate,waliyashvi@example.org
+136,Panchal-Divan,Kota,Chhattisgarh,Wholesale,rudra29@example.org
+137,"Borra, Goel and Tak",Phusro,Tripura,Wholesale,onaidu@example.com
+138,Sarraf Inc,Mango,Rajasthan,Retail,anvi90@example.com
+139,"Borah, Mukherjee and Shenoy",Agra,Arunachal Pradesh,Retail,bhavini11@example.net
+140,"Tripathi, Rajagopalan and Shere",Hospet,Uttar Pradesh,Corporate,ekantasoni@example.net
+141,Bhatia Group,Tiruvottiyur,Tamil Nadu,Wholesale,thamanorinder@example.org
+142,Sarma Group,Bharatpur,Kerala,Retail,lila65@example.net
+143,"Ben, Natt and Bhatti",Bareilly,Nagaland,Retail,qmander@example.net
+144,"Doctor, Nath and Bumb",Etawah,Jharkhand,Retail,mdayal@example.net
+145,Mukherjee PLC,Ozhukarai,Uttarakhand,Retail,giriksampath@example.net
+146,Badami-Patil,Bokaro,Gujarat,Corporate,vedika33@example.org
+147,Brahmbhatt LLC,Guna,Tripura,Retail,nayarkaran@example.net
+148,Dube-Gaba,Dehradun,Telangana,Corporate,abassi@example.com
+149,"Khanna, Sawhney and Mane",Muzaffarpur,Nagaland,Wholesale,dayamaisingh@example.org
+150,Sastry-Shenoy,Eluru,Mizoram,Corporate,medwin@example.net
+151,Krishna Inc,Serampore,Nagaland,Retail,vartyjeet@example.com
+152,Dyal LLC,Anand,Chhattisgarh,Wholesale,ochand@example.com
+153,Bala-Sachdeva,Tenali,Mizoram,Wholesale,warinder61@example.com
+154,Bala LLC,Thanjavur,Uttar Pradesh,Corporate,lakshbarad@example.com
+155,Dewan-Singh,Tadepalligudem,Andhra Pradesh,Wholesale,bahlaahana@example.org
+156,Wable Group,Tumkur,Haryana,Corporate,jairaj03@example.com
+157,"Shankar, Bhatnagar and Choudhry",Kavali,Nagaland,Wholesale,varmawyatt@example.net
+158,Manne Group,Srikakulam,Kerala,Corporate,omajagrover@example.net
+159,"Chada, Viswanathan and Patel",Hajipur,Nagaland,Retail,ramakrishnanupma@example.org
+160,"Ram, Prakash and Kulkarni",Raurkela Industrial Township,Uttar Pradesh,Corporate,paiwridesh@example.net
+161,"Chawla, Natarajan and Deol",Nagercoil,Nagaland,Corporate,parth77@example.net
+162,Deshmukh Inc,Vadodara,Jharkhand,Retail,calebiyengar@example.org
+163,Mukherjee-Varma,Tinsukia,Meghalaya,Corporate,balhaar34@example.com
+164,Narula LLC,Arrah,Maharashtra,Corporate,ysarraf@example.com
+165,Taneja Ltd,Arrah,Uttar Pradesh,Wholesale,fitan61@example.com
+166,"Gole, Memon and Nagi",Vijayawada,Karnataka,Corporate,damini79@example.net
+167,Ganesan-Sawhney,Amroha,Arunachal Pradesh,Wholesale,radhika40@example.org
+168,"Ravi, Patla and Varghese",Ludhiana,Chhattisgarh,Retail,ibanerjee@example.org
+169,Peri LLC,Tezpur,Arunachal Pradesh,Wholesale,shivaniprabhakar@example.com
+170,Bose-Devan,Sikar,Karnataka,Wholesale,zaid10@example.net
+171,Tata PLC,Kishanganj,Bihar,Retail,abha73@example.net
+172,Swaminathan-Iyengar,Bhavnagar,West Bengal,Wholesale,sethorinder@example.net
+173,Chahal-Nagarajan,Amritsar,Nagaland,Retail,charita22@example.com
+174,"Kapur, Dara and Iyer",Patiala,Uttar Pradesh,Corporate,xbal@example.net
+175,"Pillay, Sibal and Dayal",Amritsar,Jharkhand,Corporate,hsrinivas@example.com
+176,Borah-Dass,Srinagar,Manipur,Wholesale,wvarughese@example.org
+177,"Gopal, Dayal and Sant",Amravati,Mizoram,Corporate,dakshagala@example.org
+178,Kar-Pal,Vijayawada,Himachal Pradesh,Retail,anvidass@example.net
+179,Walla-Chander,Guntakal,Odisha,Corporate,onveernazareth@example.net
+180,Balakrishnan Inc,Gangtok,Himachal Pradesh,Retail,omajabalasubramanian@example.com
+181,"Mann, Mittal and Subramanian",Machilipatnam,Jharkhand,Corporate,sbora@example.org
+182,Sarraf Group,Madhyamgram,Gujarat,Wholesale,maanas55@example.net
+183,Rastogi-De,Kottayam,Nagaland,Corporate,nagarwyatt@example.com
+184,Loke Group,Ajmer,Bihar,Corporate,mannanleena@example.net
+185,Kothari-Dutta,Gangtok,Telangana,Corporate,ranveer27@example.net
+186,Tara-Morar,Lucknow,Assam,Retail,dtiwari@example.org
+187,Pandit Inc,Ichalkaranji,Meghalaya,Retail,imangal@example.org
+188,Sankar and Sons,Ambarnath,Tripura,Wholesale,cpau@example.com
+189,Hayer LLC,Srinagar,Madhya Pradesh,Retail,nmammen@example.net
+190,"Dani, Dave and Chatterjee",Dindigul,Uttar Pradesh,Corporate,jasmit23@example.net
+191,"Ratti, Tella and Baria",Agra,Chhattisgarh,Corporate,urvi87@example.org
+192,"Varma, Dey and Narang",Ujjain,Madhya Pradesh,Retail,gayathri88@example.net
+193,Mistry-Soman,Arrah,Karnataka,Corporate,sahadarika@example.net
+194,"Bala, Som and Lanka",Faridabad,Odisha,Wholesale,hgarde@example.net
+195,"Rai, Divan and Kibe",Chapra,Tamil Nadu,Wholesale,halderanirudh@example.com
+196,Sahota-Doshi,Kurnool,Maharashtra,Retail,tbhatia@example.org
+197,"Johal, Nair and Sridhar",Satara,Goa,Retail,vwalia@example.net
+198,Lalla-Sule,Shahjahanpur,Himachal Pradesh,Wholesale,umang44@example.net
+199,Suresh LLC,Karnal,Nagaland,Wholesale,bhavna19@example.net
+200,"Raghavan, Rana and Pai",Ramagundam,Arunachal Pradesh,Retail,farhan57@example.net
+201,Srinivas-Kala,Siwan,Himachal Pradesh,Retail,laksh19@example.net
+202,"Khatri, Kibe and Bedi",Muzaffarpur,Arunachal Pradesh,Retail,sachdevganga@example.net
+203,Chaudhry-Devan,Jamalpur,Goa,Corporate,esoni@example.net
+204,Mani LLC,Allahabad,Tripura,Retail,katabaljiwan@example.org
+205,Goda-Bansal,Shimla,Goa,Retail,baljiwan04@example.net
+206,"Chhabra, Nayak and Mane",Tinsukia,Mizoram,Corporate,gdesai@example.com
+207,Hans-Chowdhury,Ujjain,Telangana,Wholesale,tkurian@example.org
+208,Nazareth LLC,Akola,Punjab,Retail,gsane@example.com
+209,Rattan Ltd,Udaipur,Chhattisgarh,Corporate,pnaik@example.org
+210,Rajagopal-Keer,Shimoga,Karnataka,Retail,advay45@example.net
+211,Bhatia Ltd,Kirari Suleman Nagar,Jharkhand,Retail,nidrathakkar@example.net
+212,Dalal-Merchant,Srikakulam,Haryana,Corporate,kiaansridhar@example.org
+213,Prakash-Sagar,Siwan,Uttar Pradesh,Wholesale,yugbumb@example.net
+214,Wable-Pathak,Phusro,Bihar,Corporate,tiwarisamaksh@example.net
+215,"Doctor, Gala and Narang",Bhiwandi,Sikkim,Retail,vrindachand@example.net
+216,Bhakta-Setty,Anand,Maharashtra,Wholesale,jbhardwaj@example.com
+217,"Morar, Bains and Randhawa",Delhi,Telangana,Corporate,elijahbath@example.com
+218,Bhatt-Bhasin,Chittoor,Arunachal Pradesh,Corporate,nilima22@example.net
+219,"Salvi, Prasad and Raja",Burhanpur,Madhya Pradesh,Wholesale,zachariakiaan@example.net
+220,Dani-Gokhale,Dehri,Chhattisgarh,Retail,aarushbajaj@example.com
+221,Samra-Wali,Berhampur,Haryana,Corporate,jpal@example.com
+222,Chowdhury Inc,Srikakulam,Tripura,Corporate,khoslasamuel@example.org
+223,Bandi Group,Sambalpur,Telangana,Corporate,rattireva@example.org
+224,"Kalla, Bhalla and Dey",Muzaffarpur,Uttarakhand,Retail,ekani34@example.org
+225,"Verma, Kant and Sachdev",Panipat,Arunachal Pradesh,Corporate,prishatandon@example.org
+226,Raj-Vohra,Erode,Maharashtra,Wholesale,charitapuri@example.org
+227,"Solanki, Khosla and Kar",Asansol,Uttar Pradesh,Wholesale,jbhardwaj@example.com
+228,Wagle-Desai,Latur,Himachal Pradesh,Corporate,gangabrar@example.com
+229,Chanda-Wason,Faridabad,Himachal Pradesh,Corporate,ebaral@example.org
+230,"Kalla, Srinivas and Joshi",Avadi,Andhra Pradesh,Wholesale,ranveerdalal@example.net
+231,Kibe-Jayaraman,Mathura,Nagaland,Wholesale,barkha67@example.net
+232,"Parmer, Morar and Lal",Anand,Meghalaya,Corporate,zchaudhari@example.net
+233,Nagarajan-Jani,Satara,Maharashtra,Wholesale,kantmadhav@example.org
+234,Sahni-Merchant,Thiruvananthapuram,Karnataka,Retail,ladlikorpal@example.com
+235,"Nazareth, Kurian and Suresh",Jaunpur,Goa,Retail,omkaar28@example.com
+236,Bhargava PLC,Aurangabad,Uttarakhand,Retail,ahujanitara@example.org
+237,"Kashyap, Bir and Dora",Bellary,Mizoram,Retail,dprakash@example.net
+238,"Subramanian, Sura and Babu",Katihar,Nagaland,Wholesale,barora@example.net
+239,"Maharaj, Wason and Mangat",Ambala,Uttarakhand,Retail,ggola@example.org
+240,"Dixit, Khosla and Handa",Raichur,Himachal Pradesh,Corporate,xbrar@example.com
+241,Kohli-Kara,Jodhpur,Rajasthan,Corporate,chandernidra@example.com
+242,Soni-Bhalla,Tirunelveli,Assam,Retail,psaraf@example.com
+243,"Chandran, Wable and Basak",Rajpur Sonarpur,West Bengal,Corporate,cmadan@example.org
+244,"Mand, Bali and Gola",Pune,Gujarat,Retail,mitalibose@example.com
+245,Khosla PLC,Panvel,Karnataka,Retail,ydey@example.net
+246,"Brar, Tella and Pal",Navi Mumbai,Maharashtra,Retail,faqidoak@example.net
+247,"Ranganathan, Narain and Balan",Hospet,Meghalaya,Corporate,ishaniprashad@example.com
+248,Rai Inc,Shahjahanpur,Tamil Nadu,Corporate,butalaamrita@example.org
+249,Dube-Ramachandran,Karimnagar,Bihar,Retail,ahluwaliadarika@example.com
+250,Madan-Chaudry,Chandigarh,Goa,Retail,jsen@example.net
+251,"Reddy, Chauhan and Bal",Raichur,Nagaland,Retail,nairlekha@example.org
+252,Sachdev-Rama,Karaikudi,Haryana,Retail,lajitagara@example.org
+253,Mitra-Loyal,Ulhasnagar,Assam,Wholesale,radhikamajumdar@example.com
+254,Sule-Bose,Chandrapur,Haryana,Retail,dhayre@example.org
+255,Modi Inc,Thoothukudi,Uttarakhand,Corporate,cnarayan@example.com
+256,Deshpande-Mital,Madanapalle,Tamil Nadu,Retail,varenyamurthy@example.org
+257,Nagar-Manne,Ramgarh,Uttar Pradesh,Wholesale,eshanapuri@example.com
+258,Patla-Comar,Guntakal,Nagaland,Corporate,avishenoy@example.net
+259,Sarma LLC,Alappuzha,Sikkim,Wholesale,odewan@example.com
+260,Krishnan Ltd,Bhusawal,Uttar Pradesh,Retail,cborah@example.net
+261,Rattan-Warrior,Tinsukia,Arunachal Pradesh,Corporate,frederick13@example.net
+262,"Pant, Ganesan and Basu",Bathinda,Uttar Pradesh,Retail,acherian@example.org
+263,Kapadia-Uppal,Amroha,Kerala,Corporate,xsheth@example.net
+264,"Tella, Dora and Pai",Karawal Nagar,Bihar,Corporate,ojasvi11@example.net
+265,Pall LLC,Sirsa,Uttar Pradesh,Corporate,vasudhapall@example.com
+266,Sarma Ltd,Imphal,Assam,Wholesale,chaitanya10@example.com
+267,"Chopra, Gala and Kohli",Suryapet,Goa,Retail,pooja73@example.com
+268,"Gour, Grewal and Sankaran",Bhopal,Telangana,Wholesale,shivanisanghvi@example.com
+269,Kala and Sons,Rajkot,Odisha,Wholesale,yadavrachit@example.com
+270,Hegde-Shankar,Firozabad,Sikkim,Retail,owable@example.com
+271,"Rama, Ramanathan and Comar",Nagercoil,West Bengal,Retail,rgera@example.net
+272,Chad-Desai,Kochi,Haryana,Retail,jackson25@example.net
+273,Vaidya Group,Kavali,Chhattisgarh,Corporate,lsampath@example.com
+274,"Yogi, Ghose and Ganesan",Tumkur,Chhattisgarh,Wholesale,divyaseshadri@example.net
+275,Parmer Inc,Bhavnagar,Gujarat,Wholesale,ptiwari@example.com
+276,Swamy-Sagar,Unnao,Goa,Wholesale,balasubramanianthomas@example.com
+277,Maharaj and Sons,Gulbarga,Tripura,Wholesale,jtandon@example.net
+278,Comar LLC,Hosur,Uttarakhand,Wholesale,sastrytejas@example.com
+279,Kota LLC,Hospet,Himachal Pradesh,Corporate,gagan71@example.org
+280,Panchal Ltd,Dehradun,Punjab,Retail,samueljhaveri@example.org
+281,"Panchal, Walia and Mand",North Dumdum,Tamil Nadu,Corporate,bimala94@example.net
+282,"Chandran, Deshmukh and Sabharwal",Bally,West Bengal,Corporate,kevinkrish@example.org
+283,"Nagy, Kota and Ramaswamy",Ajmer,Odisha,Corporate,oeshi67@example.org
+284,"Chander, Rau and Varma",Arrah,Manipur,Retail,lnarang@example.org
+285,"Chander, Shanker and Parmar",Deoghar,Madhya Pradesh,Retail,pushtikakar@example.com
+286,Naidu-Mander,Motihari,Odisha,Wholesale,vedhikaoza@example.net
+287,Batra Inc,Pune,Bihar,Corporate,ridhishan@example.org
+288,Jain-Deo,Kozhikode,West Bengal,Wholesale,girik54@example.org
+289,Gandhi-Ben,Farrukhabad,Telangana,Retail,pushtichand@example.net
+290,Agarwal and Sons,Solapur,Chhattisgarh,Retail,zilmilsaxena@example.org
+291,Oza Inc,Mira-Bhayandar,Meghalaya,Retail,karnikleela@example.org
+292,"Chaudry, Chauhan and Munshi",Dewas,Chhattisgarh,Retail,pdeol@example.net
+293,Biswas PLC,Phagwara,Rajasthan,Corporate,riapanchal@example.net
+294,Doshi Group,Bellary,Assam,Wholesale,deyjatin@example.net
+295,"Rajagopalan, Panchal and Sanghvi",Kolhapur,Haryana,Retail,frado38@example.net
+296,"Mane, Bala and Mitra",Kadapa,Punjab,Wholesale,manyamerchant@example.net
+297,Khatri Group,Gorakhpur,Haryana,Retail,hbobal@example.org
+298,Nadig-Deo,Jehanabad,Maharashtra,Wholesale,orinder71@example.org
+299,"Bir, Atwal and Lala",Thane,Arunachal Pradesh,Wholesale,stoor@example.net
+300,"Thaker, Sagar and Sampath",Gwalior,Rajasthan,Retail,arunimachacko@example.com
+301,Vaidya and Sons,Jorhat,Karnataka,Retail,tbhatti@example.net
+302,Khare-Bhardwaj,Chandigarh,Maharashtra,Wholesale,settychristopher@example.com
+303,"Gill, Dar and Arora",Hyderabad,Goa,Corporate,hpalan@example.net
+304,"Lad, Ganesan and Prabhu",Agartala,Telangana,Retail,balangautami@example.com
+305,Viswanathan-Bhatt,Gangtok,Rajasthan,Retail,tanejatamanna@example.net
+306,Bhakta-Tata,Arrah,Goa,Corporate,harshil91@example.org
+307,"Upadhyay, Agate and Basu",Sambalpur,Arunachal Pradesh,Corporate,ypatla@example.org
+308,Banik PLC,Rajahmundry,Karnataka,Retail,omajanagarajan@example.com
+309,Pradhan Inc,Mangalore,Haryana,Retail,rattanekapad@example.com
+310,Mukhopadhyay-Narang,Begusarai,Manipur,Retail,pillaysai@example.com
+311,"Modi, Kibe and Shetty",Gudivada,Meghalaya,Retail,yatandora@example.org
+312,Bajwa-Kaul,Bangalore,Karnataka,Wholesale,puridamyanti@example.org
+313,Wagle and Sons,Pallavaram,Arunachal Pradesh,Wholesale,atichander@example.org
+314,Venkatesh Group,Berhampore,Telangana,Wholesale,chandranyashasvi@example.org
+315,"Ramesh, Borde and Bhatia",Bikaner,Haryana,Retail,advika56@example.net
+316,"Narain, Nadkarni and Sethi",Muzaffarpur,Assam,Wholesale,labanchopra@example.org
+317,Gala Group,Satara,Maharashtra,Retail,wasonishita@example.org
+318,Morar-Sheth,Jamshedpur,Assam,Retail,dakshabaria@example.org
+319,Divan-Chand,Raurkela Industrial Township,Madhya Pradesh,Wholesale,mistryabha@example.org
+320,Ravel Group,Bareilly,Manipur,Retail,deyjairaj@example.org
+321,Kapadia and Sons,Rewa,Kerala,Wholesale,ladfalan@example.org
+322,Hora Ltd,Warangal,Assam,Wholesale,jason07@example.org
+323,Sant Ltd,Mehsana,Andhra Pradesh,Wholesale,lsandhu@example.com
+324,Grover LLC,Amroha,Chhattisgarh,Wholesale,korpalchakrika@example.com
+325,Srinivas-Bhat,Parbhani,Madhya Pradesh,Wholesale,oniiyengar@example.net
+326,"Krish, Bahl and Raja",Nangloi Jat,Nagaland,Corporate,kpadmanabhan@example.net
+327,Rama-Madan,Indore,Karnataka,Corporate,ayushmanmand@example.org
+328,Wagle-Parmar,Kozhikode,Bihar,Corporate,wrideshlata@example.net
+329,"Bhalla, Kanda and Rama",Malegaon,Goa,Corporate,eeshaparmer@example.net
+330,Pandey PLC,Phusro,Gujarat,Corporate,lmore@example.com
+331,Chana Inc,Madanapalle,Haryana,Wholesale,vyasvanya@example.org
+332,Jaggi-De,Belgaum,Uttar Pradesh,Retail,daniel02@example.net
+333,"Dhar, Choudhry and Vora",Srinagar,Kerala,Retail,vchaudhuri@example.com
+334,Deshpande-Dugar,Morbi,Rajasthan,Wholesale,owen89@example.com
+335,Gill Group,Durg,Chhattisgarh,Retail,aaravraman@example.net
+336,Gopal PLC,Pudukkottai,Haryana,Retail,tanejalohit@example.com
+337,"Brahmbhatt, Khanna and Palan",Rourkela,Rajasthan,Corporate,nayaksanya@example.org
+338,Kadakia-Krish,Etawah,Himachal Pradesh,Corporate,agarwalchanakya@example.com
+339,Saini-Ganesan,Kumbakonam,Madhya Pradesh,Corporate,keya17@example.net
+340,"Kar, Gaba and Seth",Visakhapatnam,Jharkhand,Retail,nagaradvika@example.org
+341,Oommen and Sons,Nanded,Telangana,Corporate,chanderhamsini@example.net
+342,"Subramanian, Balasubramanian and Sankar",Medininagar,Maharashtra,Wholesale,chatreshchaudhuri@example.com
+343,Gupta Group,Ichalkaranji,Jharkhand,Retail,gopalbawa@example.com
+344,"Swaminathan, Dube and Bhagat",Delhi,Maharashtra,Retail,menonvarsha@example.org
+345,Bal and Sons,Jalna,Assam,Corporate,tdalia@example.com
+346,Suresh-Lanka,Tinsukia,Madhya Pradesh,Wholesale,kamalaraj@example.com
+347,Sehgal Inc,Gandhidham,Manipur,Corporate,upkaar49@example.org
+348,Chatterjee Inc,Hosur,Maharashtra,Corporate,darshram@example.net
+349,Wason-Soman,Fatehpur,Jharkhand,Retail,ranabakhshi@example.net
+350,"Varughese, Din and Dara",Malegaon,Goa,Retail,reyanshdate@example.org
+351,Brar-Saran,Siliguri,Uttarakhand,Corporate,ekaja11@example.com
+352,"Ranganathan, Nanda and Majumdar",Ahmedabad,Uttar Pradesh,Retail,achowdhury@example.org
+353,Chaudhry Inc,Baranagar,West Bengal,Retail,nirja46@example.net
+354,Solanki-Barad,Bally,Madhya Pradesh,Retail,neelimabarad@example.com
+355,Khanna-Bawa,Agartala,Kerala,Corporate,nazarethchavvi@example.com
+356,Swamy-Chaudhari,Guntur,Jharkhand,Retail,rnagi@example.net
+357,Chakraborty-Guha,Rajpur Sonarpur,Uttarakhand,Corporate,wsundaram@example.net
+358,Bhalla-Varma,Amritsar,Jharkhand,Retail,xdeshmukh@example.net
+359,"Balakrishnan, Ghose and Hans",Howrah,Haryana,Wholesale,shanchandresh@example.com
+360,"Issac, Mahal and Pillay",Dibrugarh,Madhya Pradesh,Retail,balasubramanianwyatt@example.com
+361,Sehgal-Goel,Dharmavaram,Nagaland,Corporate,hemangini24@example.net
+362,"Chana, Mane and Bala",Dhanbad,Goa,Retail,timothykar@example.net
+363,Luthra Ltd,Anand,Andhra Pradesh,Corporate,somkevin@example.net
+364,Anand and Sons,Narasaraopet,Uttar Pradesh,Corporate,anvi66@example.com
+365,Krishnan-Kamdar,Barasat,Sikkim,Retail,achaudry@example.net
+366,"Prasad, Mandal and Misra",Ongole,Assam,Corporate,aradhana54@example.com
+367,"Misra, Guha and Doctor",Howrah,Uttar Pradesh,Retail,rnagarajan@example.org
+368,"Bal, Tank and Merchant",Gurgaon,Madhya Pradesh,Wholesale,lbanik@example.net
+369,"Gupta, Oza and Kapadia",Secunderabad,Mizoram,Corporate,onkar82@example.com
+370,Sinha and Sons,Karaikudi,Tripura,Corporate,gautamichakraborty@example.org
+371,Kapoor-Mohanty,Bathinda,Kerala,Corporate,chaitaly71@example.com
+372,Bobal Group,Orai,Bihar,Corporate,twagle@example.com
+373,Dora and Sons,Tiruvottiyur,Maharashtra,Wholesale,udhar@example.net
+374,Buch Group,Belgaum,Karnataka,Wholesale,agrawalsiya@example.com
+375,Ganguly PLC,Unnao,Uttar Pradesh,Retail,dayalradha@example.net
+376,Raval-Sanghvi,Yamunanagar,Andhra Pradesh,Corporate,wallaryan@example.net
+377,Atwal-Nagy,Surat,Sikkim,Corporate,kothariupkaar@example.net
+378,Muni-Dayal,Yamunanagar,Mizoram,Wholesale,oliver10@example.com
+379,Shah-Venkatesh,Raebareli,Sikkim,Retail,hemasuri@example.com
+380,Gala Group,Ambattur,Haryana,Wholesale,siddharthbains@example.net
+381,"Gara, Dasgupta and Peri",Gandhinagar,Rajasthan,Wholesale,chanakya90@example.net
+382,Bahri Inc,Erode,Manipur,Retail,jdasgupta@example.com
+383,Dua-Jha,Barasat,Maharashtra,Corporate,venkateshanamika@example.net
+384,"Devan, Sahota and Cheema",Ichalkaranji,Bihar,Corporate,tankrushil@example.net
+385,Lall PLC,Secunderabad,Tamil Nadu,Wholesale,kmerchant@example.org
+386,"Taneja, Johal and Srivastava",Noida,Andhra Pradesh,Wholesale,chakrabortyindrajit@example.net
+387,"Tak, Dixit and Chana",Salem,Himachal Pradesh,Wholesale,tanmayiminhas@example.com
+388,Bedi-Chaudhry,Thane,West Bengal,Retail,jagvi56@example.net
+389,Chandran Inc,Durgapur,Sikkim,Retail,falguniparmar@example.com
+390,"Loyal, Chander and Pradhan",South Dumdum,Bihar,Wholesale,dratta@example.com
+391,Sridhar-Sama,Gorakhpur,Chhattisgarh,Corporate,duttahemang@example.com
+392,"Subramanian, Sarma and Golla",Secunderabad,Punjab,Corporate,devasudha@example.com
+393,Sabharwal Group,Rajkot,Himachal Pradesh,Retail,advik89@example.net
+394,"Kapur, Nigam and Venkataraman",Bhiwani,Sikkim,Retail,vasatikapal@example.net
+395,"Rajan, Dixit and Bhagat",Sangli-Miraj & Kupwad,Mizoram,Corporate,ktandon@example.org
+396,Nagi-Khosla,Alwar,Arunachal Pradesh,Retail,kritikarau@example.org
+397,Sharaf Group,Hubli–Dharwad,West Bengal,Corporate,usekhon@example.org
+398,Badami-Chauhan,Haridwar,Arunachal Pradesh,Wholesale,chanddaksha@example.net
+399,"Jhaveri, Shan and Om",Meerut,Uttarakhand,Retail,suhaninarula@example.net
+400,"Solanki, Patla and Sethi",Jalandhar,Tripura,Wholesale,aarnavom@example.com
+401,"Manne, Vig and Prakash",Ranchi,Goa,Retail,tdey@example.net
+402,"Rout, Chhabra and Kumar",Maheshtala,Bihar,Retail,dkale@example.org
+403,"Nigam, Chokshi and Sachdeva",Giridih,Bihar,Wholesale,qshankar@example.net
+404,"Desai, Tara and Agrawal",Begusarai,Maharashtra,Wholesale,xtrivedi@example.org
+405,"Ghose, Dave and Chawla",Ghaziabad,Punjab,Retail,yamini66@example.net
+406,"Kothari, Mahal and Rao",Durg,Manipur,Wholesale,lakshitsachar@example.net
+407,"Vala, Mistry and Murthy",Kollam,Gujarat,Corporate,hemani22@example.net
+408,"Naidu, D’Alia and Pandey",Ballia,Odisha,Corporate,swalla@example.com
+409,Virk Inc,Eluru,Chhattisgarh,Wholesale,bhallaryan@example.com
+410,Mangat Ltd,Ulhasnagar,Uttarakhand,Corporate,merchantsamar@example.net
+411,Parmer Group,Tadepalligudem,West Bengal,Corporate,lopakhanna@example.net
+412,"Mani, Batta and Raj",Erode,Uttar Pradesh,Corporate,chatura04@example.org
+413,"Savant, Kar and Pillai",Jammu,Jharkhand,Retail,rgoel@example.org
+414,Ghose Ltd,Burhanpur,Arunachal Pradesh,Corporate,jmallick@example.com
+415,Dyal PLC,Kolkata,Karnataka,Corporate,cdubey@example.org
+416,Behl-Mitra,Chapra,Nagaland,Wholesale,elijah58@example.org
+417,Verma Inc,Vijayanagaram,Nagaland,Corporate,wchanda@example.org
+418,Narula LLC,Durg,Gujarat,Retail,handra@example.net
+419,Sehgal-Khosla,Thane,Sikkim,Retail,lakshmi16@example.com
+420,"Mandal, Bakshi and Varughese",Kottayam,Uttar Pradesh,Wholesale,csur@example.com
+421,"Hans, Nagi and Varkey",Jalandhar,Goa,Retail,bhattishivansh@example.net
+422,"Kala, Samra and Chawla",Siwan,Uttarakhand,Retail,vbora@example.net
+423,Bajwa Group,Agra,Assam,Corporate,bhagatpranav@example.com
+424,"Bobal, Kari and Kuruvilla",Munger,Manipur,Corporate,usant@example.org
+425,Dani-Warrior,Tadipatri,Assam,Retail,boraishita@example.net
+426,Mann Ltd,Medininagar,Assam,Wholesale,raksha66@example.net
+427,Som and Sons,Bhavnagar,Telangana,Wholesale,omerchant@example.org
+428,Prakash-Apte,Amravati,Arunachal Pradesh,Corporate,rameshfrederick@example.com
+429,Padmanabhan and Sons,Anand,Chhattisgarh,Retail,qarinkant@example.net
+430,Hari-Contractor,Tezpur,West Bengal,Corporate,shenoyelijah@example.com
+431,"Bhavsar, Krishna and Chaudhari",Amaravati,Meghalaya,Wholesale,ishanvi23@example.org
+432,Boase-Hari,Shivpuri,Manipur,Retail,damini92@example.net
+433,"Patla, Mutti and Sangha",Kolkata,Karnataka,Corporate,timothysarin@example.com
+434,Desai-Narula,Surendranagar Dudhrej,Manipur,Corporate,dalaja78@example.org
+435,Bumb LLC,Siwan,Gujarat,Wholesale,faraj10@example.net
+436,"Balasubramanian, Ravel and Kala",Suryapet,Himachal Pradesh,Corporate,xdixit@example.com
+437,Mannan and Sons,Orai,Mizoram,Wholesale,ranganathanjanuja@example.net
+438,Khare PLC,Kottayam,Chhattisgarh,Wholesale,ldutta@example.net
+439,"Dhingra, Sule and Parmer",Muzaffarnagar,Tripura,Retail,ekata@example.com
+440,Kaur-Basak,Kadapa,Uttar Pradesh,Retail,lipika77@example.org
+441,Naik Inc,Firozabad,Odisha,Corporate,krisharadhakrishnan@example.com
+442,"Brahmbhatt, Varughese and Krishnamurthy",Rajahmundry,Mizoram,Wholesale,wpandit@example.com
+443,Ahuja-Thaker,Gandhidham,Goa,Wholesale,farajvarkey@example.net
+444,Kakar-Doctor,Sangli-Miraj & Kupwad,Kerala,Retail,karpeoeshi@example.com
+445,"Comar, Subramaniam and Srinivas",Bhagalpur,Odisha,Retail,nirjabains@example.org
+446,Datta PLC,Guntur,Rajasthan,Wholesale,dindaksh@example.org
+447,Gole-Varughese,Khora ,Odisha,Retail,manderfrederick@example.org
+448,Sinha-Subramaniam,Muzaffarnagar,Uttarakhand,Corporate,ydhar@example.net
+449,Vaidya LLC,Tiruvottiyur,Manipur,Wholesale,karpekritika@example.com
+450,Chopra Inc,Nagaon,West Bengal,Retail,mdoctor@example.org
+451,Soni PLC,Katihar,Mizoram,Corporate,chandervasatika@example.net
+452,Zacharia Inc,Nagaon,Maharashtra,Wholesale,caleb86@example.org
+453,Raj-Palla,Khandwa,Chhattisgarh,Corporate,vansha31@example.com
+454,"Rege, Kurian and Gulati",Chennai,Odisha,Corporate,venkateshabhimanyu@example.com
+455,"Jha, Mutti and Rege",Aligarh,Chhattisgarh,Wholesale,qkulkarni@example.net
+456,Pau-Majumdar,Kurnool,Maharashtra,Corporate,xgola@example.net
+457,"Sule, Kulkarni and Mohanty",Sikar,Telangana,Retail,jagatkarpe@example.com
+458,"Edwin, Chaudhry and Kala",Sonipat,Uttar Pradesh,Retail,dyallopa@example.net
+459,Chand and Sons,Ghaziabad,Maharashtra,Retail,bhattadya@example.org
+460,Buch-Barad,Rewa,Punjab,Corporate,dakshesh27@example.com
+461,Jaggi Ltd,Jammu,Arunachal Pradesh,Retail,omkaarbanik@example.com
+462,Acharya and Sons,Bally,Tripura,Corporate,qpandit@example.com
+463,Iyer-Vasa,Coimbatore,Assam,Retail,ijaya54@example.org
+464,"Hayer, Sha and Raval",Bhilwara,Goa,Wholesale,gtoor@example.net
+465,Thakur LLC,Bhiwandi,Uttar Pradesh,Corporate,zashil76@example.net
+466,Kohli-Nori,Jaunpur,Odisha,Corporate,subramaniamjackson@example.com
+467,Raja Ltd,Berhampur,Uttar Pradesh,Retail,nitara58@example.net
+468,Lall and Sons,Tiruchirappalli,Madhya Pradesh,Wholesale,faqid82@example.com
+469,Pandya-Kamdar,South Dumdum,Telangana,Retail,wishiiyengar@example.org
+470,"Khurana, Lanka and Jhaveri",Panihati,Uttarakhand,Retail,ishanidugal@example.org
+471,Brar Ltd,Srikakulam,Andhra Pradesh,Wholesale,subramaniamkamya@example.net
+472,Tailor-Maharaj,South Dumdum,Tripura,Wholesale,mitali39@example.org
+473,Vora Group,Panvel,Arunachal Pradesh,Retail,meera27@example.org
+474,"Vasa, Sharma and Mutti",Ahmedabad,Sikkim,Wholesale,ladlichaudhuri@example.com
+475,Lad-Grover,Patiala,Himachal Pradesh,Retail,xoza@example.org
+476,Samra-Kade,Serampore,Kerala,Corporate,cmammen@example.org
+477,"Deep, Karnik and Chaudhry",Noida,Nagaland,Retail,mraj@example.org
+478,"Doctor, Solanki and Andra",Bidar,Meghalaya,Corporate,zansiwalla@example.net
+479,Sur-Mital,Kishanganj,West Bengal,Retail,raohardik@example.net
+480,Bhasin and Sons,Fatehpur,Uttarakhand,Wholesale,senguptagaurika@example.com
+481,Parsa-Kurian,Jaipur,Maharashtra,Corporate,panchalrushil@example.net
+482,"Yohannan, Ghosh and Mane",Anantapur,Sikkim,Wholesale,fsekhon@example.com
+483,"Mangat, Sheth and Dhillon",Naihati,Maharashtra,Corporate,fbora@example.org
+484,Kari-Murthy,Jalna,Tamil Nadu,Corporate,megha47@example.com
+485,"Verma, Seshadri and Sachdev",Udaipur,West Bengal,Retail,dasswahab@example.net
+486,Buch-Kade,Sikar,Bihar,Retail,bhatturvashi@example.net
+487,Bal Group,Vasai-Virar,Himachal Pradesh,Retail,fradoramakrishnan@example.com
+488,Kota Ltd,Mango,Rajasthan,Retail,karanvyas@example.org
+489,Banerjee Ltd,Anantapur,West Bengal,Wholesale,isibal@example.com
+490,"Saxena, Deshmukh and Zacharia",Gudivada,Punjab,Retail,hsaran@example.net
+491,"Walla, Mukherjee and Palan",Panvel,Haryana,Retail,sathedarika@example.com
+492,Lad-Dugal,Hyderabad,Andhra Pradesh,Corporate,hemanginimangat@example.com
+493,"Anand, Swamy and Sood",Bangalore,Tripura,Wholesale,mmaster@example.org
+494,Prakash and Sons,Kishanganj,Maharashtra,Wholesale,kkrish@example.net
+495,"Ramakrishnan, Radhakrishnan and Kannan",Vijayawada,Maharashtra,Corporate,zansimagar@example.com
+496,"Wali, Luthra and Sachar",Coimbatore,Goa,Corporate,bimalachoudhry@example.net
+497,Sethi-Magar,Maheshtala,Karnataka,Retail,doshichandran@example.net
+498,Grewal Inc,Agartala,Chhattisgarh,Wholesale,oanand@example.org
+499,Aurora Group,Tiruvottiyur,Maharashtra,Retail,wishi57@example.net
+500,Narayanan Inc,Pimpri-Chinchwad,Himachal Pradesh,Corporate,ibora@example.com
+501,Handa LLC,Ahmedabad,Bihar,Retail,lekhasavant@example.org
+502,"Bandi, Issac and Sharma",Saharsa,Sikkim,Wholesale,urvashiramachandran@example.net
+503,Naidu-Dutt,Jamalpur,Mizoram,Retail,kulkarnivasana@example.net
+504,Issac-Patel,Bellary,Bihar,Wholesale,radhanair@example.org
+505,Majumdar PLC,Tenali,Uttar Pradesh,Retail,adityabasak@example.net
+506,"Soman, Dubey and Prabhu",Kulti,Goa,Retail,rchand@example.net
+507,Bhasin-Bhasin,Jamnagar,Tamil Nadu,Wholesale,dassvinaya@example.org
+508,Palan-Sarna,Jaipur,Tamil Nadu,Wholesale,uparmar@example.org
+509,Baral-Sundaram,Karaikudi,Jharkhand,Wholesale,kgupta@example.org
+510,"Pall, Naik and Sidhu",Khora ,West Bengal,Retail,ekapadwali@example.org
+511,Merchant-Lall,Malda,Andhra Pradesh,Retail,bgoyal@example.net
+512,Khare-Nagi,Siwan,Uttarakhand,Retail,hgupta@example.net
+513,Dube-Mandal,Alappuzha,Rajasthan,Corporate,indrajit18@example.net
+514,Bassi and Sons,Patna,Gujarat,Retail,sunderrehaan@example.org
+515,Rama Ltd,Hajipur,Punjab,Wholesale,chandran53@example.net
+516,"Bobal, Arya and Joshi",Vijayawada,Manipur,Wholesale,patelojasvi@example.com
+517,"Bhardwaj, Lata and Wadhwa",Madurai,Uttarakhand,Wholesale,faras38@example.org
+518,Kashyap PLC,Jhansi,Gujarat,Retail,praneelsagar@example.net
+519,Parmar Ltd,Purnia,Bihar,Wholesale,pranitratti@example.net
+520,Dugar-Walla,Nagercoil,Karnataka,Wholesale,kamya66@example.net
+521,Khosla-Kala,Jamalpur,Telangana,Corporate,jagvi77@example.com
+522,Banerjee LLC,Kadapa,Chhattisgarh,Corporate,abeer43@example.org
+523,Bains-Majumdar,Bareilly,Arunachal Pradesh,Wholesale,jparekh@example.org
+524,Peri-Krish,Bardhaman,Uttar Pradesh,Corporate,george96@example.net
+525,Brahmbhatt Ltd,Karawal Nagar,Goa,Corporate,mchandran@example.net
+526,Barad-Raj,Pimpri-Chinchwad,Tripura,Wholesale,ijaya66@example.org
+527,Apte Ltd,Meerut,Jharkhand,Retail,nagarmason@example.com
+528,"Kant, Dua and Bedi",Amroha,Tripura,Retail,kapadiarachana@example.com
+529,Divan-Deo,Gwalior,Meghalaya,Wholesale,rastogiadweta@example.org
+530,Thaker-Saraf,Bhavnagar,Meghalaya,Retail,vinayarana@example.net
+531,"Hayre, Viswanathan and Koshy",Madurai,Himachal Pradesh,Corporate,rnaik@example.net
+532,Chowdhury Ltd,Bhusawal,Kerala,Wholesale,rayaan55@example.net
+533,"Bajwa, Mody and Gara",Tadepalligudem,Uttarakhand,Retail,cdhingra@example.org
+534,Iyengar Ltd,Bhatpara,Tripura,Retail,chowdhurychatura@example.org
+535,"Divan, Mani and Atwal",Bhubaneswar,Jharkhand,Corporate,bsinha@example.com
+536,Yogi and Sons,Bongaigaon,Mizoram,Wholesale,vasudha92@example.net
+537,"Badami, Puri and Vyas",Rohtak,Goa,Wholesale,mandersai@example.net
+538,"Madan, Bera and Shroff",Jabalpur,Madhya Pradesh,Corporate,jagvi10@example.com
+539,"Raju, Kashyap and Rai",Satna,Meghalaya,Wholesale,grewalrushil@example.net
+540,Bains-Baral,Bettiah,Jharkhand,Wholesale,vrishti62@example.org
+541,Pandey-Pant,Noida,Mizoram,Corporate,david46@example.org
+542,"Mammen, Kar and Doshi",Singrauli,Sikkim,Corporate,gaganraja@example.net
+543,"Karan, Sahni and Khosla",Purnia,Jharkhand,Retail,saumya82@example.org
+544,"Devi, Jain and Devi",Loni,Chhattisgarh,Wholesale,pdhillon@example.net
+545,Nadkarni Inc,Udaipur,Karnataka,Corporate,ayushmannagar@example.com
+546,Mitter-Savant,Saharanpur,Tripura,Retail,hredhaandeep@example.org
+547,Loke PLC,Kavali,Haryana,Wholesale,atharvparmer@example.org
+548,"Sood, Desai and Thakkar",Dindigul,Goa,Retail,eswamy@example.org
+549,Hans and Sons,Alappuzha,Tripura,Corporate,madannitara@example.org
+550,"Jain, Jayaraman and Bhatti",Bahraich,West Bengal,Wholesale,dnair@example.org
+551,Ravel-Barman,Satara,Madhya Pradesh,Retail,vermaikbal@example.com
+552,Basak-Korpal,Thane,Nagaland,Corporate,wvarty@example.net
+553,Gupta LLC,Sikar,Jharkhand,Corporate,triya26@example.com
+554,"Bhagat, Varughese and Dhar",Bidhannagar,Assam,Corporate,golekrishna@example.com
+555,Naik-Seshadri,Mangalore,Manipur,Corporate,suhanichana@example.com
+556,Gade-Dasgupta,Raipur,Tamil Nadu,Corporate,fpatil@example.net
+557,"Rajagopalan, Vaidya and Dutta",Jamalpur,Madhya Pradesh,Corporate,gardegautami@example.net
+558,"Doctor, Gaba and Dhillon",Faridabad,Maharashtra,Corporate,dayamai74@example.net
+559,Dalal and Sons,Delhi,Punjab,Retail,advik77@example.com
+560,"Ahluwalia, Tak and Khanna",Giridih,Sikkim,Wholesale,asetty@example.com
+561,Ahuja and Sons,Udupi,Rajasthan,Wholesale,chandrangoyal@example.org
+562,Palla Inc,Patna,Sikkim,Retail,garima10@example.org
+563,Gokhale-Edwin,Phagwara,Sikkim,Corporate,tamannaparsa@example.org
+564,Mistry LLC,Nadiad,Uttarakhand,Wholesale,sanedhruv@example.com
+565,Desai-Dara,Ozhukarai,Mizoram,Corporate,nvohra@example.net
+566,Bhardwaj Inc,Karawal Nagar,Telangana,Wholesale,prisha95@example.com
+567,"Pandya, Dayal and Taneja",Kumbakonam,Uttar Pradesh,Corporate,virajmannan@example.org
+568,Dani Inc,Kochi,Telangana,Retail,oeshisachdev@example.org
+569,Palla-Kala,Panihati,Tamil Nadu,Corporate,aachal14@example.com
+570,"Naik, Ahuja and Comar",Mau,Madhya Pradesh,Wholesale,gillrishi@example.com
+571,Srinivas-Som,Bhavnagar,Meghalaya,Corporate,triveniyadav@example.com
+572,Sachdev-Bhalla,Buxar,Telangana,Wholesale,anirudh39@example.net
+573,Pandya-Bhatti,Parbhani,Uttarakhand,Corporate,norikeya@example.net
+574,"Gandhi, Ramachandran and Grover",Aizawl,Tamil Nadu,Wholesale,azad46@example.org
+575,Khanna-Prabhu,Barasat,Gujarat,Wholesale,parth15@example.org
+576,Chanda Group,Karawal Nagar,Mizoram,Wholesale,ranveeroak@example.com
+577,"Viswanathan, Mukherjee and Narang",Navi Mumbai,Uttarakhand,Corporate,sameshbansal@example.com
+578,Vig-D’Alia,Bijapur,Arunachal Pradesh,Wholesale,nathunni@example.org
+579,Verma Ltd,Lucknow,Odisha,Corporate,shaurya53@example.org
+580,Malhotra-Walia,Gandhidham,Sikkim,Retail,mahajanmanthan@example.org
+581,Contractor-Aurora,Tiruppur,Nagaland,Retail,eiravati42@example.net
+582,Konda-Garg,Bijapur,Punjab,Wholesale,sachi02@example.org
+583,Bedi-Cherian,Meerut,Assam,Corporate,lramanathan@example.net
+584,"Sehgal, Parekh and Muni",Davanagere,Tamil Nadu,Wholesale,shroffkaran@example.org
+585,"Sidhu, Chatterjee and Shah",Kirari Suleman Nagar,Meghalaya,Corporate,udarshdhawan@example.net
+586,Patla-Ramanathan,Bathinda,Uttar Pradesh,Corporate,sudiksha70@example.org
+587,Chowdhury-Panchal,Surendranagar Dudhrej,West Bengal,Retail,barkhapall@example.net
+588,"Datta, Trivedi and Chauhan",Aligarh,Karnataka,Corporate,mittaltriya@example.com
+589,"Sachdev, Khare and Kohli",Ongole,Madhya Pradesh,Corporate,oaksathvik@example.net
+590,"Sankar, Saran and Oommen",Malegaon,Sikkim,Wholesale,surishwar@example.net
+591,"Sheth, Nanda and Chatterjee",Belgaum,Jharkhand,Wholesale,mboase@example.org
+592,"Raghavan, Narang and Talwar",Mysore,Gujarat,Corporate,aadidin@example.net
+593,Sethi PLC,Pali,Punjab,Retail,nhayre@example.net
+594,Mistry-Modi,Hapur,Assam,Wholesale,uppalnetra@example.org
+595,Bhatia-Pingle,Mumbai,Tamil Nadu,Wholesale,imaran40@example.org
+596,Ramesh-Nadkarni,Machilipatnam,Madhya Pradesh,Retail,qkakar@example.org
+597,Dewan-Guha,Karimnagar,Uttarakhand,Wholesale,sdube@example.net
+598,Desai Inc,Pune,Chhattisgarh,Corporate,isarkar@example.org
+599,Sagar Group,Bokaro,Manipur,Corporate,ysengupta@example.com
+600,Grewal Group,Gangtok,Meghalaya,Corporate,yachanaluthra@example.com
+601,"Peri, Bandi and Barad",Arrah,Bihar,Wholesale,jbuch@example.net
+602,"Vyas, Mammen and Shroff",Nagaon,Punjab,Wholesale,korpalurmi@example.net
+603,"Brahmbhatt, Zacharia and Muni",Tiruvottiyur,Nagaland,Wholesale,singhsudiksha@example.net
+604,Narula-Sama,Durg,Jharkhand,Wholesale,balendramodi@example.net
+605,"Lad, Bhat and Solanki",Chapra,Arunachal Pradesh,Corporate,avi47@example.org
+606,Tiwari Inc,Nizamabad,Chhattisgarh,Retail,anvi40@example.net
+607,Ghosh PLC,Amroha,Kerala,Corporate,advikakeer@example.com
+608,Wable Inc,Guwahati,Chhattisgarh,Wholesale,warhisachar@example.com
+609,Sarraf Ltd,Bhagalpur,Odisha,Corporate,chatura41@example.org
+610,Shetty Group,Barasat,Meghalaya,Retail,ladliramakrishnan@example.com
+611,Dhillon-Wali,Ahmedabad,Jharkhand,Corporate,rraja@example.com
+612,"Barman, Chatterjee and Wali",Bhiwani,Punjab,Retail,gautami44@example.org
+613,Raman-Shenoy,Giridih,Tripura,Wholesale,zinalnazareth@example.net
+614,"Gole, Munshi and Anne",Jabalpur,Andhra Pradesh,Corporate,hchaudhari@example.org
+615,"Sehgal, Panchal and Kanda",Chandrapur,Gujarat,Corporate,bajwageorge@example.org
+616,"Kalla, Dara and Dar",Mahbubnagar,Chhattisgarh,Corporate,hgoyal@example.net
+617,Kulkarni LLC,Aurangabad,Rajasthan,Corporate,xmalhotra@example.com
+618,"Naik, Kurian and Edwin",Bally,Tripura,Wholesale,rajalipika@example.com
+619,Kuruvilla LLC,Gandhidham,Assam,Retail,niyer@example.com
+620,Swamy Inc,Panvel,Tripura,Retail,nkamdar@example.net
+621,Sathe Ltd,Kota,Arunachal Pradesh,Corporate,bobalzashil@example.com
+622,Tank and Sons,Agra,Sikkim,Wholesale,jlata@example.net
+623,Raman-Aggarwal,Morena,Maharashtra,Retail,iboase@example.org
+624,Rajagopalan Ltd,Bhilai,Odisha,Retail,gauri46@example.org
+625,"Chana, Pau and Warrior",Jodhpur,Uttarakhand,Retail,pmann@example.org
+626,Baral Group,Dewas,Tamil Nadu,Retail,ochhabra@example.net
+627,Sur-Chad,Jhansi,Chhattisgarh,Retail,hansaryan@example.net
+628,"Khare, Suresh and Ramachandran",Panvel,Rajasthan,Retail,xalak87@example.org
+629,Nori Inc,Kalyan-Dombivli,Madhya Pradesh,Wholesale,kakartara@example.net
+630,"Dixit, Kaul and Bora",Ajmer,Meghalaya,Corporate,sinhachakradev@example.org
+631,"De, Atwal and Gera",Aizawl,Uttarakhand,Retail,shanonkar@example.net
+632,Cherian Inc,Hindupur,Uttar Pradesh,Wholesale,devjain@example.com
+633,Ratti-Nair,Ramgarh,Nagaland,Wholesale,ekantakala@example.org
+634,"Ghose, Nayak and Bhatnagar",Panipat,Chhattisgarh,Corporate,sganguly@example.com
+635,"Gala, Sarna and Kohli",Guntur,Bihar,Corporate,bdugar@example.com
+636,Ahuja Inc,Hubli–Dharwad,Tamil Nadu,Retail,omaja72@example.org
+637,Madan PLC,Bulandshahr,Haryana,Corporate,baljiwangole@example.net
+638,Chakrabarti-Mitra,Gurgaon,Andhra Pradesh,Corporate,rehaandalal@example.net
+639,Pathak PLC,Madhyamgram,Tripura,Wholesale,aradhanabera@example.org
+640,Dixit Ltd,Mehsana,Goa,Wholesale,calebbhagat@example.net
+641,Mane-Kadakia,Chandrapur,Karnataka,Wholesale,gbassi@example.net
+642,Yogi and Sons,Bhopal,Meghalaya,Retail,bobalwahab@example.net
+643,Nanda-Saini,Anantapur,Haryana,Retail,nandavedant@example.org
+644,Sachar and Sons,Muzaffarnagar,Assam,Corporate,dsundaram@example.com
+645,Kalita PLC,Mangalore,Madhya Pradesh,Corporate,laban73@example.net
+646,Madan-Jain,Warangal,Arunachal Pradesh,Retail,mandlaban@example.org
+647,Shanker-Sahota,Tiruvottiyur,Haryana,Retail,naksh92@example.net
+648,"Karpe, Chadha and Sabharwal",Thrissur,Odisha,Wholesale,rshere@example.org
+649,"Sangha, Koshy and Kota",Raebareli,Odisha,Retail,manthanahluwalia@example.com
+650,Baria Group,Khandwa,Mizoram,Retail,zsrinivas@example.net
+651,Sethi Group,Gwalior,Nagaland,Corporate,raytejas@example.org
+652,Merchant-Khare,Pune,Meghalaya,Corporate,neel79@example.net
+653,"Bajwa, Sha and Sheth",Machilipatnam,Goa,Wholesale,ucchal01@example.com
+654,"Natarajan, Wali and Bali",Purnia,Tripura,Retail,sarthak19@example.com
+655,"Bhakta, Varma and Patla",Bhubaneswar,Madhya Pradesh,Corporate,udyati90@example.com
+656,Gill-Bhavsar,Durgapur,Karnataka,Retail,ishaansridhar@example.net
+657,"Kadakia, Kar and Nagi",Shimoga,Mizoram,Retail,dmalhotra@example.org
+658,Pai-Sethi,Orai,Mizoram,Wholesale,singhalbrinda@example.com
+659,"Pillai, Bhatti and Guha",Chandigarh,Assam,Retail,sgola@example.org
+660,Gala LLC,Siliguri,Meghalaya,Wholesale,samarthverma@example.net
+661,Memon Group,Bhalswa Jahangir Pur,Kerala,Corporate,vsawhney@example.net
+662,Manne and Sons,Lucknow,West Bengal,Corporate,zinalnayak@example.com
+663,"Oza, Narain and Sunder",Berhampore,Jharkhand,Corporate,daminigarg@example.com
+664,Sule LLC,Nashik,Chhattisgarh,Corporate,bhavani72@example.net
+665,Wason LLC,Akola,Uttarakhand,Wholesale,neelkhanna@example.org
+666,Nadig PLC,Gandhidham,Himachal Pradesh,Wholesale,qarin38@example.net
+667,Nadig LLC,Serampore,Manipur,Corporate,charvidara@example.org
+668,Tata-Dhillon,Imphal,Chhattisgarh,Corporate,tripathigarima@example.net
+669,"Merchant, Som and Mann",Buxar,Telangana,Corporate,snigam@example.org
+670,"Srinivas, Baria and Dewan",Aizawl,Andhra Pradesh,Wholesale,ckannan@example.com
+671,Narain Inc,Ballia,Mizoram,Corporate,arunimahayre@example.org
+672,Yohannan Group,Anand,Madhya Pradesh,Wholesale,vrittinadkarni@example.net
+673,"Vaidya, Bhalla and Patel",Siliguri,Tamil Nadu,Retail,ypingle@example.com
+674,Mane LLC,Aizawl,Manipur,Corporate,kalesachi@example.net
+675,Savant-Mani,Khandwa,Telangana,Wholesale,ldewan@example.net
+676,Dhawan and Sons,Fatehpur,West Bengal,Wholesale,dominic96@example.org
+677,Rout Ltd,Vijayanagaram,Goa,Wholesale,mdevan@example.org
+678,Mann-Swaminathan,Barasat,Uttarakhand,Retail,wakeeta87@example.org
+679,Agate and Sons,Dewas,Rajasthan,Corporate,pdash@example.net
+680,Sahni-Gola,Sambalpur,Andhra Pradesh,Wholesale,malhotrawaida@example.org
+681,"Pathak, Srivastava and Sarin",Fatehpur,Tamil Nadu,Corporate,prakashyauvani@example.net
+682,"Badal, Lad and Gaba",Ulhasnagar,Karnataka,Wholesale,wdeshmukh@example.org
+683,Mahajan LLC,Raurkela Industrial Township,Arunachal Pradesh,Corporate,bishakha81@example.net
+684,Goswami Inc,Tinsukia,Karnataka,Retail,charvi45@example.org
+685,"Pandey, Dhawan and Arya",Kadapa,Jharkhand,Wholesale,vedhika65@example.org
+686,Kamdar and Sons,Maheshtala,Uttar Pradesh,Wholesale,sahnitriveni@example.org
+687,Deep Inc,Karnal,Jharkhand,Retail,liam79@example.net
+688,Gera-Modi,Kochi,Haryana,Corporate,luckykaran@example.com
+689,Kadakia and Sons,Khandwa,Tamil Nadu,Wholesale,brahmbhattanirudh@example.com
+690,Basak-Hegde,Patna,Uttar Pradesh,Retail,singhjagat@example.com
+691,Bhatti LLC,Jalandhar,Uttar Pradesh,Wholesale,jharyan@example.org
+692,"Panchal, Balakrishnan and Chana",Alwar,Odisha,Wholesale,indira28@example.net
+693,"Khurana, Tiwari and Bir",Adoni,Tripura,Wholesale,wadhwateerth@example.net
+694,Manda and Sons,Navi Mumbai,Gujarat,Corporate,speri@example.net
+695,Sarraf Ltd,Bokaro,Uttarakhand,Retail,ladli63@example.net
+696,Reddy Inc,Amravati,Manipur,Retail,venkateshlaban@example.com
+697,Mani-Baria,Khammam,Meghalaya,Retail,rajanbhanumati@example.com
+698,"Muni, Sawhney and Kara",Ramagundam,West Bengal,Retail,egulati@example.com
+699,"Pillai, Gola and Arya",Vasai-Virar,Madhya Pradesh,Wholesale,qvirk@example.net
+700,Dar and Sons,Rewa,Tamil Nadu,Corporate,gangulydhruv@example.com
+701,Nigam and Sons,Bhilai,Haryana,Retail,rtata@example.net
+702,"Mahajan, Ratta and Parekh",Madanapalle,Madhya Pradesh,Corporate,rvaidya@example.org
+703,Chokshi-Das,Unnao,Meghalaya,Retail,krishbalan@example.org
+704,"Bera, Bir and Tara",Mangalore,Madhya Pradesh,Retail,michael49@example.net
+705,Bose Ltd,Kirari Suleman Nagar,Gujarat,Wholesale,widisha78@example.com
+706,"Oza, Zachariah and Badami",Chinsurah,Bihar,Wholesale,usengupta@example.com
+707,Sharaf-Banik,Belgaum,Nagaland,Wholesale,nitesh76@example.org
+708,Ramachandran-Sura,Jehanabad,Sikkim,Corporate,kzacharia@example.com
+709,Dugar-Toor,Katni,Himachal Pradesh,Wholesale,npurohit@example.net
+710,Mane-Nagi,Bhopal,Odisha,Wholesale,davejeevika@example.com
+711,"Bala, Om and Rai",Haldia,Kerala,Retail,nisha50@example.net
+712,Kota and Sons,Guntakal,Assam,Retail,modyishwar@example.com
+713,Bahri PLC,Agra,Manipur,Wholesale,avarma@example.com
+714,Singh PLC,Ratlam,Madhya Pradesh,Wholesale,knaidu@example.org
+715,Chaudhry-Jha,Mehsana,Mizoram,Corporate,ojas94@example.com
+716,Jaggi-Taneja,Jorhat,Gujarat,Corporate,alka04@example.net
+717,Kara-Chanda,Guntakal,Karnataka,Retail,ekalinga98@example.com
+718,Kadakia-Palan,Barasat,Mizoram,Corporate,rachita85@example.org
+719,Ratti-Krishnamurthy,Motihari,Goa,Wholesale,vartyrachit@example.net
+720,Kala-Sibal,Katihar,Uttar Pradesh,Wholesale,hbhasin@example.org
+721,Shere-Divan,Saharanpur,Telangana,Retail,radhika65@example.org
+722,"Jani, Sachar and Loke",Nanded,Himachal Pradesh,Wholesale,nidrakhare@example.org
+723,Handa Inc,Tirupati,Manipur,Wholesale,bsarin@example.net
+724,Jaggi and Sons,Bhavnagar,Andhra Pradesh,Wholesale,arunima82@example.net
+725,Sunder Inc,Gwalior,Karnataka,Wholesale,devansh65@example.net
+726,"Chana, Ranganathan and Dey",Gorakhpur,Odisha,Corporate,vigzayan@example.com
+727,Khanna PLC,Satara,Karnataka,Corporate,bkeer@example.org
+728,Chhabra and Sons,Panipat,Manipur,Corporate,lkumar@example.org
+729,Walla-Prasad,Ratlam,Nagaland,Corporate,rsoman@example.org
+730,Dhillon-Patil,Arrah,Uttarakhand,Corporate,ansh90@example.net
+731,"Bhagat, Khatri and Kulkarni",Tirupati,Rajasthan,Retail,jairaj83@example.com
+732,Anand-Ramaswamy,Barasat,Assam,Wholesale,chamelikade@example.org
+733,Nadig-Ray,Panipat,West Bengal,Retail,swamyurishilla@example.net
+734,Natarajan-Sami,Nanded,Tamil Nadu,Wholesale,yashawini15@example.com
+735,"Narain, Setty and Bala",Udaipur,Rajasthan,Wholesale,adeshpande@example.com
+736,Mody LLC,Bhubaneswar,Goa,Wholesale,zaitrade@example.net
+737,"Roy, Nagarajan and Seth",Guntur,Himachal Pradesh,Retail,falakmanda@example.org
+738,Sachdeva LLC,Singrauli,Madhya Pradesh,Wholesale,anshbajaj@example.net
+739,"Karnik, Chakraborty and Shere",Firozabad,Tamil Nadu,Wholesale,chandranrattan@example.net
+740,Lad-Dixit,Arrah,Goa,Corporate,atwalradhika@example.com
+741,"Talwar, Dani and Kapur",Jhansi,West Bengal,Corporate,bhavna76@example.org
+742,Jhaveri-Kale,Maheshtala,Maharashtra,Wholesale,nilimadhingra@example.org
+743,Lala-Keer,Kulti,Kerala,Corporate,achada@example.com
+744,Naik Ltd,Rajpur Sonarpur,Tamil Nadu,Retail,vsampath@example.net
+745,Bora-Chandran,Faridabad,Karnataka,Wholesale,urishillapandya@example.net
+746,"Bath, Ahluwalia and Kulkarni",Barasat,Madhya Pradesh,Retail,kevin80@example.net
+747,Lad and Sons,Sonipat,Manipur,Corporate,gauravnadig@example.net
+748,"Sant, Dhar and Lad",Satara,Arunachal Pradesh,Corporate,xalakmand@example.net
+749,Sani-Mandal,Pudukkottai,Uttarakhand,Retail,zansi56@example.org
+750,Swamy-Dora,Meerut,Gujarat,Wholesale,chaturakarpe@example.org
+751,Singhal LLC,Bhind,Maharashtra,Corporate,talwarbanjeet@example.com
+752,Sundaram-Shankar,Gorakhpur,West Bengal,Corporate,jatinpalla@example.org
+753,Mander and Sons,Danapur,Uttarakhand,Corporate,simon90@example.net
+754,"Gole, Saha and Bose",Panchkula,Sikkim,Retail,narasimhanatharv@example.com
+755,"Dara, Ramesh and Prakash",North Dumdum,Chhattisgarh,Retail,bumbtriveni@example.net
+756,"Srinivasan, Setty and Luthra",Ozhukarai,Arunachal Pradesh,Corporate,unair@example.net
+757,"Dayal, Kakar and Bava",North Dumdum,Uttar Pradesh,Wholesale,boballakshmi@example.org
+758,Kumer-Gokhale,Silchar,Assam,Retail,joshinicholas@example.com
+759,Mane-Dube,Bihar Sharif,Meghalaya,Wholesale,rmukherjee@example.net
+760,Parmer Ltd,Arrah,Mizoram,Retail,vrishtisehgal@example.com
+761,Loyal-Sampath,Bhusawal,Uttar Pradesh,Retail,quincy66@example.org
+762,Varghese LLC,Rajahmundry,Rajasthan,Wholesale,warhivyas@example.net
+763,"Vohra, Chacko and Mannan",Junagadh,Assam,Wholesale,jmital@example.org
+764,"Mital, Kothari and Virk",Sagar,Odisha,Wholesale,bosechakradev@example.net
+765,Uppal Group,Bareilly,Manipur,Retail,isha49@example.org
+766,"Babu, Comar and Shere",South Dumdum,Uttarakhand,Wholesale,fbath@example.com
+767,"Mishra, Murthy and Sha",Bilaspur,Karnataka,Wholesale,siddharthgoyal@example.org
+768,"Lad, Cherian and Saraf",Kolkata,Madhya Pradesh,Wholesale,aryaonveer@example.net
+769,Sharma-Ravel,Avadi,Punjab,Wholesale,megha41@example.org
+770,Atwal and Sons,Pune,Tamil Nadu,Wholesale,avikadakia@example.com
+771,"Dhillon, Khurana and Sarin",Chandigarh,Jharkhand,Wholesale,edivan@example.com
+772,Dada and Sons,Raiganj,Meghalaya,Wholesale,cbahri@example.net
+773,Jaggi LLC,Faridabad,Karnataka,Retail,chauhanrachana@example.com
+774,Mannan-Bansal,Silchar,Meghalaya,Wholesale,tkata@example.org
+775,"Bahl, Sami and Mutti",Agartala,Rajasthan,Retail,hsolanki@example.com
+776,"Palan, Sen and Sarin",Nanded,Jharkhand,Corporate,upasnapadmanabhan@example.com
+777,Tripathi and Sons,Madanapalle,West Bengal,Corporate,sdeep@example.net
+778,"Ramakrishnan, Saha and Parsa",Nanded,Punjab,Retail,barkhachadha@example.net
+779,Dayal-Ghose,Sangli-Miraj & Kupwad,Punjab,Wholesale,ychaudhuri@example.com
+780,Mitter-Keer,Proddatur,Arunachal Pradesh,Retail,parmeradvika@example.com
+781,"Dutt, Ghosh and Thakur",Rajkot,Karnataka,Corporate,ncomar@example.org
+782,Kapur Group,Mau,Uttar Pradesh,Retail,chakradhar84@example.org
+783,"Varma, Chawla and Bedi",Berhampore,Uttarakhand,Corporate,cherianharsh@example.net
+784,Tripathi Inc,Kochi,West Bengal,Retail,janakidugar@example.net
+785,Sathe-Toor,Navi Mumbai,Chhattisgarh,Retail,gaurika21@example.org
+786,Sagar-Ahuja,Bhalswa Jahangir Pur,Karnataka,Retail,yashasvi21@example.com
+787,Sachdeva-Patel,Saharanpur,Tripura,Retail,ikari@example.com
+788,Rout-Shanker,Ludhiana,Manipur,Retail,advaithvarughese@example.org
+789,Nigam LLC,Dehradun,Maharashtra,Corporate,ramaswamybalhaar@example.net
+790,"Dora, Bhardwaj and Venkatesh",Gurgaon,Madhya Pradesh,Retail,dipta50@example.com
+791,"Din, Raval and Sehgal",Tinsukia,Punjab,Retail,zpai@example.net
+792,Hora-Mitra,Vadodara,Nagaland,Retail,madhavi28@example.net
+793,Kala-Chander,Saharsa,Karnataka,Wholesale,arinbala@example.net
+794,"Kuruvilla, Khurana and Modi",Dibrugarh,Bihar,Corporate,pradhanaashi@example.net
+795,"Pandya, Dasgupta and Batta",Sultan Pur Majra,Jharkhand,Retail,settyharinakshi@example.org
+796,"Walla, Kaur and Palla",Anantapuram,Sikkim,Corporate,krishnavenkatesh@example.net
+797,Cheema LLC,Karimnagar,Manipur,Retail,dinpavani@example.com
+798,Chanda Inc,Bikaner,Meghalaya,Wholesale,sanayabrahmbhatt@example.com
+799,"Vora, Rau and Venkataraman",Bilaspur,Odisha,Corporate,csampath@example.net
+800,Saha-Gaba,Dibrugarh,Chhattisgarh,Wholesale,ishankar@example.net
+801,"Wadhwa, Dalal and Kala",Bhalswa Jahangir Pur,Arunachal Pradesh,Wholesale,kaladani@example.net
+802,Choudhary-Dara,Aurangabad,Jharkhand,Retail,virkmichael@example.org
+803,Mody-Prasad,Durg,Meghalaya,Corporate,dharlucky@example.net
+804,Bava-Mody,Thrissur,Goa,Corporate,hagate@example.net
+805,Bir-Basu,Ongole,Odisha,Corporate,sneha56@example.com
+806,"Deo, Devi and Thaman",Hospet,Sikkim,Corporate,udixit@example.com
+807,Rout Group,Tenali,Karnataka,Retail,savantarunima@example.net
+808,Gandhi Ltd,Aurangabad,Rajasthan,Retail,jatin81@example.org
+809,"Bera, Vig and Gulati",Ambala,Andhra Pradesh,Wholesale,walipranit@example.org
+810,Jha-Korpal,Guwahati,Uttar Pradesh,Retail,neelima90@example.com
+811,Oak Group,Vijayanagaram,Andhra Pradesh,Corporate,lavanya41@example.org
+812,Ganguly LLC,South Dumdum,Himachal Pradesh,Retail,dubedamyanti@example.com
+813,"Gara, Bhargava and Nanda",Indore,Tamil Nadu,Wholesale,misramadhavi@example.org
+814,Dhar-Sachar,Rampur,Madhya Pradesh,Corporate,bensamaksh@example.org
+815,"Khalsa, Tailor and Trivedi",Raipur,Himachal Pradesh,Corporate,nadkarniucchal@example.net
+816,Bhatti-Sule,Vellore,Rajasthan,Wholesale,anirudhluthra@example.net
+817,"Chaudhuri, Koshy and Dass",Tezpur,Maharashtra,Wholesale,ochacko@example.net
+818,Dhar LLC,Sambalpur,Nagaland,Corporate,cseth@example.org
+819,Mann-Ganesh,Allahabad,Meghalaya,Retail,zashil65@example.net
+820,Uppal LLC,Nanded,Telangana,Retail,mitalgaurav@example.com
+821,"Das, Dey and Mammen",Bhagalpur,Punjab,Corporate,hema47@example.com
+822,Nagy LLC,Jaunpur,Punjab,Corporate,amol20@example.net
+823,Agrawal-Andra,Haridwar,Nagaland,Corporate,iramaswamy@example.org
+824,"Brahmbhatt, Yohannan and Balasubramanian",Amravati,Kerala,Retail,yparmar@example.org
+825,"Anand, Dash and Shere",Nellore,Manipur,Retail,kantanmol@example.com
+826,"Parmar, Handa and Chana",Korba,Haryana,Corporate,cpatil@example.com
+827,Kadakia-Amble,Tenali,Bihar,Wholesale,xiti72@example.net
+828,Gill Inc,Amritsar,Chhattisgarh,Corporate,vedant84@example.org
+829,"Bajaj, Walia and Krishnan",Delhi,Maharashtra,Corporate,naidurachana@example.com
+830,Dara-Vasa,Shimla,Kerala,Retail,kapurchampak@example.com
+831,Walia-Sen,Kolkata,Madhya Pradesh,Corporate,gaurikabumb@example.net
+832,Kara Ltd,Aurangabad,Haryana,Retail,niteshnarayan@example.com
+833,Chatterjee Inc,Bhiwani,Uttar Pradesh,Wholesale,nattzashil@example.org
+834,Solanki and Sons,Meerut,Uttarakhand,Corporate,zinal31@example.net
+835,"Sarna, Chandran and Sekhon",Guwahati,Arunachal Pradesh,Wholesale,purohitdhriti@example.net
+836,Datta Inc,Pimpri-Chinchwad,Jharkhand,Corporate,gbhatti@example.net
+837,Ben LLC,Rewa,Bihar,Wholesale,mkaul@example.net
+838,"Anne, Setty and Rajagopalan",Haldia,Punjab,Retail,noriatharv@example.com
+839,"Narasimhan, Hans and Chokshi",Ahmedabad,Punjab,Corporate,harijonathan@example.net
+840,"Kunda, Pant and Sama",Udupi,Manipur,Corporate,xavierdevan@example.org
+841,Datta LLC,Anand,Rajasthan,Wholesale,deepa98@example.org
+842,Singh LLC,Jalna,Kerala,Retail,vasamaanav@example.org
+843,Tripathi PLC,Bhusawal,Kerala,Wholesale,saijaggi@example.org
+844,Gulati-Soni,Ghaziabad,Tamil Nadu,Wholesale,gautami94@example.com
+845,Gaba-Cheema,Kalyan-Dombivli,Meghalaya,Retail,aarushkapoor@example.net
+846,Shukla PLC,Mathura,Meghalaya,Wholesale,keya36@example.org
+847,Patil Inc,Secunderabad,Andhra Pradesh,Wholesale,dharbina@example.com
+848,Parsa Inc,Davanagere,Gujarat,Corporate,owen34@example.net
+849,Nori PLC,Mangalore,Gujarat,Wholesale,godaadweta@example.org
+850,Devan Group,Sonipat,Gujarat,Corporate,tanmayi35@example.com
+851,"Garg, Vyas and Saraf",Kochi,Chhattisgarh,Retail,ranveerhanda@example.net
+852,Prasad-Nadkarni,Sambalpur,Arunachal Pradesh,Wholesale,chaitalydixit@example.com
+853,Bera Ltd,Cuttack,West Bengal,Retail,ukadakia@example.org
+854,Bhattacharyya-Ganesh,Danapur,Kerala,Corporate,dvenkataraman@example.org
+855,Prakash-Vora,Shimla,Meghalaya,Corporate,nandini90@example.org
+856,Jain Group,Tenali,Gujarat,Corporate,pavani69@example.org
+857,Kumar-Chad,Guwahati,Jharkhand,Wholesale,wvenkataraman@example.org
+858,"Barman, Shroff and Vala",Purnia,Manipur,Corporate,asankaran@example.com
+859,Nadig-Mahajan,Nagpur,Goa,Corporate,qkaur@example.net
+860,Parmer Inc,Orai,Mizoram,Wholesale,malhotravedant@example.org
+861,Bora LLC,Bongaigaon,Gujarat,Wholesale,ronith54@example.com
+862,"Maharaj, Halder and Devi",Bangalore,Tripura,Wholesale,baghyawati56@example.com
+863,"Arora, Sodhi and Vala",Sikar,Haryana,Corporate,shauryasom@example.org
+864,"Sidhu, Shenoy and Oak",Satara,West Bengal,Corporate,pushtisahni@example.org
+865,Sengupta-Balan,Kolhapur,Odisha,Wholesale,dalajaandra@example.com
+866,"Pant, Nori and Kar",Khandwa,Sikkim,Wholesale,tyogi@example.com
+867,"Bajaj, Balay and Dewan",Bathinda,Odisha,Retail,nraj@example.com
+868,Warrior Group,Fatehpur,Bihar,Retail,siya41@example.org
+869,Goel Inc,Indore,Goa,Wholesale,ekarajraju@example.com
+870,Kaul LLC,Malda,Arunachal Pradesh,Wholesale,zarna02@example.com
+871,Raman-Dugar,Bikaner,Nagaland,Retail,vsridhar@example.org
+872,Jhaveri-De,Tirupati,Maharashtra,Wholesale,mdutt@example.net
+873,Jain-Thakkar,Bally,Gujarat,Corporate,dharsanaya@example.org
+874,Koshy-Vora,Jehanabad,Meghalaya,Corporate,kshere@example.org
+875,"Chand, Mani and Shan",Bihar Sharif,Madhya Pradesh,Corporate,ojasvikrish@example.org
+876,"Sankaran, Shankar and Rajagopalan",Jehanabad,Bihar,Wholesale,pbassi@example.org
+877,Yogi-Manne,Bellary,Meghalaya,Wholesale,xdara@example.org
+878,Thaman LLC,Hospet,Goa,Retail,sarthak80@example.com
+879,Bora Ltd,Eluru,Karnataka,Wholesale,zhayer@example.org
+880,Krishna Inc,Khammam,Sikkim,Wholesale,dsundaram@example.org
+881,Kibe Ltd,Kolhapur,Meghalaya,Retail,neel20@example.net
+882,Goel LLC,Deoghar,Telangana,Wholesale,eganguly@example.net
+883,Mahajan and Sons,Secunderabad,Goa,Retail,bakhshiwalia@example.org
+884,Batta-Virk,Pali,Tamil Nadu,Wholesale,sachi09@example.org
+885,Purohit and Sons,Dindigul,Haryana,Wholesale,gavinbabu@example.com
+886,Atwal LLC,Rajkot,Haryana,Wholesale,ganesholiver@example.org
+887,Vala-Chokshi,North Dumdum,Nagaland,Wholesale,sarthakrana@example.com
+888,Kata and Sons,Raurkela Industrial Township,Karnataka,Corporate,alexanderratti@example.net
+889,Arora-Ramachandran,Berhampore,Haryana,Corporate,mallickjyoti@example.org
+890,Kamdar Group,Khora ,Meghalaya,Wholesale,yadavonveer@example.com
+891,Nair Ltd,Guntur,Karnataka,Corporate,eeshasubramaniam@example.org
+892,Badami-Sen,Sasaram,Rajasthan,Retail,yahviarya@example.org
+893,Dash LLC,Haldia,Tripura,Corporate,fariqbhasin@example.org
+894,Tara-Minhas,Saharanpur,Madhya Pradesh,Retail,baljiwankhanna@example.net
+895,"Sawhney, Narasimhan and Desai",Ratlam,Rajasthan,Retail,vermaoeshi@example.net
+896,Bajwa-Karnik,Tiruvottiyur,Haryana,Retail,chaturakothari@example.net
+897,"Kapadia, Raj and Verma",South Dumdum,Manipur,Corporate,bhattacharyyavyanjana@example.org
+898,Ben Ltd,Kurnool,Chhattisgarh,Wholesale,ghosesamarth@example.org
+899,"Brar, Sandhu and Sibal",Dehradun,Telangana,Wholesale,yashsamra@example.org
+900,"Kothari, Mitter and Mangal",Panihati,Himachal Pradesh,Corporate,xbuch@example.com
+901,Ganesh-Sinha,Bhusawal,Mizoram,Retail,ydugal@example.com
+902,Raj Group,Dewas,Punjab,Corporate,parthkurian@example.com
+903,Mohan-Setty,Gandhinagar,Nagaland,Wholesale,vbora@example.org
+904,"Singh, Hayre and Dubey",Kolkata,Andhra Pradesh,Corporate,vyanjana66@example.com
+905,"Prakash, Rajagopalan and Suri",Giridih,Assam,Corporate,hbarad@example.com
+906,"Gaba, Hari and Sarin",Karnal,Mizoram,Wholesale,spillay@example.org
+907,"Rajan, Samra and Koshy",Morena,Arunachal Pradesh,Wholesale,ayaan24@example.net
+908,Din-Kumar,Madanapalle,Odisha,Retail,advikdada@example.org
+909,"Rajagopalan, Rao and Buch",Bhusawal,Goa,Retail,skrishnan@example.com
+910,"Walia, Raja and Morar",Hubli–Dharwad,Bihar,Wholesale,luke43@example.net
+911,Morar-Ahuja,Pallavaram,Andhra Pradesh,Retail,boaseomisha@example.net
+912,Mani-Sankar,Belgaum,Kerala,Wholesale,krishhora@example.com
+913,Thakkar Inc,Tezpur,Uttarakhand,Corporate,quincyiyer@example.org
+914,"Goswami, Handa and Lad",Gandhidham,Rajasthan,Retail,ganesanfariq@example.com
+915,Purohit Inc,Rajkot,Karnataka,Wholesale,keervanya@example.com
+916,"Chaudhuri, Andra and Bhat",Chennai,Sikkim,Corporate,chatterjeesiddharth@example.net
+917,Prashad PLC,Shivpuri,Meghalaya,Corporate,pushti55@example.net
+918,Murty-Khatri,Silchar,Madhya Pradesh,Wholesale,parekhganga@example.org
+919,Shan Ltd,Kolhapur,Andhra Pradesh,Wholesale,waliati@example.net
+920,Pillay Group,Kottayam,Maharashtra,Corporate,aarushnagy@example.org
+921,"Parsa, Bath and Nanda",Muzaffarpur,Punjab,Corporate,vratta@example.net
+922,Pall Group,Salem,Telangana,Wholesale,mmemon@example.org
+923,"Dhar, Venkatesh and Thaman",Warangal,Meghalaya,Wholesale,mitraunni@example.org
+924,D’Alia-Subramaniam,Latur,Gujarat,Corporate,gauravcherian@example.com
+925,"Balakrishnan, Dyal and Narain",Parbhani,Haryana,Corporate,vamakshi12@example.net
+926,"Swamy, Chana and Natarajan",Ramgarh,Tripura,Wholesale,ozakrishna@example.net
+927,"Raj, Sarkar and Kaul",Rampur,Bihar,Wholesale,gagan11@example.com
+928,"Guha, D’Alia and Pillai",Satara,Madhya Pradesh,Corporate,mukhopadhyaydavid@example.net
+929,"Gupta, Rama and Sampath",Bharatpur,Uttar Pradesh,Wholesale,zinalkapadia@example.org
+930,Andra-Yohannan,Satna,Chhattisgarh,Wholesale,theodore77@example.org
+931,"Mander, Dhingra and Banerjee",Tirupati,Mizoram,Wholesale,mahalvanya@example.net
+932,Talwar LLC,Allahabad,Uttar Pradesh,Wholesale,michael33@example.net
+933,"Ben, Gola and Sura",Dewas,Uttarakhand,Retail,anthonyramanathan@example.com
+934,Solanki-Pall,Katni,Assam,Retail,barkha38@example.com
+935,Deep LLC,Avadi,Manipur,Corporate,lakshsathe@example.net
+936,Manne-Dhillon,Bellary,Uttar Pradesh,Retail,adityapathak@example.net
+937,"Chaudry, Divan and Puri",Gulbarga,Arunachal Pradesh,Wholesale,parekhurvi@example.org
+938,Dalal PLC,Guntakal,Maharashtra,Retail,netrakonda@example.org
+939,Khosla Group,Barasat,Tamil Nadu,Corporate,keyachakraborty@example.com
+940,"Raja, Maharaj and Saxena",Hyderabad,Bihar,Corporate,butalajairaj@example.com
+941,"Upadhyay, Kar and Bajaj",Panipat,Tamil Nadu,Corporate,gollaleena@example.com
+942,"Saraf, Misra and Dass",Anantapur,Assam,Retail,nidrabahri@example.com
+943,"Yadav, Wagle and Suresh",Kadapa,Uttarakhand,Retail,johaljacob@example.org
+944,"Gole, Ahluwalia and Sekhon",Bhilai,Arunachal Pradesh,Retail,samueledwin@example.org
+945,"Kunda, Banerjee and Chad",Guna,Jharkhand,Corporate,onveer60@example.org
+946,Batra-Venkataraman,Deoghar,Manipur,Wholesale,vrittimunshi@example.net
+947,Yohannan-Uppal,Navi Mumbai,Sikkim,Wholesale,khalsabalhaar@example.org
+948,Mistry and Sons,Madanapalle,Nagaland,Corporate,jagratimall@example.org
+949,"Sami, Borde and Kumer",Eluru,Rajasthan,Corporate,mugdhashan@example.org
+950,Sandal-Dhar,Madurai,Rajasthan,Corporate,reyansh59@example.net
+951,"Vaidya, Gade and Saini",Satna,Uttar Pradesh,Corporate,braghavan@example.net
+952,Brahmbhatt LLC,Katihar,Bihar,Wholesale,vbhatti@example.net
+953,Patil LLC,Ulhasnagar,West Bengal,Retail,anushaanne@example.org
+954,Kapadia-Radhakrishnan,Amravati,Goa,Retail,vrishti18@example.com
+955,"Manda, Madan and Chaudhary",Tirunelveli,Karnataka,Wholesale,wgolla@example.net
+956,"Wali, Rau and Sood",Rampur,Andhra Pradesh,Retail,jonathandhar@example.com
+957,"Loke, Bera and Prabhakar",Narasaraopet,Maharashtra,Wholesale,cgoswami@example.com
+958,Thakkar-Mangat,Haldia,Mizoram,Retail,dalajachahal@example.com
+959,Munshi-Chana,Solapur,Telangana,Wholesale,girikgandhi@example.net
+960,Chad Ltd,Begusarai,Meghalaya,Retail,samrayashoda@example.net
+961,Srinivasan Group,Machilipatnam,Andhra Pradesh,Corporate,abhimanyusandal@example.net
+962,"Pai, Konda and Wable",Medininagar,Manipur,Corporate,umanggill@example.org
+963,Deol-Varkey,Faridabad,Maharashtra,Retail,kraghavan@example.com
+964,Nigam Ltd,Panvel,West Bengal,Wholesale,mannanchandani@example.com
+965,Lanka-Kala,Jehanabad,Madhya Pradesh,Retail,dalajavarma@example.org
+966,Sura-Bhandari,Chennai,Punjab,Retail,tnarasimhan@example.com
+967,Ahluwalia LLC,Rewa,Kerala,Corporate,chaudhuriraagini@example.com
+968,Chad PLC,Bulandshahr,Bihar,Wholesale,jamble@example.net
+969,Kara-Singhal,Dindigul,Jharkhand,Corporate,priya28@example.com
+970,Sarna Ltd,Nanded,Chhattisgarh,Retail,radha05@example.net
+971,Choudhry and Sons,Thane,Chhattisgarh,Corporate,vsama@example.com
+972,Dyal Ltd,Nangloi Jat,Sikkim,Wholesale,jagat67@example.net
+973,Datta-Nair,Orai,Telangana,Retail,hdeep@example.org
+974,Date and Sons,Orai,Andhra Pradesh,Retail,charlesoommen@example.com
+975,"Anand, Saraf and Srinivasan",Ichalkaranji,Meghalaya,Corporate,sanghviyug@example.net
+976,Vaidya and Sons,Parbhani,Tripura,Wholesale,lallyug@example.net
+977,Issac-Som,Ambala,Punjab,Wholesale,ranbirdixit@example.org
+978,Deo Group,Panipat,Gujarat,Wholesale,poojabadami@example.net
+979,Chand Inc,Vellore,Mizoram,Wholesale,vihaan35@example.com
+980,Bhat-Uppal,Faridabad,Jharkhand,Wholesale,luthrajanuja@example.com
+981,Sahota-Koshy,Nashik,Goa,Retail,acharyacharles@example.net
+982,"Nagy, Kala and Mangal",Parbhani,Punjab,Retail,sankarqasim@example.com
+983,Patla-Natt,Gorakhpur,Bihar,Wholesale,degarima@example.com
+984,"Pathak, Wadhwa and Prabhu",Bally,Gujarat,Wholesale,gchahal@example.org
+985,"Dara, Barman and Halder",Amroha,Bihar,Retail,ozacharvi@example.net
+986,Jaggi-Walla,Varanasi,Chhattisgarh,Retail,omyakrishnan@example.net
+987,Pau-Sen,Junagadh,Assam,Wholesale,hsaini@example.net
+988,Ganesan PLC,Bikaner,Jharkhand,Wholesale,bhatranveer@example.net
+989,Talwar-Walia,Dehradun,Manipur,Retail,zramakrishnan@example.net
+990,Jhaveri-Gour,Kozhikode,Odisha,Corporate,adityavarghese@example.com
+991,"Vohra, Lad and Mitter",Sagar,Tamil Nadu,Corporate,jagat23@example.org
+992,"Khanna, Manne and Baral",Alwar,Chhattisgarh,Corporate,charan33@example.net
+993,Agarwal Ltd,Mahbubnagar,Kerala,Retail,fiyaz84@example.net
+994,Rege PLC,Anantapur,Arunachal Pradesh,Retail,parekhtheodore@example.net
+995,Goda-Kunda,Siwan,Sikkim,Retail,rajaaarini@example.net
+996,"Jhaveri, Sathe and Kannan",Agartala,Gujarat,Corporate,cdugal@example.org
+997,"Saraf, Pillay and Divan",Tiruchirappalli,Meghalaya,Wholesale,triptigoyal@example.org
+998,Swaminathan Ltd,Ichalkaranji,Andhra Pradesh,Retail,nicholas26@example.net
+999,"Guha, Boase and Dhar",Purnia,Haryana,Retail,grau@example.net
+1000,"Devan, Arora and Chaudhry",Yamunanagar,Andhra Pradesh,Retail,aryacaleb@example.org
+1001,Chacko LLC,Ghaziabad,Andhra Pradesh,Corporate,cherianhamsini@example.net
+1002,Jain and Sons,Phusro,Manipur,Wholesale,damyantinarula@example.com
+1003,Kohli Inc,Tinsukia,Bihar,Corporate,basuharshil@example.net
+1004,Chauhan-Vaidya,Ajmer,Andhra Pradesh,Corporate,arjunkaran@example.com
+1005,Din-Pandit,Kamarhati,Sikkim,Corporate,fchowdhury@example.org
+1006,Kapur Inc,Raurkela Industrial Township,Assam,Retail,jagat51@example.org
+1007,"Dora, Gokhale and Sangha",Ghaziabad,Goa,Corporate,qdoctor@example.net
+1008,Mangat-Pall,Gopalpur,Meghalaya,Wholesale,alka10@example.org
+1009,"Din, Nagarajan and Divan",Amroha,Telangana,Wholesale,hbhavsar@example.net
+1010,Mallick-Dhillon,North Dumdum,Chhattisgarh,Wholesale,lekhapandit@example.com
+1011,Samra-Srivastava,Madanapalle,Uttar Pradesh,Wholesale,lakshit36@example.com
+1012,"Tank, Yohannan and Walla",Katihar,Nagaland,Corporate,leenachacko@example.net
+1013,"Sama, Vyas and Kanda",Noida,Kerala,Wholesale,janianay@example.com
+1014,"Som, Deol and Choudhary",Karnal,Kerala,Wholesale,chaitalysharma@example.org
+1015,"Sama, Kibe and Kade",Pimpri-Chinchwad,Telangana,Corporate,jacobdhar@example.com
+1016,"Bal, Samra and Prabhu",Aligarh,Sikkim,Corporate,soodnakul@example.org
+1017,Pau and Sons,Sambalpur,Assam,Retail,sahamason@example.org
+1018,Dey-Wable,Nandyal,Maharashtra,Corporate,sachi04@example.org
+1019,Bhasin Ltd,Mahbubnagar,Tripura,Corporate,yahvidyal@example.org
+1020,Sampath-Sha,Aurangabad,Mizoram,Retail,utkarsh62@example.com
+1021,Vig Group,Rajpur Sonarpur,Madhya Pradesh,Retail,kandamanya@example.org
+1022,"Brahmbhatt, Sidhu and Sood",Machilipatnam,Uttarakhand,Corporate,dgala@example.com
+1023,"Samra, Hayer and Madan",Vasai-Virar,Assam,Retail,gautami03@example.com
+1024,Chhabra Inc,Kavali,Andhra Pradesh,Wholesale,raghav83@example.net
+1025,Khosla LLC,Jehanabad,Odisha,Corporate,sulechakradev@example.org
+1026,Chander-More,Raurkela Industrial Township,Tripura,Retail,mitali83@example.com
+1027,Parekh-Dayal,Bathinda,Maharashtra,Retail,thakkarmason@example.org
+1028,"Raja, Sood and Barad",Nanded,Chhattisgarh,Retail,obrar@example.org
+1029,"Kata, Kale and Dhaliwal",Orai,Mizoram,Retail,sara25@example.com
+1030,Sankar-Baral,Mathura,Gujarat,Corporate,duawidisha@example.org
+1031,Dhar LLC,Panchkula,Bihar,Retail,kmurthy@example.com
+1032,Bir LLC,Nagercoil,Assam,Retail,golatriveni@example.com
+1033,Kunda-Sathe,Amravati,Odisha,Retail,xbaral@example.com
+1034,Rege-Dayal,Ambarnath,Mizoram,Wholesale,kashvi16@example.net
+1035,Lall-Basak,Sambalpur,Tamil Nadu,Wholesale,dubeyhenry@example.com
+1036,Dutt-Rastogi,Rajahmundry,Madhya Pradesh,Corporate,wchander@example.com
+1037,Warrior-Shroff,Guwahati,Goa,Corporate,ranganathanrachita@example.org
+1038,Narasimhan-Bhattacharyya,Tiruvottiyur,Punjab,Wholesale,skala@example.net
+1039,Contractor-Mallick,Agra,Nagaland,Wholesale,upmadhingra@example.net
+1040,Nagarajan PLC,Ghaziabad,Tripura,Retail,zbhatia@example.com
+1041,Solanki-Kala,Rajpur Sonarpur,West Bengal,Retail,sampathanamika@example.com
+1042,"Goda, Chacko and Dhar",Panipat,Madhya Pradesh,Wholesale,misrasiya@example.com
+1043,"Kala, Lad and Gour",Tiruchirappalli,Maharashtra,Corporate,chameli23@example.com
+1044,Subramaniam-Soman,Junagadh,Kerala,Wholesale,janne@example.net
+1045,Brahmbhatt Ltd,North Dumdum,Sikkim,Corporate,akshay27@example.org
+1046,Nadig-Comar,Firozabad,Mizoram,Wholesale,seshadrijeremiah@example.net
+1047,Chatterjee-Bansal,Maheshtala,Maharashtra,Retail,krishnakalita@example.com
+1048,Halder Ltd,Uluberia,Uttarakhand,Corporate,amol44@example.net
+1049,Tata Ltd,Haridwar,Maharashtra,Retail,indira86@example.net
+1050,Comar-Goda,Haldia,Kerala,Wholesale,nicholassarin@example.com
+1051,Sarkar-Mander,Chandigarh,Uttar Pradesh,Corporate,chakrabortyamol@example.net
+1052,Chawla-Taneja,Raiganj,Mizoram,Corporate,mannosha@example.org
+1053,Sha PLC,Raipur,Gujarat,Corporate,wdash@example.com
+1054,Randhawa-Amble,Rajahmundry,Mizoram,Retail,amrita44@example.com
+1055,"Khurana, Agrawal and Sachdeva",Kanpur,Andhra Pradesh,Wholesale,kavyavenkataraman@example.net
+1056,"Nadkarni, Nayak and Garde",New Delhi,Nagaland,Retail,nhans@example.net
+1057,Behl-Sanghvi,Pali,Telangana,Corporate,nehanadkarni@example.net
+1058,Sarkar and Sons,Cuttack,Mizoram,Retail,ramanathanabha@example.net
+1059,Naidu and Sons,Tiruchirappalli,Andhra Pradesh,Corporate,oapte@example.net
+1060,Bala PLC,Aurangabad,Madhya Pradesh,Retail,desudiksha@example.net
+1061,"Parmar, Grover and Khatri",Bihar Sharif,Gujarat,Wholesale,kritikalad@example.net
+1062,Maharaj Inc,Lucknow,Rajasthan,Retail,choudhrytripti@example.net
+1063,Chhabra and Sons,Firozabad,Goa,Retail,brahmbhattwarda@example.com
+1064,Raman Inc,Lucknow,Maharashtra,Retail,surfaraj@example.org
+1065,"Saini, Prashad and Murthy",Nanded,Goa,Retail,advaith29@example.net
+1066,"Balay, Dalal and Oza",Karawal Nagar,Punjab,Wholesale,duttaachal@example.org
+1067,Balan PLC,Kadapa,Mizoram,Corporate,tarakpatla@example.org
+1068,Balan LLC,Muzaffarnagar,Assam,Corporate,amritamahal@example.com
+1069,Chanda LLC,Bhind,Telangana,Corporate,gsarin@example.com
+1070,Krishna and Sons,Parbhani,Madhya Pradesh,Wholesale,muninoah@example.org
+1071,"Sura, Sant and Sehgal",Kavali,Telangana,Wholesale,eiravati91@example.net
+1072,Sanghvi-Iyengar,Dindigul,Rajasthan,Retail,senguptaoliver@example.org
+1073,"Kulkarni, Rout and Memon",Sikar,Andhra Pradesh,Wholesale,goleekantika@example.com
+1074,Parmar and Sons,Thrissur,Sikkim,Corporate,kamya25@example.org
+1075,Nagar Ltd,Ozhukarai,Gujarat,Wholesale,onagy@example.net
+1076,Rajan LLC,Hajipur,Gujarat,Corporate,mallfalan@example.net
+1077,"Sama, Saran and Nadkarni",Davanagere,Gujarat,Wholesale,takwishi@example.org
+1078,Sama-Dar,Bidhannagar,Goa,Wholesale,leela39@example.org
+1079,Badami-Agrawal,Anantapuram,Chhattisgarh,Corporate,ibansal@example.net
+1080,Nazareth Ltd,Coimbatore,Meghalaya,Corporate,sagarcharvi@example.com
+1081,Pal-Ratta,Miryalaguda,Tripura,Wholesale,wakeeta90@example.com
+1082,Sha-Tak,Dindigul,Punjab,Wholesale,balakrishnanudarsh@example.org
+1083,Dewan Inc,Junagadh,Haryana,Retail,gauranghalder@example.net
+1084,Yogi-Ahluwalia,Rampur,Uttar Pradesh,Corporate,choudhrychanakya@example.com
+1085,Lalla LLC,Gopalpur,Tamil Nadu,Retail,lakshitsharma@example.org
+1086,Nagar and Sons,Amroha,Sikkim,Wholesale,vigwridesh@example.net
+1087,Suri-Mand,Karawal Nagar,Haryana,Corporate,lallachaman@example.net
+1088,Pandit PLC,Tiruppur,Tamil Nadu,Wholesale,bordewarda@example.org
+1089,Arya Ltd,Bhind,Uttarakhand,Corporate,fguha@example.org
+1090,Joshi-Wable,Bijapur,Tamil Nadu,Wholesale,gdube@example.org
+1091,Kanda LLC,Bidhannagar,West Bengal,Retail,mugdhaguha@example.org
+1092,Sampath-Gala,Gangtok,Rajasthan,Retail,dintriya@example.org
+1093,"Choudhary, Khosla and Babu",Gaya,Himachal Pradesh,Retail,sonisneha@example.com
+1094,Dani-Chad,Chinsurah,Gujarat,Corporate,mekhalathakkar@example.com
+1095,"Nath, Bera and Sastry",Uluberia,Bihar,Corporate,rajapahal@example.org
+1096,Gulati-Rau,Hindupur,Himachal Pradesh,Corporate,bvenkataraman@example.org
+1097,"Bedi, Kothari and Choudhry",Raipur,Arunachal Pradesh,Retail,latawilliam@example.org
+1098,"Chaudhuri, Majumdar and Kara",Katni,Madhya Pradesh,Corporate,kannanamrita@example.com
+1099,Garg and Sons,Tumkur,Tamil Nadu,Wholesale,aarush12@example.net
+1100,"Sood, Mody and Khare",Satna,Sikkim,Corporate,ganesanrachit@example.com
+1101,Dhar-Arya,Haldia,Karnataka,Retail,goelaishani@example.org
+1102,Andra PLC,Bhalswa Jahangir Pur,Odisha,Retail,sureshyug@example.com
+1103,Bath Inc,Ambattur,Mizoram,Wholesale,mananchandra@example.org
+1104,Nayak-Sethi,Etawah,Nagaland,Corporate,vidhi45@example.com
+1105,Pandit LLC,Kadapa,Tripura,Corporate,rchowdhury@example.net
+1106,"Bail, Divan and Roy",Ajmer,Kerala,Wholesale,pbalasubramanian@example.net
+1107,"Sankar, Parsa and Jhaveri",Jammu,Madhya Pradesh,Wholesale,mahalshivani@example.net
+1108,Lanka Ltd,Bathinda,Madhya Pradesh,Retail,tmajumdar@example.org
+1109,Venkatesh Ltd,Pudukkottai,Bihar,Corporate,ksha@example.com
+1110,Choudhary-Anand,Siliguri,Manipur,Wholesale,bimalagaba@example.com
+1111,Mani-Bhattacharyya,Kanpur,Manipur,Corporate,kallabarkha@example.net
+1112,Bera Group,Kolkata,Maharashtra,Wholesale,aadi04@example.org
+1113,Mander-Thakkar,Chandigarh,Tamil Nadu,Retail,luke36@example.net
+1114,Mannan and Sons,Bhalswa Jahangir Pur,Kerala,Wholesale,libnisami@example.com
+1115,Lal LLC,Malegaon,Odisha,Wholesale,znaidu@example.net
+1116,Iyengar LLC,Erode,Nagaland,Wholesale,charvimody@example.org
+1117,Shenoy-Goswami,Junagadh,Bihar,Wholesale,riyamunshi@example.net
+1118,"Parmar, Sidhu and Pandya",Kirari Suleman Nagar,Maharashtra,Wholesale,bshenoy@example.net
+1119,Sama Inc,Srikakulam,Jharkhand,Corporate,yauvaniprakash@example.org
+1120,"Memon, Bera and Ramaswamy",Sambhal,Sikkim,Retail,sherezarna@example.com
+1121,Chad Inc,Aligarh,Karnataka,Retail,mannanvasatika@example.net
+1122,Bhat-Dara,Kurnool,Mizoram,Wholesale,warhideshpande@example.org
+1123,"Dubey, Mitra and Mukhopadhyay",Shivpuri,Punjab,Wholesale,ishwarbhavsar@example.org
+1124,Dara PLC,Shahjahanpur,Gujarat,Corporate,somaryan@example.net
+1125,Raman-Bhakta,Dewas,Madhya Pradesh,Wholesale,pgour@example.net
+1126,Sarna-Dasgupta,Ulhasnagar,Rajasthan,Wholesale,goyallucky@example.net
+1127,"Khosla, Garde and Vaidya",Fatehpur,Meghalaya,Corporate,bimala19@example.com
+1128,Maharaj-Raman,Aligarh,Manipur,Wholesale,jsandal@example.org
+1129,Shankar-Dara,Hyderabad,Odisha,Corporate,bahadurjit97@example.org
+1130,Dewan-Sidhu,Bally,Andhra Pradesh,Retail,ishitatella@example.net
+1131,Palla Ltd,Anand,Assam,Wholesale,maxpandey@example.net
+1132,"Nori, Sharaf and Dey",Avadi,Madhya Pradesh,Retail,sulekrisha@example.com
+1133,"Gole, Tripathi and Vora",Bikaner,Tamil Nadu,Wholesale,ijaya99@example.com
+1134,Bath Inc,Ahmednagar,Bihar,Wholesale,tatavamakshi@example.com
+1135,Khalsa Inc,Yamunanagar,Tripura,Wholesale,dbhatt@example.net
+1136,Contractor-Barad,Mango,Tripura,Retail,ayushman25@example.org
+1137,"Sengupta, Purohit and Deol",Thiruvananthapuram,Himachal Pradesh,Wholesale,rsarma@example.com
+1138,Jaggi Ltd,Raebareli,Uttarakhand,Corporate,gabrielbajwa@example.net
+1139,"Char, Jani and Bandi",Kolkata,Kerala,Retail,vbora@example.org
+1140,"Wable, Taneja and Gupta",Aurangabad,Uttarakhand,Corporate,wtella@example.com
+1141,"Devi, Bhavsar and Sarna",Gandhinagar,West Bengal,Corporate,brarjoshua@example.net
+1142,Chaudhuri-Dalal,Ahmednagar,Arunachal Pradesh,Wholesale,arin34@example.com
+1143,Parmar-Bir,Tumkur,Assam,Wholesale,zarnatella@example.com
+1144,Bhandari-Choudhry,Firozabad,Rajasthan,Retail,balihamsini@example.com
+1145,Iyer-Natt,Kolhapur,Gujarat,Retail,david37@example.org
+1146,"Banik, Pal and Bobal",Khora ,Telangana,Corporate,srinivaskai@example.com
+1147,"Barman, Chawla and Banik",Guna,Haryana,Wholesale,raagini74@example.org
+1148,Bhakta Inc,Deoghar,Punjab,Corporate,jbadami@example.com
+1149,Ram Group,Chinsurah,Tamil Nadu,Wholesale,hdevi@example.com
+1150,Pillai LLC,Tiruvottiyur,Maharashtra,Corporate,khannavincent@example.org
+1151,"Anne, Karan and Sachar",Kanpur,West Bengal,Wholesale,daksheshbose@example.org
+1152,Sarna and Sons,Varanasi,Karnataka,Retail,yash42@example.net
+1153,Srinivas-Das,Solapur,Himachal Pradesh,Retail,wardaparikh@example.org
+1154,Mittal-Peri,Sambalpur,Mizoram,Wholesale,eiravati88@example.org
+1155,Pal Group,Parbhani,Assam,Corporate,lakshverma@example.org
+1156,Kade-Das,Ajmer,Arunachal Pradesh,Retail,riasetty@example.org
+1157,Tara Inc,Alwar,Odisha,Wholesale,fmital@example.org
+1158,Rajagopalan-Tandon,Eluru,Madhya Pradesh,Wholesale,obasu@example.org
+1159,Gour-Sankar,Farrukhabad,Arunachal Pradesh,Corporate,atharv95@example.com
+1160,"Kalita, Bala and Om",Purnia,Uttar Pradesh,Wholesale,chopralipika@example.net
+1161,"Mani, Warrior and Sheth",Chapra,Telangana,Retail,nicholas67@example.net
+1162,Deo Inc,Panipat,Assam,Retail,chakrikanazareth@example.net
+1163,Barad-Mahal,Agartala,Sikkim,Corporate,advik14@example.net
+1164,"Nagi, Lalla and Gola",Surendranagar Dudhrej,Andhra Pradesh,Corporate,dandra@example.org
+1165,Srinivasan-Kamdar,Howrah,Odisha,Retail,malhotradipta@example.org
+1166,Gole-Kuruvilla,Rampur,West Bengal,Corporate,odatta@example.net
+1167,Din PLC,Muzaffarpur,Bihar,Retail,gouryashawini@example.com
+1168,"Nadig, Barman and Kari",Rampur,Himachal Pradesh,Wholesale,panditchaitanya@example.net
+1169,Palla Inc,Guna,Manipur,Corporate,vaidyafaras@example.org
+1170,Nanda PLC,Vijayanagaram,Assam,Retail,jmandal@example.org
+1171,Parsa-Nayak,Dindigul,Meghalaya,Corporate,azaan25@example.org
+1172,Doctor-Bal,Narasaraopet,Gujarat,Wholesale,yasti89@example.net
+1173,Kale-Radhakrishnan,Jalgaon,Madhya Pradesh,Retail,brahmbhattudarsh@example.net
+1174,"Sahota, Yohannan and Dara",Medininagar,Meghalaya,Retail,rnadig@example.org
+1175,"Memon, Kohli and Narasimhan",Mirzapur,Haryana,Retail,vmurty@example.org
+1176,"Khosla, Saxena and Rout",Vijayawada,Kerala,Wholesale,pathakveda@example.net
+1177,Sen Group,Jehanabad,Uttarakhand,Retail,yashreddy@example.net
+1178,"Devi, Lad and Mangat",Satara,Bihar,Corporate,regeoviya@example.net
+1179,Talwar Ltd,Bokaro,Manipur,Retail,ganesanjai@example.com
+1180,Singhal-Chaudhuri,Visakhapatnam,Uttarakhand,Wholesale,sbajwa@example.org
+1181,Deo PLC,Bhusawal,Kerala,Corporate,neelimakhurana@example.net
+1182,Dani-Nayar,Gudivada,Punjab,Wholesale,bathethan@example.net
+1183,Sen-Rege,Junagadh,Jharkhand,Corporate,udesai@example.org
+1184,"Upadhyay, Chacko and Doshi",Guntakal,Odisha,Corporate,sudiksha65@example.com
+1185,Trivedi Ltd,Jalandhar,Haryana,Wholesale,wakeeta50@example.net
+1186,"Vohra, Trivedi and Sandhu",North Dumdum,Madhya Pradesh,Wholesale,pranav20@example.net
+1187,"Kade, Sani and Venkataraman",Ramgarh,Punjab,Wholesale,hardik54@example.org
+1188,Mani LLC,Bahraich,Haryana,Wholesale,bhavyalad@example.net
+1189,Kata Ltd,Ajmer,Bihar,Retail,yashodaganguly@example.org
+1190,"Baral, Zacharia and Yogi",Chennai,Meghalaya,Wholesale,pinglesamar@example.com
+1191,"Sandhu, Saxena and Verma",Malda,Jharkhand,Corporate,darsai@example.com
+1192,Lall-Chadha,Alwar,Telangana,Retail,pandyafarhan@example.net
+1193,Borde LLC,Guna,Karnataka,Wholesale,sudiksha81@example.net
+1194,"Murty, Barad and Sant",Saharsa,Karnataka,Retail,balendraanand@example.org
+1195,Puri and Sons,Bilaspur,Meghalaya,Corporate,vedhikagrover@example.net
+1196,Mandal-Deep,Hubli–Dharwad,Mizoram,Corporate,aarushsaraf@example.org
+1197,Joshi-Gokhale,Gurgaon,Tamil Nadu,Corporate,lajita93@example.net
+1198,Sule-Wali,Dewas,Uttarakhand,Retail,brindasundaram@example.com
+1199,"Ramanathan, Parikh and Srivastava",Jalandhar,Haryana,Retail,manioni@example.com
+1200,Kota-Sandal,Belgaum,Manipur,Wholesale,ishaan56@example.net
+1201,Sule Group,Noida,Andhra Pradesh,Wholesale,amrita83@example.com
+1202,Naidu LLC,Bulandshahr,Madhya Pradesh,Wholesale,zsandal@example.com
+1203,Loyal Group,Sonipat,Rajasthan,Corporate,morarsara@example.com
+1204,Ganesan PLC,Bhubaneswar,Punjab,Wholesale,kai98@example.org
+1205,"Bail, Raghavan and Chana",Nagercoil,Tripura,Retail,bawazilmil@example.org
+1206,Wason-Issac,Jorhat,Madhya Pradesh,Wholesale,binaedwin@example.com
+1207,Sachdev-Kale,Ahmedabad,Arunachal Pradesh,Corporate,vyasharsh@example.net
+1208,Sundaram-Basak,Ichalkaranji,Jharkhand,Wholesale,karpeyug@example.org
+1209,Dasgupta-Purohit,Mira-Bhayandar,Uttarakhand,Corporate,frado11@example.net
+1210,"Sagar, Bahri and Aurora",Bareilly,Telangana,Corporate,mhari@example.com
+1211,Sandal-Vala,Barasat,Himachal Pradesh,Corporate,gjain@example.com
+1212,"Sinha, Puri and Manne",Tiruchirappalli,Haryana,Wholesale,emallick@example.com
+1213,"Walla, Toor and Konda",Pune,Meghalaya,Retail,wpradhan@example.net
+1214,"Chokshi, Sethi and Kapur",Sikar,Tripura,Wholesale,sanyapingle@example.com
+1215,"Chopra, Mukhopadhyay and Natarajan",Gwalior,Bihar,Corporate,sarthaksuri@example.net
+1216,Chacko and Sons,Tadepalligudem,Uttarakhand,Wholesale,uvirk@example.net
+1217,Bhargava Group,Bulandshahr,Jharkhand,Wholesale,matthew05@example.net
+1218,"Ray, Ahluwalia and Loyal",Kishanganj,Uttar Pradesh,Wholesale,utata@example.net
+1219,Nagy Group,Kottayam,Nagaland,Corporate,cheemapavani@example.net
+1220,Prashad and Sons,Nanded,Mizoram,Corporate,ganesanrudra@example.com
+1221,Barad Group,Tirunelveli,Rajasthan,Wholesale,vdey@example.net
+1222,Rastogi-Andra,Kochi,Maharashtra,Wholesale,anika85@example.net
+1223,Gandhi-Dhaliwal,Nagaon,Sikkim,Wholesale,kamyavenkataraman@example.net
+1224,Sodhi-Shere,Bathinda,Telangana,Retail,niteshviswanathan@example.net
+1225,Anne-Nadkarni,Mangalore,Chhattisgarh,Corporate,abhavsar@example.com
+1226,"Guha, Iyengar and Chandra",Bathinda,Bihar,Retail,sidhunaksh@example.org
+1227,Kara-Pai,Nellore,Himachal Pradesh,Corporate,pooja94@example.com
+1228,"Rau, Kumar and Jain",Guntakal,Chhattisgarh,Wholesale,kalitaati@example.org
+1229,Chaudry-Date,Bathinda,Odisha,Retail,urvashi32@example.org
+1230,Kalita Inc,Asansol,Goa,Wholesale,uacharya@example.org
+1231,Devan PLC,Khandwa,Sikkim,Retail,tnarain@example.net
+1232,Khosla PLC,Burhanpur,Tripura,Wholesale,wsom@example.com
+1233,"Nadig, Wali and Brar",Rourkela,Rajasthan,Corporate,luke68@example.com
+1234,Krishna-Dara,Karnal,Goa,Wholesale,pauunnati@example.net
+1235,Samra-Kala,Eluru,Kerala,Corporate,advaithhayre@example.com
+1236,Vora-Hayer,Dharmavaram,Jharkhand,Wholesale,girindra54@example.net
+1237,Mahajan Inc,Nangloi Jat,Madhya Pradesh,Wholesale,kulkarnianusha@example.net
+1238,Balasubramanian Ltd,Narasaraopet,Rajasthan,Corporate,lswaminathan@example.com
+1239,"Chawla, Barad and Pingle",Pudukkottai,Tamil Nadu,Corporate,peterdeep@example.org
+1240,Dar-Bhalla,Ghaziabad,Karnataka,Retail,mallrishi@example.net
+1241,"Badal, Natarajan and Nadig",Dharmavaram,Telangana,Wholesale,zaitra06@example.com
+1242,"Bhat, Bhattacharyya and Hans",Shimoga,Assam,Retail,sachibasu@example.com
+1243,"Issac, Tiwari and Rout",Delhi,Jharkhand,Retail,indali15@example.com
+1244,"Chadha, Sheth and Chakrabarti",Mysore,Goa,Corporate,grewaleesha@example.net
+1245,"Bahri, Gara and Anne",Dindigul,Manipur,Corporate,koshydarika@example.net
+1246,"Halder, Deo and Mukherjee",Nadiad,Tamil Nadu,Wholesale,pranav42@example.net
+1247,Sachdev-Kara,Darbhanga,Gujarat,Retail,chakrikalad@example.net
+1248,Lalla-Chanda,Raichur,Odisha,Wholesale,ikshita87@example.net
+1249,"Garde, Bansal and Rajan",Siwan,Odisha,Retail,radhapalan@example.net
+1250,"Mani, Johal and Oommen",Mysore,Mizoram,Corporate,aarnakamdar@example.com
+1251,Balay-D’Alia,Fatehpur,Chhattisgarh,Wholesale,xnaidu@example.net
+1252,Bandi-Naidu,Secunderabad,West Bengal,Retail,duttoviya@example.com
+1253,Nayar-Chaudhry,Secunderabad,Jharkhand,Corporate,unnigrewal@example.org
+1254,Shan-Saran,Bhalswa Jahangir Pur,Uttarakhand,Retail,zayyanprakash@example.net
+1255,Subramanian-Rattan,Thane,Haryana,Wholesale,samapooja@example.com
+1256,"Rattan, Balakrishnan and Gade",Dewas,Punjab,Corporate,liamde@example.net
+1257,Bhagat-Chana,Ajmer,Uttar Pradesh,Retail,tara62@example.com
+1258,Divan and Sons,Barasat,Jharkhand,Retail,goyalwarinder@example.org
+1259,Chana-Konda,Miryalaguda,West Bengal,Wholesale,abdul72@example.com
+1260,Sinha PLC,Rajpur Sonarpur,Meghalaya,Wholesale,tsheth@example.org
+1261,Ram and Sons,Guntur,Madhya Pradesh,Wholesale,barkha69@example.com
+1262,"Bora, Palan and Suresh",Korba,Punjab,Corporate,wahabpillay@example.com
+1263,Thaker-Agarwal,Solapur,Rajasthan,Corporate,lakshittata@example.org
+1264,Kakar LLC,Tiruchirappalli,Karnataka,Wholesale,bgole@example.org
+1265,Mukhopadhyay-Ram,Visakhapatnam,Himachal Pradesh,Corporate,kgola@example.com
+1266,"Varughese, Cherian and Shroff",Sri Ganganagar,Sikkim,Retail,raveladvik@example.org
+1267,Dave-Tripathi,Malda,Andhra Pradesh,Wholesale,bratti@example.org
+1268,Sandal-Kuruvilla,Mahbubnagar,Uttar Pradesh,Corporate,xthakkar@example.com
+1269,"Nayak, Warrior and Patla",Mangalore,Maharashtra,Corporate,jbuch@example.org
+1270,Kuruvilla-Hora,Raebareli,Arunachal Pradesh,Wholesale,cmanda@example.org
+1271,Sharma-Peri,Khora ,Sikkim,Wholesale,zayyan65@example.net
+1272,Bajwa-Loke,Durg,Kerala,Corporate,cbadal@example.com
+1273,Banik-Choudhury,Vadodara,Nagaland,Corporate,lkothari@example.org
+1274,"Chandra, Date and Dhillon",Chinsurah,Himachal Pradesh,Wholesale,tara93@example.net
+1275,"Shanker, Baria and Bose",Serampore,Arunachal Pradesh,Corporate,harrisonraja@example.net
+1276,"Brar, Nazareth and Mittal",Rewa,Andhra Pradesh,Retail,aarinibuch@example.com
+1277,Handa PLC,Avadi,Punjab,Corporate,chandranprasad@example.net
+1278,Kale-Sarkar,Gaya,Himachal Pradesh,Retail,rastogipratyush@example.net
+1279,Mahajan-Ahluwalia,Dhule,Andhra Pradesh,Retail,rdayal@example.com
+1280,Nadkarni-Chatterjee,Kamarhati,Andhra Pradesh,Corporate,timothy19@example.com
+1281,"Sharma, Salvi and Narasimhan",Fatehpur,Nagaland,Corporate,ozaharini@example.com
+1282,Saxena-Doshi,Panchkula,Gujarat,Wholesale,madhavikumer@example.com
+1283,Brar Ltd,Kishanganj,Kerala,Retail,johalkala@example.com
+1284,Murty-Seth,Ludhiana,Chhattisgarh,Corporate,indirasankar@example.com
+1285,Mander PLC,Noida,Madhya Pradesh,Retail,kritikadasgupta@example.org
+1286,Kamdar-Kakar,Aurangabad,Jharkhand,Wholesale,nathanrattan@example.net
+1287,Pandey-Kalla,Khora ,Himachal Pradesh,Retail,janani15@example.net
+1288,"Walia, Ramanathan and Kar",Shimla,Tripura,Corporate,cmangat@example.org
+1289,Ratta LLC,Katihar,Uttarakhand,Corporate,ucchal21@example.com
+1290,"Sahota, Sahota and Roy",Bhopal,Punjab,Retail,lakshitthakur@example.org
+1291,"Rege, Bajaj and Nair",Rourkela,Odisha,Wholesale,xchand@example.org
+1292,"Ramachandran, Vaidya and Hans",Berhampore,Kerala,Retail,parthsodhi@example.net
+1293,Naidu and Sons,Amritsar,Andhra Pradesh,Corporate,triyasharaf@example.org
+1294,"Sawhney, Khurana and Goel",Orai,Rajasthan,Wholesale,narulanathaniel@example.org
+1295,Boase-Amble,Vellore,West Bengal,Retail,erajan@example.com
+1296,Yogi-Dara,Bahraich,Meghalaya,Retail,mastermitali@example.net
+1297,Patla Group,Haldia,Uttar Pradesh,Wholesale,chawlamadhav@example.com
+1298,"Choudhury, Gara and Peri",Sonipat,Chhattisgarh,Retail,vasudhakade@example.com
+1299,Narayan Ltd,Berhampore,Tamil Nadu,Wholesale,wkonda@example.com
+1300,Merchant-Saxena,Hospet,Tamil Nadu,Wholesale,anvi90@example.org
+1301,Vig LLC,Korba,Kerala,Wholesale,bishakha42@example.net
+1302,"Mody, Soman and Sarraf",Bhatpara,Telangana,Wholesale,mananmaster@example.com
+1303,Kari-Bala,Ballia,Jharkhand,Retail,adviklad@example.com
+1304,"Trivedi, Varughese and Ravi",Tadipatri,Goa,Retail,nachiket98@example.com
+1305,"Prasad, Radhakrishnan and Sundaram",Loni,Meghalaya,Corporate,vedaraghavan@example.org
+1306,"Bhattacharyya, Oommen and Kar",Tiruppur,Haryana,Wholesale,arunimadar@example.net
+1307,Parikh Group,Jehanabad,Rajasthan,Corporate,viswanathanvedant@example.net
+1308,Patla Ltd,Silchar,Rajasthan,Corporate,narayanyashica@example.org
+1309,Warrior-Yogi,Pimpri-Chinchwad,Manipur,Retail,yashkunda@example.net
+1310,Konda and Sons,Belgaum,Arunachal Pradesh,Retail,arunima13@example.net
+1311,Deo PLC,Ghaziabad,Gujarat,Retail,yagneshsood@example.com
+1312,Yadav Inc,Srinagar,Gujarat,Retail,cdada@example.org
+1313,Hora-Chaudhry,Khora ,Meghalaya,Corporate,aditya96@example.org
+1314,"Savant, Hayer and Shan",Chandrapur,Tripura,Wholesale,fmadan@example.net
+1315,Narasimhan PLC,Kottayam,Jharkhand,Corporate,aishani83@example.com
+1316,Thakur-More,Gorakhpur,Tripura,Corporate,vinayaahuja@example.com
+1317,"Singhal, Tandon and Gade",Amritsar,Tripura,Retail,gmodi@example.com
+1318,Yohannan-Goswami,Moradabad,Tripura,Wholesale,tanaymohanty@example.net
+1319,Nagarajan-Wali,Kota,Sikkim,Corporate,shivansh92@example.com
+1320,Handa Group,Sangli-Miraj & Kupwad,Punjab,Retail,eshanavarty@example.com
+1321,"Saha, Luthra and Karnik",Chittoor,West Bengal,Retail,kamala24@example.com
+1322,"Pandya, Murty and Sengupta",Khandwa,Odisha,Wholesale,asahni@example.com
+1323,Rege LLC,Sirsa,Tripura,Corporate,anirudh33@example.net
+1324,"Kunda, Menon and Prakash",Pondicherry,Maharashtra,Wholesale,jnanda@example.net
+1325,"Iyengar, Kale and Thakur",Panipat,Bihar,Wholesale,kibenaveen@example.com
+1326,"Srinivasan, Singhal and Batra",Morbi,Haryana,Wholesale,keya01@example.org
+1327,"Oommen, Majumdar and Yogi",Bahraich,Jharkhand,Corporate,sodhikrish@example.net
+1328,Nair Ltd,Saharanpur,West Bengal,Retail,chandaniiyengar@example.net
+1329,Sarma and Sons,Chapra,Nagaland,Wholesale,bishakha02@example.org
+1330,"Murthy, Patel and Sehgal",Udaipur,Karnataka,Wholesale,dkari@example.com
+1331,Issac-Lad,Mahbubnagar,Telangana,Corporate,deyjagdish@example.net
+1332,Sane-Randhawa,Nashik,Uttarakhand,Corporate,valakashvi@example.org
+1333,"Sarkar, Balay and Thaman",Siwan,Meghalaya,Retail,gauri11@example.net
+1334,Chowdhury PLC,Anand,West Bengal,Retail,sidhurayaan@example.org
+1335,"Sankar, Malhotra and Shroff",Saharanpur,Rajasthan,Wholesale,elijah29@example.com
+1336,Wable-Sankaran,Rewa,Odisha,Wholesale,abeer96@example.org
+1337,Kar LLC,Saharanpur,Himachal Pradesh,Corporate,etawalia@example.com
+1338,"Iyer, Pant and Dua",Siliguri,Gujarat,Wholesale,pratyush10@example.net
+1339,"Baral, Datta and Zachariah",Coimbatore,Karnataka,Corporate,victor33@example.com
+1340,Samra LLC,Bellary,Tripura,Wholesale,avi27@example.org
+1341,Bal-Sawhney,Nadiad,Arunachal Pradesh,Corporate,zsarna@example.org
+1342,Rai PLC,Tiruchirappalli,Goa,Wholesale,gabashaurya@example.org
+1343,Parmar-Nadig,Jhansi,Gujarat,Wholesale,tripathijagvi@example.com
+1344,Trivedi-Choudhury,Pune,Andhra Pradesh,Wholesale,zsalvi@example.org
+1345,Patel-Mukherjee,Raebareli,West Bengal,Retail,veer16@example.com
+1346,Maharaj Ltd,Ranchi,Chhattisgarh,Wholesale,peterandra@example.org
+1347,"Dugal, Dey and Singhal",Ghaziabad,Punjab,Wholesale,chaayaprabhu@example.net
+1348,Dugar-Saini,Akola,Mizoram,Retail,pratyushpatla@example.org
+1349,Balan Group,Farrukhabad,Madhya Pradesh,Retail,alka95@example.org
+1350,Narula Inc,Visakhapatnam,Telangana,Wholesale,nikitabatra@example.net
+1351,Vohra-Gara,Salem,Andhra Pradesh,Corporate,udant16@example.org
+1352,Soni Group,Jorhat,Manipur,Wholesale,aadimukhopadhyay@example.com
+1353,Kurian-Dave,Panvel,Kerala,Corporate,sridharwaida@example.net
+1354,"Hayre, Dass and Kanda",Asansol,Haryana,Wholesale,chandrannetra@example.com
+1355,"Cheema, Krish and Kara",Udaipur,Telangana,Corporate,falguni79@example.net
+1356,"Loke, Deep and Narang",Dindigul,Sikkim,Wholesale,bakhshirajan@example.net
+1357,Hora and Sons,Asansol,Rajasthan,Retail,khannaneel@example.com
+1358,Apte-Srivastava,Hapur,Gujarat,Corporate,nseth@example.com
+1359,"Lall, Sarraf and Dalal",Kottayam,Karnataka,Wholesale,quincy45@example.com
+1360,"Shan, Char and Oommen",Rajkot,Uttar Pradesh,Wholesale,pooja08@example.org
+1361,Karan Group,Jamshedpur,Nagaland,Retail,jonathan54@example.com
+1362,Butala-Thaman,Sikar,Uttarakhand,Corporate,luckykapadia@example.org
+1363,Pandya PLC,Phusro,West Bengal,Corporate,waliajanani@example.net
+1364,Wali and Sons,Kozhikode,Bihar,Corporate,upkaardoshi@example.net
+1365,"Samra, Jain and Mallick",Rewa,Jharkhand,Retail,avig@example.com
+1366,Nagy-Deshpande,Mumbai,Assam,Corporate,devika39@example.net
+1367,Bhargava Group,Asansol,Meghalaya,Corporate,xavierraman@example.org
+1368,"Saini, Raman and Hari",Etawah,Assam,Wholesale,anyadey@example.com
+1369,Doshi and Sons,Ajmer,Sikkim,Wholesale,falak01@example.net
+1370,Viswanathan-Chauhan,Ahmednagar,Sikkim,Retail,hmisra@example.net
+1371,"Sha, Dube and Bobal",Darbhanga,Arunachal Pradesh,Corporate,hkumer@example.net
+1372,Sandhu-Ganguly,Jalna,Haryana,Wholesale,chakrabartijanani@example.org
+1373,"Talwar, Sankaran and Sama",Vasai-Virar,West Bengal,Retail,anya48@example.com
+1374,Krishnamurthy-Parikh,Ahmedabad,Bihar,Corporate,lkibe@example.com
+1375,Saraf Ltd,Vasai-Virar,Tripura,Retail,mprashad@example.net
+1376,"Raja, Basak and Chokshi",Ramgarh,Bihar,Corporate,kharejalsa@example.net
+1377,"Sama, Ramesh and Baral",Gandhidham,West Bengal,Wholesale,cvirk@example.com
+1378,"Sankaran, Bal and Kalita",Nagpur,Rajasthan,Corporate,hardik46@example.org
+1379,"Shan, Kulkarni and Parmer",Nagercoil,Haryana,Corporate,sanaya05@example.com
+1380,"Lall, Dyal and Kadakia",Rewa,Tripura,Corporate,orinder71@example.com
+1381,Yohannan-Kari,Farrukhabad,Bihar,Corporate,ravidhriti@example.net
+1382,Grewal-Raja,Bilaspur,West Bengal,Retail,vpanchal@example.com
+1383,Dutta-Ganguly,Pune,Bihar,Corporate,dayitatoor@example.net
+1384,"Minhas, Yohannan and Gokhale",Tadipatri,Tamil Nadu,Retail,issacgirik@example.org
+1385,"Ravel, Lall and Dhingra",Katihar,Kerala,Corporate,ydeol@example.org
+1386,"Memon, Butala and Naik",Mango,Uttarakhand,Corporate,korpalmohammed@example.net
+1387,Bal-Talwar,Muzaffarnagar,Haryana,Retail,riakalita@example.org
+1388,Minhas and Sons,Pudukkottai,Meghalaya,Wholesale,jsachdeva@example.net
+1389,"Handa, Sachar and Grewal",Ramgarh,Madhya Pradesh,Wholesale,januja46@example.com
+1390,Keer-Nagarajan,Solapur,Tamil Nadu,Retail,ekantakoshy@example.net
+1391,"Dave, Char and Tripathi",Jorhat,Karnataka,Corporate,kariijaya@example.net
+1392,"Kapur, Shroff and Luthra",Jaunpur,Punjab,Wholesale,ltank@example.com
+1393,Garg Inc,Karaikudi,Rajasthan,Corporate,palanvansha@example.net
+1394,Bhatt Ltd,Amritsar,Telangana,Retail,zayyan09@example.com
+1395,Deol-Randhawa,Bidhannagar,Jharkhand,Retail,ganga39@example.net
+1396,Dhawan-Zacharia,Chennai,Punjab,Wholesale,parmarjagdish@example.org
+1397,"Bhatt, Wagle and Sachdev",Jammu,Haryana,Wholesale,pratyushbalan@example.net
+1398,Dar-Narula,Bareilly,Madhya Pradesh,Corporate,yreddy@example.net
+1399,Devi-Oza,Jalandhar,Jharkhand,Wholesale,peter64@example.com
+1400,Gour LLC,Kollam,Haryana,Retail,finn57@example.org
+1401,"Kurian, Bahri and Bhat",Dindigul,Bihar,Retail,aaravwadhwa@example.org
+1402,Narain Group,Bhopal,Uttar Pradesh,Retail,ekaraj23@example.net
+1403,"Tara, Gopal and Wason",Hapur,Bihar,Corporate,kavyagoel@example.com
+1404,"Goel, Tripathi and Dixit",Ludhiana,Punjab,Wholesale,yogijai@example.com
+1405,Chokshi-Palla,Gudivada,Mizoram,Corporate,harishtank@example.org
+1406,"Dubey, Nazareth and Sha",Sultan Pur Majra,Bihar,Corporate,nigamyatin@example.com
+1407,Khatri Group,Sambhal,Arunachal Pradesh,Wholesale,daniel79@example.org
+1408,"Chand, Nagi and Vyas",Bongaigaon,Rajasthan,Retail,barkhanagi@example.org
+1409,Hora-Master,Sambhal,Maharashtra,Wholesale,fbutala@example.org
+1410,Chawla-Nagy,Phagwara,Madhya Pradesh,Wholesale,widisha40@example.net
+1411,Guha Inc,Dharmavaram,Telangana,Wholesale,diptabava@example.net
+1412,Batta LLC,Maheshtala,Kerala,Corporate,sarafyashoda@example.net
+1413,Trivedi LLC,Kakinada,Bihar,Wholesale,ogrewal@example.net
+1414,Bora-Jani,Tiruppur,Odisha,Retail,bathlakshmi@example.org
+1415,"Dada, Mannan and Agrawal",Bathinda,Goa,Wholesale,xkari@example.com
+1416,Dugal and Sons,Rampur,Maharashtra,Retail,samarth46@example.net
+1417,Sagar Group,Alwar,Uttarakhand,Retail,vinayakulkarni@example.net
+1418,Rana Inc,Warangal,Sikkim,Retail,ekavircontractor@example.org
+1419,Suresh Inc,Jorhat,Karnataka,Corporate,aahanarao@example.com
+1420,"Mangat, Mane and Lal",Jamshedpur,Madhya Pradesh,Corporate,gabrieltank@example.org
+1421,Vasa Inc,Nangloi Jat,Bihar,Corporate,karnikbaljiwan@example.com
+1422,Chacko Ltd,New Delhi,Maharashtra,Wholesale,raksha27@example.net
+1423,Thakur and Sons,Ratlam,Arunachal Pradesh,Corporate,duaharita@example.com
+1424,Palla Group,Pimpri-Chinchwad,Madhya Pradesh,Wholesale,sdua@example.net
+1425,Kar and Sons,Thanjavur,Sikkim,Retail,cbakshi@example.org
+1426,Wadhwa LLC,Asansol,Nagaland,Wholesale,dakshesh11@example.com
+1427,"Warrior, Badal and Gara",Uluberia,Arunachal Pradesh,Retail,hemangkaur@example.org
+1428,Aggarwal-Bhardwaj,Tezpur,Bihar,Wholesale,balendraborah@example.org
+1429,"Soni, Raju and Mandal",Hospet,Telangana,Corporate,vrittikrishna@example.com
+1430,"Sha, Srinivas and Dua",Jorhat,Kerala,Retail,maanasmangat@example.net
+1431,"Ghosh, Rama and Kurian",Arrah,Telangana,Wholesale,sankarancharita@example.org
+1432,Sharaf Group,Rewa,Chhattisgarh,Wholesale,sathvik66@example.com
+1433,Sethi-Sawhney,Madhyamgram,Kerala,Corporate,eshana62@example.net
+1434,"Jha, Korpal and Kalla",Jehanabad,Gujarat,Corporate,ubika86@example.com
+1435,"Mohanty, Kala and Ramaswamy",Nandyal,Bihar,Corporate,xmital@example.net
+1436,Behl-Iyengar,Naihati,Nagaland,Wholesale,leenavarughese@example.com
+1437,Savant Inc,Kharagpur,Odisha,Corporate,anjalidugal@example.net
+1438,Hora-Dora,Ratlam,Manipur,Wholesale,kalpitsur@example.com
+1439,"Wali, Banik and Chatterjee",Guwahati,Andhra Pradesh,Corporate,beragarima@example.org
+1440,Parikh-Jain,Kakinada,Jharkhand,Wholesale,patildiya@example.net
+1441,Soman-Nigam,Ramagundam,Jharkhand,Retail,duttamax@example.org
+1442,Dani-Walia,Kozhikode,Nagaland,Corporate,smand@example.org
+1443,Din Group,Thane,Chhattisgarh,Retail,ysolanki@example.com
+1444,Bahri PLC,Gandhidham,Odisha,Wholesale,sarabahri@example.com
+1445,"Padmanabhan, Nori and Chada",Coimbatore,Goa,Retail,charitaramesh@example.org
+1446,Hegde Ltd,Jalna,Tamil Nadu,Corporate,pantwarda@example.org
+1447,"Sahni, Gara and Patla",Nellore,Mizoram,Corporate,zinal07@example.com
+1448,Ben Ltd,Farrukhabad,Himachal Pradesh,Wholesale,vsant@example.org
+1449,Shanker-Buch,Suryapet,Arunachal Pradesh,Corporate,advaithbahl@example.com
+1450,Iyengar-Singhal,Munger,Arunachal Pradesh,Retail,keya55@example.net
+1451,Ray-Oommen,Sri Ganganagar,Telangana,Corporate,reyansh74@example.com
+1452,Sengupta Ltd,Imphal,West Bengal,Retail,bajajkabir@example.org
+1453,Borde and Sons,Amritsar,Chhattisgarh,Corporate,gaganborra@example.org
+1454,"Arya, Om and Bobal",Ballia,Rajasthan,Wholesale,ynarayanan@example.net
+1455,Dara Inc,Kollam,Telangana,Corporate,grewalgavin@example.net
+1456,Aggarwal Group,Bhagalpur,Arunachal Pradesh,Wholesale,ramekani@example.net
+1457,"Hans, Soni and Hora",Mahbubnagar,Tamil Nadu,Corporate,upasnamani@example.net
+1458,"Bhat, Savant and Goyal",Vijayawada,Goa,Wholesale,adyadhawan@example.net
+1459,"Gulati, Dasgupta and Borra",Gaya,West Bengal,Retail,vedant26@example.net
+1460,"Minhas, Sachar and Toor",Bellary,Maharashtra,Retail,hemani38@example.org
+1461,"Krishnamurthy, Manda and Edwin",Ghaziabad,Assam,Retail,upadmanabhan@example.org
+1462,"Sani, Buch and Sehgal",Hubli–Dharwad,Karnataka,Retail,dominic94@example.net
+1463,Seshadri-Parmar,Uluberia,Meghalaya,Wholesale,vrinda58@example.net
+1464,Kari PLC,Kalyan-Dombivli,Tamil Nadu,Wholesale,nimrat77@example.com
+1465,Sheth-Shetty,Jamnagar,Chhattisgarh,Retail,bsaini@example.org
+1466,Raj-Dixit,Ambarnath,Andhra Pradesh,Retail,jgera@example.net
+1467,Kalla Inc,Katni,Meghalaya,Retail,anikanazareth@example.org
+1468,Tank Group,Avadi,Uttarakhand,Corporate,vedant37@example.net
+1469,"Tata, Sant and Saran",Morbi,Sikkim,Retail,pandithitesh@example.org
+1470,Sood-Mann,Noida,Mizoram,Wholesale,akalita@example.com
+1471,Morar Ltd,Sonipat,Rajasthan,Wholesale,pushti91@example.net
+1472,Wagle LLC,Dindigul,Uttar Pradesh,Wholesale,kalasolanki@example.org
+1473,Sekhon LLC,Shahjahanpur,Gujarat,Corporate,vivaan57@example.com
+1474,"Oak, Narula and Hayer",Pondicherry,Uttar Pradesh,Corporate,warjaskrish@example.com
+1475,"Singhal, Bahl and Munshi",Yamunanagar,Tripura,Corporate,ekantabumb@example.net
+1476,Shere-Lata,Hospet,Madhya Pradesh,Corporate,anyadhar@example.com
+1477,Som and Sons,Delhi,Karnataka,Wholesale,vasudha82@example.com
+1478,Sundaram-Murthy,Maheshtala,Punjab,Corporate,merchantdarsh@example.net
+1479,Viswanathan PLC,Kulti,Uttar Pradesh,Corporate,ssampath@example.org
+1480,Lal-Jayaraman,Sagar,Andhra Pradesh,Corporate,samafarhan@example.com
+1481,Divan-Sekhon,Miryalaguda,Goa,Retail,gmurthy@example.com
+1482,Majumdar-Hora,Anantapuram,Goa,Wholesale,ekantikabadal@example.org
+1483,Narain PLC,Arrah,Chhattisgarh,Corporate,keya80@example.net
+1484,Naik-Randhawa,Khammam,Punjab,Retail,mandalekiya@example.net
+1485,"Baral, Vaidya and Bhalla",Mehsana,Assam,Wholesale,deymax@example.org
+1486,"Gade, Keer and Chanda",Raurkela Industrial Township,Karnataka,Corporate,sacharhemal@example.org
+1487,Rattan-Bhatia,Tenali,Tamil Nadu,Wholesale,gauravjohal@example.com
+1488,D’Alia LLC,Mathura,Arunachal Pradesh,Wholesale,benumang@example.com
+1489,Basak and Sons,Jamnagar,West Bengal,Retail,xitinagarajan@example.com
+1490,Randhawa-Bahl,Kumbakonam,Andhra Pradesh,Corporate,cbir@example.org
+1491,"Banik, Joshi and Karpe",Chennai,Kerala,Wholesale,pillaiyashodhara@example.org
+1492,Kala-Doshi,Ichalkaranji,Himachal Pradesh,Retail,yasti62@example.org
+1493,"Kunda, Natt and Hayre",Bhilwara,Madhya Pradesh,Wholesale,mangalsiya@example.org
+1494,Vala-Ravi,Udaipur,Bihar,Wholesale,ramhredhaan@example.net
+1495,Iyengar PLC,Kakinada,Odisha,Retail,jalsa70@example.net
+1496,"Karpe, Krishnan and Kalla",Tirupati,Andhra Pradesh,Wholesale,pratyushnath@example.org
+1497,Rama-Narang,Katni,Punjab,Retail,vyanjanasrinivasan@example.net
+1498,"Mangal, Kothari and Brahmbhatt",Mumbai,West Bengal,Corporate,bediadvay@example.com
+1499,Mitter Group,Tezpur,Goa,Wholesale,berajhalak@example.org
+1500,"Halder, Sampath and Pradhan",Parbhani,Maharashtra,Corporate,mishrabakhshi@example.org
+1501,Dhar-Lall,Kurnool,Bihar,Corporate,soniowen@example.org
+1502,Chadha Ltd,Sirsa,West Bengal,Wholesale,anamika09@example.com
+1503,Dua and Sons,Sikar,Sikkim,Retail,cbalan@example.com
+1504,Shroff-Sachar,Ahmedabad,Odisha,Wholesale,bhatnagaravni@example.net
+1505,Srinivas-Jain,Nagpur,Sikkim,Wholesale,raghav37@example.org
+1506,"Basu, Saran and Suresh",Nashik,Jharkhand,Retail,gaurang95@example.com
+1507,Gade-Prakash,Suryapet,Nagaland,Retail,ekanipalan@example.com
+1508,Ratti LLC,Sri Ganganagar,Tripura,Wholesale,manbir78@example.com
+1509,Sankaran-Chadha,Durgapur,Karnataka,Retail,unnati78@example.net
+1510,Basak LLC,Khora ,Karnataka,Corporate,liamjha@example.net
+1511,Bumb-Saini,Orai,Nagaland,Retail,venkateshhemang@example.net
+1512,Kumar PLC,Ambattur,Sikkim,Corporate,vrinda15@example.net
+1513,Rana-Virk,Muzaffarnagar,Odisha,Corporate,nikita13@example.net
+1514,"Setty, Dugal and Guha",Dibrugarh,Uttar Pradesh,Corporate,tandonmaanas@example.org
+1515,"Mohan, Khurana and Ravi",Bhagalpur,Nagaland,Retail,halderarjun@example.org
+1516,Merchant Inc,Gaya,Uttarakhand,Retail,bhavsarzehaan@example.com
+1517,Sami LLC,Hyderabad,Tamil Nadu,Wholesale,hemal65@example.org
+1518,Sangha-Sridhar,Pallavaram,Arunachal Pradesh,Retail,wnagarajan@example.org
+1519,Solanki-Rajagopal,Bhusawal,Tamil Nadu,Retail,vritti06@example.org
+1520,Chadha-Soman,Tinsukia,Assam,Corporate,korpalgirindra@example.com
+1521,Nazareth-Khurana,Visakhapatnam,Karnataka,Retail,siya39@example.com
+1522,Anne Ltd,Guntakal,West Bengal,Retail,toorsai@example.org
+1523,"Golla, Sheth and Maharaj",Jorhat,Rajasthan,Corporate,kulkarnijacob@example.net
+1524,"Swaminathan, Ghosh and Seth",Ujjain,Arunachal Pradesh,Retail,garima61@example.net
+1525,Bose and Sons,Shivpuri,Haryana,Corporate,rampatrick@example.com
+1526,Mittal and Sons,Mau,West Bengal,Retail,tkarnik@example.com
+1527,"D’Alia, Chaudhuri and Gala",Mira-Bhayandar,Telangana,Retail,sarmawatika@example.com
+1528,"Sani, Bail and Vohra",Tinsukia,Bihar,Wholesale,csom@example.com
+1529,Sami-Bhavsar,Chandigarh,Himachal Pradesh,Retail,vaishnavi68@example.org
+1530,Dara Inc,Chandigarh,Odisha,Corporate,ronithsehgal@example.net
+1531,"Prakash, Lall and Sridhar",Udaipur,Odisha,Retail,jdalia@example.org
+1532,Jain and Sons,Guntur,Telangana,Wholesale,xapte@example.org
+1533,"Arora, Chowdhury and Vohra",Bhimavaram,Mizoram,Retail,mitterlaksh@example.com
+1534,Srinivasan and Sons,Fatehpur,Meghalaya,Retail,gkala@example.org
+1535,Bobal-Dhingra,Sasaram,Chhattisgarh,Corporate,sridharyochana@example.org
+1536,"Gala, Koshy and Sachdev",Kamarhati,Uttarakhand,Wholesale,niharika06@example.org
+1537,Rana-Bala,Dindigul,Madhya Pradesh,Retail,vkar@example.org
+1538,Upadhyay-Ray,New Delhi,Punjab,Retail,widisha16@example.net
+1539,Sahni Inc,Ulhasnagar,Tripura,Corporate,pinglearunima@example.com
+1540,Shetty-Om,Jorhat,Punjab,Retail,darika78@example.com
+1541,Devan-Singh,Mysore,Tamil Nadu,Retail,ioommen@example.net
+1542,"Bhatnagar, Krishnamurthy and Loyal",Tumkur,Punjab,Retail,dhritinaik@example.org
+1543,"Halder, Pall and Mohan",Thanjavur,Mizoram,Wholesale,qmallick@example.net
+1544,Guha-Dewan,Jhansi,Sikkim,Retail,ekani37@example.net
+1545,"Ghose, Dalal and Manne",Tiruppur,Punjab,Corporate,qadim75@example.org
+1546,Sule-Madan,Siwan,Karnataka,Wholesale,aachalbora@example.com
+1547,Puri PLC,Delhi,Assam,Retail,aachaltalwar@example.com
+1548,"Malhotra, Vaidya and Salvi",Shimoga,Arunachal Pradesh,Retail,msuri@example.org
+1549,Sarkar-Ram,Jamshedpur,Chhattisgarh,Wholesale,jasonpathak@example.org
+1550,Boase LLC,Motihari,Nagaland,Retail,joshua16@example.org
+1551,Bhasin Inc,Naihati,Punjab,Retail,bhavani63@example.org
+1552,Loke PLC,Patiala,Chhattisgarh,Corporate,nadigthomas@example.org
+1553,Jani-Badal,Mysore,Odisha,Wholesale,vedika11@example.org
+1554,Kant-Khurana,Phagwara,Goa,Corporate,thomasmammen@example.org
+1555,Khare Ltd,Raebareli,Odisha,Retail,nsehgal@example.org
+1556,Bumb Group,Mango,Chhattisgarh,Corporate,brai@example.net
+1557,Jha-Swamy,Loni,Karnataka,Retail,ansh78@example.net
+1558,Sathe-Jha,Asansol,Tamil Nadu,Wholesale,purohitom@example.com
+1559,Kamdar LLC,Machilipatnam,Himachal Pradesh,Wholesale,binakashyap@example.com
+1560,"Singh, Bajwa and Kohli",Bidhannagar,Tamil Nadu,Wholesale,ramachandranhemani@example.com
+1561,Bahri-Swaminathan,Amroha,Maharashtra,Corporate,sarkaraadhya@example.com
+1562,Luthra LLC,Nangloi Jat,Goa,Corporate,theodorevarughese@example.net
+1563,"Hayre, Bansal and Raj",Nashik,Tripura,Retail,gautamdutt@example.org
+1564,"Bedi, Krishna and Buch",Bidhannagar,Chhattisgarh,Wholesale,lucky64@example.org
+1565,Rout LLC,Saharsa,Assam,Corporate,georgeben@example.net
+1566,"Goda, Mani and Singhal",Rourkela,Haryana,Retail,hayrefaraj@example.org
+1567,Luthra and Sons,Surendranagar Dudhrej,Nagaland,Corporate,praneel28@example.org
+1568,Anand LLC,Darbhanga,Mizoram,Retail,tellayamini@example.org
+1569,Deshmukh-Ganesh,Nandyal,Chhattisgarh,Corporate,wyattpillai@example.net
+1570,Shere-Korpal,Akola,Tamil Nadu,Corporate,kotharineel@example.net
+1571,"Basak, Bhavsar and Purohit",Mumbai,Jharkhand,Corporate,zwadhwa@example.com
+1572,"Rana, Raval and Vohra",Saharsa,Kerala,Wholesale,hkrishnamurthy@example.com
+1573,Thakur Group,Vadodara,Gujarat,Wholesale,pillaichanchal@example.org
+1574,"Sachar, Raja and Prashad",Dindigul,Andhra Pradesh,Corporate,vidhi30@example.org
+1575,Din-Sengupta,Barasat,Madhya Pradesh,Retail,luckybabu@example.org
+1576,Krishnan-Sur,Kirari Suleman Nagar,Tamil Nadu,Retail,nprabhu@example.com
+1577,Sagar Inc,Ulhasnagar,Rajasthan,Wholesale,merchantkavya@example.org
+1578,Shroff-Raju,Solapur,Punjab,Wholesale,isha88@example.com
+1579,Srinivas Inc,Bathinda,Gujarat,Wholesale,yashawini20@example.org
+1580,Madan Inc,Danapur,Gujarat,Corporate,arjun76@example.com
+1581,"Sharma, Palan and Narain",Arrah,Arunachal Pradesh,Retail,sarmavinaya@example.com
+1582,"Bansal, Toor and Bhavsar",Burhanpur,Karnataka,Wholesale,jloke@example.org
+1583,Chander PLC,Bally,Madhya Pradesh,Corporate,benjaminbasu@example.com
+1584,Deol and Sons,Jehanabad,Gujarat,Wholesale,bdoshi@example.net
+1585,"Kumer, Kade and Acharya",Ujjain,West Bengal,Retail,lankavasudha@example.org
+1586,Sidhu and Sons,Raipur,Assam,Retail,noommen@example.net
+1587,Singh-Kuruvilla,Khammam,Mizoram,Wholesale,zinalmallick@example.net
+1588,Kara Inc,Karawal Nagar,Himachal Pradesh,Corporate,yashodhara47@example.net
+1589,Behl-Mital,Aligarh,Uttarakhand,Retail,udantkanda@example.org
+1590,Dua-Chaudhari,Haridwar,Telangana,Retail,ksaini@example.com
+1591,Bumb-Kibe,Ongole,Sikkim,Retail,murthydakshesh@example.com
+1592,Sankaran-Dube,Bhalswa Jahangir Pur,Andhra Pradesh,Wholesale,kamala14@example.org
+1593,Swamy-Randhawa,Machilipatnam,Maharashtra,Corporate,bhavinikohli@example.net
+1594,Nayar and Sons,Guntakal,Madhya Pradesh,Corporate,chaudhurifitan@example.org
+1595,"Anand, Doctor and Zachariah",Kumbakonam,Assam,Corporate,charanagate@example.com
+1596,Bali and Sons,Ambarnath,Sikkim,Corporate,gagan02@example.com
+1597,Chaudhry-Barad,Thane,Punjab,Corporate,handaonkar@example.com
+1598,Chokshi-Loke,Tadepalligudem,Uttarakhand,Wholesale,manelakshit@example.org
+1599,Lad-Dugar,Mehsana,Punjab,Wholesale,bhanumatibalay@example.com
+1600,Gaba-Solanki,Secunderabad,Mizoram,Corporate,chaaya66@example.org
+1601,Narain-Kade,Surendranagar Dudhrej,Chhattisgarh,Corporate,balhaarbuch@example.org
+1602,"Dalal, Divan and Chokshi",Cuttack,Chhattisgarh,Wholesale,mandalgaurangi@example.net
+1603,Khare-Subramaniam,Alappuzha,Bihar,Wholesale,shaurya70@example.com
+1604,Raman and Sons,Amritsar,Arunachal Pradesh,Corporate,krishnanlopa@example.org
+1605,Sheth-Rao,Hospet,Chhattisgarh,Corporate,pahal59@example.net
+1606,Amble and Sons,Vijayanagaram,Assam,Wholesale,jnatt@example.org
+1607,Khatri PLC,Alwar,Gujarat,Retail,omishabarad@example.org
+1608,"Patel, Oza and Pradhan",Delhi,Bihar,Corporate,mthaker@example.org
+1609,Natarajan Ltd,Bettiah,Madhya Pradesh,Retail,radhikabaral@example.com
+1610,"Mannan, Yohannan and Shan",Anantapuram,Karnataka,Corporate,reddydev@example.com
+1611,Sheth-Kashyap,Gudivada,Haryana,Corporate,tlanka@example.net
+1612,Karnik Ltd,Tenali,Himachal Pradesh,Corporate,waliveer@example.org
+1613,Sengupta and Sons,Delhi,Maharashtra,Corporate,borraanusha@example.net
+1614,"Saha, Babu and Thaker",Ghaziabad,Sikkim,Retail,tanejatanay@example.net
+1615,"Mani, D’Alia and Keer",Kishanganj,Telangana,Wholesale,peter83@example.org
+1616,"Sanghvi, Buch and Narasimhan",Nangloi Jat,Andhra Pradesh,Wholesale,dayalaarna@example.org
+1617,"Master, Kurian and Sagar",Purnia,Gujarat,Retail,janakichatterjee@example.com
+1618,Biswas-Bose,Bhilai,West Bengal,Wholesale,khatridominic@example.com
+1619,Comar Group,Bhilai,Mizoram,Wholesale,hvaidya@example.com
+1620,"Mall, Chacko and Parekh",Nagercoil,Goa,Wholesale,igulati@example.com
+1621,"Badami, Chadha and Bhatnagar",Ulhasnagar,Karnataka,Wholesale,rishisrinivas@example.net
+1622,Balan-Oak,Bhiwani,Bihar,Wholesale,kkala@example.org
+1623,"Sule, Bhavsar and Karan",Proddatur,Tripura,Corporate,uram@example.net
+1624,Issac-Barman,Bidhannagar,Gujarat,Retail,pantanay@example.net
+1625,Nigam-Sagar,Satna,West Bengal,Wholesale,ichada@example.org
+1626,"Verma, Dada and Deshpande",Shimla,Nagaland,Wholesale,jagdish90@example.net
+1627,Korpal-Muni,Durg,Arunachal Pradesh,Wholesale,bhaktacharita@example.net
+1628,Kuruvilla Group,Parbhani,Karnataka,Corporate,hborde@example.com
+1629,Tara LLC,Vellore,Andhra Pradesh,Wholesale,manefalak@example.org
+1630,"Chander, Devan and Vohra",Mirzapur,Bihar,Wholesale,lallagauri@example.com
+1631,Goswami PLC,Ballia,Uttar Pradesh,Retail,katachandran@example.com
+1632,Buch-Mishra,Salem,Madhya Pradesh,Corporate,muniosha@example.org
+1633,"Nath, Luthra and Ben",Coimbatore,Bihar,Wholesale,chhabravansha@example.org
+1634,Patel-Ravi,Bilaspur,Goa,Retail,finnnatt@example.org
+1635,Chawla Ltd,Nandyal,Gujarat,Retail,omkaarupadhyay@example.org
+1636,Ahluwalia-Virk,Gangtok,Uttar Pradesh,Retail,waidakhanna@example.org
+1637,Kakar-Rama,Dehri,Jharkhand,Retail,laban69@example.com
+1638,"Mani, Luthra and Krish",Bidar,Himachal Pradesh,Wholesale,hagarwal@example.com
+1639,"Halder, Kulkarni and Dave",Amaravati,Bihar,Retail,kevinbaria@example.org
+1640,Batra Ltd,Tenali,Chhattisgarh,Corporate,aradhanachowdhury@example.net
+1641,Kade Ltd,Kanpur,Maharashtra,Corporate,omsamuel@example.com
+1642,Din Ltd,Arrah,Karnataka,Wholesale,qradhakrishnan@example.net
+1643,"Maharaj, Sawhney and Jaggi",Tiruppur,Madhya Pradesh,Retail,raghav37@example.com
+1644,Sarkar-Bawa,Delhi,Maharashtra,Corporate,ddutt@example.org
+1645,"Shanker, Viswanathan and Mann",Haridwar,Bihar,Retail,lohit44@example.org
+1646,Atwal-Solanki,Dharmavaram,Manipur,Corporate,chavvi37@example.org
+1647,"Majumdar, Sood and Ramakrishnan",Nanded,Meghalaya,Corporate,rakshadeol@example.org
+1648,Sunder Group,Suryapet,Mizoram,Corporate,imaranloyal@example.net
+1649,Vig-Kumar,Darbhanga,West Bengal,Wholesale,netra01@example.net
+1650,Khurana LLC,Sambalpur,Tripura,Corporate,watikawadhwa@example.org
+1651,Bahri LLC,Tezpur,Karnataka,Retail,srivastavarishi@example.org
+1652,Mohan Ltd,Chandrapur,Tamil Nadu,Wholesale,ryan69@example.net
+1653,"Parikh, Char and Rai",Thiruvananthapuram,Haryana,Wholesale,chakradev55@example.com
+1654,Walia LLC,Ambattur,Maharashtra,Corporate,boseharshil@example.net
+1655,Kashyap Group,Kurnool,Manipur,Wholesale,vwarrior@example.org
+1656,Sastry Ltd,Korba,Telangana,Corporate,tejasprabhakar@example.org
+1657,Kunda Inc,Jamshedpur,Himachal Pradesh,Retail,fkadakia@example.com
+1658,Dani Inc,Khora ,Nagaland,Wholesale,chaitanyasoni@example.net
+1659,Ganesh-Ahuja,Thrissur,Uttar Pradesh,Corporate,gnarayanan@example.org
+1660,"Karnik, Mall and Acharya",Karnal,Kerala,Wholesale,bgala@example.net
+1661,Bail Ltd,Nellore,Goa,Wholesale,vivaanbath@example.net
+1662,Hayre and Sons,Mira-Bhayandar,Jharkhand,Retail,qbhat@example.com
+1663,Desai Inc,Kurnool,Kerala,Corporate,rachana21@example.org
+1664,Radhakrishnan-Amble,Dindigul,Arunachal Pradesh,Corporate,oshachopra@example.org
+1665,Kakar Inc,Vijayanagaram,Bihar,Retail,skarnik@example.org
+1666,Venkatesh-Wali,Bidhannagar,Goa,Retail,saumyasandal@example.org
+1667,"Saxena, Mallick and Mutti",Medininagar,Gujarat,Corporate,hayrenidra@example.com
+1668,Wason-Shroff,Amaravati,Bihar,Wholesale,chaturakarpe@example.net
+1669,"Walla, Chowdhury and Srinivas",Amaravati,Tamil Nadu,Retail,chatreshvasa@example.org
+1670,"Kata, Date and Khosla",Danapur,West Bengal,Retail,khuranafiyaz@example.com
+1671,"Yogi, Chander and Lad",Thoothukudi,Nagaland,Wholesale,pranavbasu@example.com
+1672,Jha-Dey,Hubli–Dharwad,Mizoram,Corporate,riyabora@example.com
+1673,"Buch, Nagy and Sharma",Bally,West Bengal,Wholesale,ayushman00@example.org
+1674,"Bajwa, Balasubramanian and Chacko",Dehradun,Tripura,Retail,butalaranveer@example.com
+1675,Sarna PLC,Howrah,Uttar Pradesh,Wholesale,doctorira@example.com
+1676,Contractor-Thaman,Jalna,Himachal Pradesh,Corporate,frederickdivan@example.net
+1677,"Zacharia, Sood and Mani",Nagaon,Tripura,Retail,doraparth@example.com
+1678,"Basak, Murthy and Raghavan",Thane,Mizoram,Wholesale,bsibal@example.org
+1679,"Bawa, Agate and Lal",Burhanpur,Kerala,Corporate,gaurang58@example.com
+1680,"Doctor, Ravel and Purohit",Noida,Maharashtra,Corporate,amrutavaidya@example.org
+1681,Pingle-Bawa,Tirupati,Uttarakhand,Corporate,keyabarman@example.net
+1682,"Baral, Singhal and Bera",Dhule,Haryana,Corporate,nsharma@example.com
+1683,Vora and Sons,Amritsar,Arunachal Pradesh,Corporate,champak16@example.com
+1684,"Dash, Wadhwa and Ahluwalia",Rampur,West Bengal,Corporate,urvitara@example.org
+1685,"Hari, Radhakrishnan and Guha",Silchar,Himachal Pradesh,Retail,mohammedbhatti@example.org
+1686,"Ratta, Merchant and Garde",Vellore,Jharkhand,Corporate,anshkibe@example.com
+1687,"De, Pillay and Wadhwa",Kakinada,Bihar,Corporate,zayan17@example.org
+1688,Manne-Ramakrishnan,Raichur,Tripura,Corporate,bina02@example.com
+1689,Pillay LLC,Durg,Gujarat,Wholesale,chadupma@example.com
+1690,Sabharwal-Mammen,Anand,Odisha,Retail,karaikbal@example.com
+1691,Tella PLC,Bally,Karnataka,Retail,udyatibhatia@example.net
+1692,"Oak, Barad and Mann",Jalna,Haryana,Wholesale,tarakjoshi@example.com
+1693,Vora LLC,Bhilai,Madhya Pradesh,Corporate,lohitchaudry@example.org
+1694,Sha PLC,Amravati,Nagaland,Wholesale,issacwridesh@example.net
+1695,Hora Group,Guntur,Madhya Pradesh,Wholesale,upkaar06@example.org
+1696,"Bose, Chacko and Tiwari",Khammam,Madhya Pradesh,Wholesale,shenoyxiti@example.com
+1697,"Vohra, Anand and Anne",Dhule,Uttarakhand,Retail,balanhredhaan@example.com
+1698,Choudhury-Datta,Sambalpur,Tamil Nadu,Retail,enath@example.net
+1699,"Tank, Lalla and Mander",Vijayanagaram,Andhra Pradesh,Retail,manyapillai@example.net
+1700,Desai-Bhardwaj,Bijapur,Punjab,Corporate,dasguptabhavini@example.org
+1701,"Master, Kara and Kashyap",Bettiah,Meghalaya,Corporate,avi92@example.com
+1702,Garde Ltd,Thrissur,Punjab,Wholesale,ethankhatri@example.com
+1703,Nayak-Nazareth,Solapur,Assam,Retail,balhaar42@example.net
+1704,"Reddy, Basak and Peri",Naihati,Haryana,Retail,brana@example.com
+1705,"Batra, Venkataraman and Char",Warangal,Maharashtra,Corporate,basakreyansh@example.org
+1706,"Jani, Patel and Ramakrishnan",Narasaraopet,Assam,Corporate,rajumitesh@example.net
+1707,Bora-Nagi,Salem,Goa,Retail,aachaloak@example.com
+1708,Sani PLC,Junagadh,Odisha,Retail,sundervedhika@example.com
+1709,"Dhar, Kade and Vohra",Ramagundam,Telangana,Corporate,daliawyatt@example.com
+1710,"Ahluwalia, Wable and Sem",Tiruvottiyur,Jharkhand,Corporate,vanshawadhwa@example.org
+1711,Batra-Kala,Dindigul,Punjab,Retail,beraharsh@example.net
+1712,Seth-Badami,Guna,Kerala,Wholesale,mannbhavika@example.net
+1713,Babu Ltd,Rohtak,Odisha,Wholesale,nehasalvi@example.net
+1714,"Prashad, Minhas and Shan",Nagaon,Jharkhand,Wholesale,jasmitrajagopalan@example.net
+1715,"Kothari, Din and Narayanan",Durg,Andhra Pradesh,Wholesale,robert23@example.org
+1716,Kapoor LLC,Chinsurah,Madhya Pradesh,Retail,reddyarin@example.net
+1717,Dubey-Rao,Berhampore,Tripura,Wholesale,pbalasubramanian@example.com
+1718,Kalita LLC,Saharsa,Punjab,Wholesale,eshanapathak@example.net
+1719,Venkatesh and Sons,Anantapuram,Uttarakhand,Corporate,padmanabhannikita@example.net
+1720,Dhar Ltd,Mau,Andhra Pradesh,Wholesale,nidraparmer@example.net
+1721,"Din, Saraf and Lata",Jamalpur,Madhya Pradesh,Corporate,apadmanabhan@example.net
+1722,Kalita Inc,Purnia,Bihar,Corporate,ranveerwadhwa@example.com
+1723,"Nayar, Dara and Krishnamurthy",Shimoga,Madhya Pradesh,Retail,wrideshmukhopadhyay@example.net
+1724,Baria-Balan,Morena,Tripura,Retail,aaravahuja@example.net
+1725,"Saraf, Raman and Ramachandran",Pimpri-Chinchwad,Bihar,Retail,mthakur@example.org
+1726,Hans PLC,Indore,Arunachal Pradesh,Retail,prashaddaksh@example.net
+1727,"Mallick, Buch and Memon",Pondicherry,Arunachal Pradesh,Corporate,xreddy@example.org
+1728,"Vig, Hayre and Savant",Asansol,Arunachal Pradesh,Retail,thomas44@example.org
+1729,Sastry-Savant,Katni,Goa,Corporate,senlogan@example.net
+1730,Sabharwal-De,Hapur,Andhra Pradesh,Retail,swamyurvi@example.com
+1731,Dyal PLC,Firozabad,Andhra Pradesh,Wholesale,rviswanathan@example.net
+1732,Bhavsar-Hayer,Panihati,Manipur,Wholesale,gauravdeo@example.com
+1733,Garg-Jain,Rewa,Bihar,Corporate,dbuch@example.org
+1734,Gala Ltd,Vijayawada,Punjab,Wholesale,aadiraghavan@example.org
+1735,Sami and Sons,Mira-Bhayandar,Manipur,Wholesale,ypai@example.org
+1736,Kamdar Group,Bongaigaon,Jharkhand,Corporate,aishani90@example.net
+1737,Naidu Inc,Tenali,Jharkhand,Wholesale,chandraraagini@example.com
+1738,Bera-Khalsa,Kurnool,Sikkim,Wholesale,harsh67@example.net
+1739,Dhar Group,Anand,Goa,Wholesale,falanatwal@example.org
+1740,"Chanda, Swamy and Yadav",Kota,Rajasthan,Retail,advikavenkataraman@example.com
+1741,Oak Ltd,Medininagar,Manipur,Corporate,poojakata@example.net
+1742,Contractor PLC,Tinsukia,Sikkim,Retail,nilima05@example.org
+1743,"Sengupta, Bajaj and Tailor",Sambhal,Sikkim,Wholesale,settyvanya@example.net
+1744,Rau Group,Machilipatnam,Mizoram,Wholesale,alexanderpatla@example.org
+1745,Zachariah-Dhawan,Tirunelveli,Goa,Retail,ikshitanarang@example.net
+1746,Chadha Group,Kanpur,Tripura,Wholesale,sara14@example.com
+1747,"Doctor, Bora and Virk",Srinagar,Odisha,Corporate,falakrao@example.com
+1748,"Baral, Warrior and Loyal",Chinsurah,Punjab,Corporate,amol22@example.org
+1749,Bandi-Karpe,Khora ,Tamil Nadu,Corporate,yashica42@example.com
+1750,"Nazareth, Vala and Bhatti",Anantapuram,Kerala,Wholesale,dtripathi@example.org
+1751,"Sastry, Chand and Parikh",Noida,Nagaland,Corporate,ysem@example.com
+1752,Zacharia Ltd,Indore,Punjab,Corporate,ymaharaj@example.org
+1753,"Bhatt, Shenoy and Talwar",Yamunanagar,Nagaland,Wholesale,rajatatiwari@example.com
+1754,"Dube, Dayal and Nagarajan",Kumbakonam,Telangana,Retail,walieesha@example.net
+1755,"Acharya, Rastogi and Grewal",Arrah,Arunachal Pradesh,Retail,ayushman56@example.com
+1756,"Narula, Shan and Barad",Amravati,Goa,Wholesale,patrick55@example.com
+1757,Gopal-Viswanathan,Jaunpur,Odisha,Corporate,ihayre@example.com
+1758,"Menon, Grewal and Koshy",Katihar,Telangana,Retail,mahika33@example.net
+1759,"Chauhan, Oak and Ravel",Bhilwara,Assam,Retail,rachit85@example.net
+1760,Gokhale-Oza,Rourkela,Odisha,Retail,netrakant@example.net
+1761,Oza PLC,Kota,Haryana,Wholesale,ramankala@example.com
+1762,Suri PLC,Kharagpur,West Bengal,Retail,amol95@example.com
+1763,"Mani, Lal and Kapur",Jammu,Jharkhand,Retail,valafalan@example.org
+1764,Sule-Gala,Davanagere,Mizoram,Wholesale,warinder40@example.org
+1765,Kade-Ramesh,Hubli–Dharwad,Karnataka,Wholesale,sudiksha15@example.com
+1766,Chhabra and Sons,Ambarnath,Punjab,Wholesale,onisoni@example.net
+1767,"Chatterjee, Khanna and Sandhu",Ratlam,Arunachal Pradesh,Retail,latamason@example.net
+1768,"Chopra, Mander and Chahal",Raichur,Goa,Retail,nrajagopal@example.net
+1769,Viswanathan Group,Mahbubnagar,Telangana,Wholesale,vanyaahuja@example.com
+1770,Dayal-Keer,Rewa,Goa,Corporate,gangasangha@example.com
+1771,Nair PLC,Hospet,Nagaland,Wholesale,tmammen@example.org
+1772,Tailor Ltd,Sasaram,Karnataka,Retail,harinakshi96@example.com
+1773,Mani-Gokhale,Avadi,Punjab,Retail,butalapriya@example.com
+1774,Deshpande Inc,Kalyan-Dombivli,Chhattisgarh,Wholesale,kashish39@example.net
+1775,Bora and Sons,Bhiwandi,Uttar Pradesh,Corporate,edhitha13@example.org
+1776,Oak-Srivastava,Nagaon,Gujarat,Corporate,rgopal@example.org
+1777,Mitter-Mane,Kharagpur,Odisha,Retail,fdhawan@example.net
+1778,Sampath Group,Jalna,Rajasthan,Corporate,vdoctor@example.org
+1779,Peri PLC,Arrah,Jharkhand,Corporate,ekarajvora@example.org
+1780,Cherian Ltd,Jhansi,Uttarakhand,Corporate,dateryan@example.net
+1781,Amble Ltd,Tiruchirappalli,Arunachal Pradesh,Wholesale,fanand@example.net
+1782,Sagar LLC,Kozhikode,Gujarat,Retail,bpai@example.net
+1783,Sinha Group,Sirsa,Goa,Wholesale,inayasrinivasan@example.com
+1784,Lad-Patil,Karawal Nagar,Chhattisgarh,Corporate,kdubey@example.org
+1785,Dhar-Chana,Eluru,Sikkim,Retail,harshramanathan@example.org
+1786,"Gopal, Sarraf and Dara",Akola,Assam,Wholesale,mkale@example.com
+1787,"Kalla, Grewal and Balakrishnan",South Dumdum,Goa,Retail,tanishsabharwal@example.org
+1788,Sane LLC,Avadi,Haryana,Wholesale,warjasganesan@example.com
+1789,"Patla, Konda and Zachariah",Imphal,Nagaland,Retail,amara61@example.com
+1790,"Sheth, Tailor and Kanda",Singrauli,Jharkhand,Wholesale,anmolnatarajan@example.com
+1791,Tara-Dada,Amroha,Punjab,Corporate,lagate@example.net
+1792,Sarraf Inc,Pimpri-Chinchwad,Karnataka,Wholesale,upadhritivyas@example.com
+1793,"Chowdhury, Kala and Swaminathan",Durgapur,Odisha,Corporate,kalpitdixit@example.org
+1794,"Chaudhari, Desai and Patla",Meerut,Nagaland,Wholesale,oscarbarad@example.org
+1795,Suresh-Shroff,Karnal,Sikkim,Corporate,kashishvarkey@example.com
+1796,Khalsa Ltd,Ghaziabad,Uttar Pradesh,Corporate,jaggianay@example.com
+1797,Keer-Rama,Chapra,West Bengal,Wholesale,imaran71@example.com
+1798,Kade Ltd,Lucknow,Tripura,Wholesale,oliverpall@example.net
+1799,Chanda LLC,Morena,Himachal Pradesh,Retail,daksheshhegde@example.org
+1800,"Sagar, Singhal and Butala",Guntakal,Meghalaya,Wholesale,contractormaanav@example.com
+1801,Dora Ltd,Bhiwandi,Gujarat,Retail,jacobsharma@example.com
+1802,Dewan-Bera,Medininagar,Tripura,Wholesale,daliaisaiah@example.com
+1803,Cheema-Dayal,Kalyan-Dombivli,Bihar,Retail,sekhonlaban@example.net
+1804,Wadhwa-Sarma,Davanagere,Punjab,Corporate,balhaarmemon@example.net
+1805,Sankar Group,Dhule,Nagaland,Wholesale,golatamanna@example.net
+1806,"Mitra, Verma and Chawla",Ichalkaranji,Goa,Corporate,chanabhavani@example.org
+1807,"Rana, Vohra and Dey",Bangalore,Odisha,Wholesale,krish29@example.com
+1808,Dave-Badal,Ambarnath,Kerala,Retail,zbhatti@example.net
+1809,"Agarwal, Kala and Pai",Ballia,Meghalaya,Wholesale,chatterjeeveer@example.com
+1810,Dhar LLC,Khandwa,Kerala,Retail,jeevika64@example.org
+1811,Bala LLC,Bhatpara,Andhra Pradesh,Retail,vasatikabhagat@example.com
+1812,Pathak PLC,Nangloi Jat,Haryana,Wholesale,dmall@example.org
+1813,"Bhat, Savant and Chada",Purnia,West Bengal,Corporate,sacharvedant@example.org
+1814,Manda PLC,Tiruvottiyur,Karnataka,Wholesale,nathan03@example.net
+1815,"Mangal, Bali and Krish",Amravati,Andhra Pradesh,Corporate,nidra79@example.net
+1816,Pillay-Sampath,Amritsar,Kerala,Retail,xpall@example.com
+1817,Gera-Koshy,Nangloi Jat,Uttarakhand,Wholesale,devanzayan@example.com
+1818,Agate-Choudhry,Miryalaguda,Arunachal Pradesh,Wholesale,varkeyjason@example.org
+1819,Bala Ltd,Begusarai,Haryana,Corporate,senguptamohini@example.com
+1820,Suresh and Sons,Hazaribagh,Arunachal Pradesh,Wholesale,varughesegunbir@example.net
+1821,"Peri, Sem and Chhabra",Guntakal,Andhra Pradesh,Retail,oommendarsh@example.com
+1822,Hayre PLC,Alappuzha,Manipur,Wholesale,koshychatura@example.com
+1823,"Karnik, Natarajan and Buch",Tumkur,Kerala,Retail,vyanjana43@example.com
+1824,Comar Ltd,Nagpur,Andhra Pradesh,Retail,wgopal@example.net
+1825,"Pant, Sekhon and Sandhu",Kavali,Himachal Pradesh,Corporate,nbalan@example.org
+1826,"Ahluwalia, Nath and Issac",Medininagar,Madhya Pradesh,Corporate,riakumar@example.com
+1827,Sarkar-Dixit,Nagercoil,Odisha,Retail,vohrawridesh@example.org
+1828,"Soman, Bahl and Balay",Shimoga,Madhya Pradesh,Corporate,gsandal@example.com
+1829,Bakshi-Bir,Dhanbad,Manipur,Corporate,hsibal@example.com
+1830,Bahri Ltd,Bhimavaram,Haryana,Retail,madanaarush@example.com
+1831,Bhatti LLC,Kalyan-Dombivli,Himachal Pradesh,Wholesale,mishrawatika@example.com
+1832,"Wadhwa, Tailor and Kapur",Davanagere,Manipur,Wholesale,adara@example.com
+1833,"Master, Chaudry and Roy",Navi Mumbai,Chhattisgarh,Corporate,vedhikamangat@example.org
+1834,Srinivasan-Lata,Muzaffarpur,Uttarakhand,Corporate,ekantikasarkar@example.org
+1835,Varma Ltd,Ballia,Odisha,Retail,sehgalalexander@example.org
+1836,"Lalla, Gandhi and Sankar",Indore,Gujarat,Retail,gbehl@example.com
+1837,"Garg, Cherian and Chakraborty",Pimpri-Chinchwad,Uttarakhand,Retail,ayaanlad@example.org
+1838,"Chacko, Keer and Pingle",Siliguri,Bihar,Retail,saxenaanthony@example.net
+1839,"Thakur, Mann and Trivedi",Madurai,Nagaland,Wholesale,tlad@example.net
+1840,Dyal Inc,Raurkela Industrial Township,Mizoram,Retail,riatripathi@example.com
+1841,Apte-Zacharia,Ghaziabad,Uttar Pradesh,Retail,ladchakradhar@example.com
+1842,Nagarajan-Solanki,Bokaro,Uttarakhand,Corporate,lajitachada@example.com
+1843,"Rau, Chand and Chad",Sasaram,Meghalaya,Retail,noah96@example.net
+1844,"Dora, Sheth and Ramanathan",Dhanbad,Himachal Pradesh,Corporate,pantveer@example.net
+1845,Kuruvilla Inc,Gorakhpur,Kerala,Retail,fbasu@example.net
+1846,"Kothari, Goel and Sura",Begusarai,Nagaland,Retail,gauripurohit@example.com
+1847,Sharma PLC,South Dumdum,Jharkhand,Corporate,samabarkha@example.net
+1848,Rajagopal-Kothari,Pudukkottai,Maharashtra,Wholesale,latasneha@example.net
+1849,Doshi-Bhattacharyya,Hyderabad,Chhattisgarh,Wholesale,harsh62@example.org
+1850,Kibe-Ray,Hosur,Nagaland,Corporate,aadithakkar@example.net
+1851,Lata PLC,Katihar,Tamil Nadu,Corporate,benjaminsarin@example.org
+1852,Rana-Srinivasan,Hajipur,Manipur,Wholesale,sandalanthony@example.net
+1853,Chakraborty LLC,Kakinada,Uttarakhand,Corporate,kothariishita@example.net
+1854,"Gade, Jayaraman and Reddy",Muzaffarpur,Gujarat,Corporate,areddy@example.com
+1855,Kothari Inc,Pondicherry,Nagaland,Corporate,rattangaurangi@example.net
+1856,Gandhi LLC,Barasat,Meghalaya,Corporate,adwetadash@example.net
+1857,Sanghvi LLC,Nellore,Tamil Nadu,Corporate,anusha09@example.com
+1858,Bhatnagar-Singhal,Amritsar,Tripura,Wholesale,aarnayohannan@example.net
+1859,"Barman, Agate and Rattan",Suryapet,Chhattisgarh,Corporate,magarfariq@example.com
+1860,Sachdev-Varughese,Kamarhati,Uttarakhand,Wholesale,qasim66@example.com
+1861,"Sami, Yohannan and Kothari",Tadipatri,Nagaland,Retail,gmuni@example.com
+1862,"Muni, Chana and Narang",Giridih,Himachal Pradesh,Wholesale,chandran11@example.net
+1863,Gole Inc,Karimnagar,Haryana,Retail,wbasu@example.org
+1864,Som Inc,Ghaziabad,Haryana,Wholesale,ajohal@example.com
+1865,Roy Ltd,Salem,Mizoram,Wholesale,falak59@example.org
+1866,Sunder-Amble,Nagpur,Punjab,Corporate,laban48@example.net
+1867,Gola-Batta,Gandhinagar,Madhya Pradesh,Wholesale,radhika67@example.com
+1868,Narain Group,Nanded,Andhra Pradesh,Wholesale,divya65@example.com
+1869,Oak-Yogi,Aurangabad,Manipur,Corporate,eiravati33@example.net
+1870,"Balakrishnan, Sandal and De",Uluberia,Himachal Pradesh,Retail,yraj@example.org
+1871,"Gour, Sahota and Nayar",Meerut,Bihar,Wholesale,mnatt@example.net
+1872,Karnik-Bera,Khandwa,Goa,Corporate,jagatgill@example.org
+1873,Golla-Seth,Morena,Tamil Nadu,Retail,zmukhopadhyay@example.org
+1874,Bhavsar-Ramakrishnan,Vasai-Virar,Assam,Wholesale,avnichaudhry@example.org
+1875,Thakur-Krishnamurthy,Allahabad,Andhra Pradesh,Wholesale,chokshiurvi@example.net
+1876,"Randhawa, Srivastava and Talwar",Thiruvananthapuram,West Bengal,Wholesale,ghoseishita@example.com
+1877,Mahajan Group,Alappuzha,Uttar Pradesh,Retail,nitesh61@example.org
+1878,"Choudhry, Gala and Bera",Dehri,Himachal Pradesh,Retail,varenyaoommen@example.org
+1879,Pal-Raju,Surendranagar Dudhrej,Nagaland,Wholesale,om54@example.net
+1880,Mukherjee and Sons,Proddatur,Tamil Nadu,Wholesale,yahvinair@example.com
+1881,Loyal-Batta,Haldia,Himachal Pradesh,Retail,jhalak47@example.com
+1882,"Dhingra, Hegde and Bose",Kolhapur,Gujarat,Corporate,saramangal@example.net
+1883,"Swamy, Chad and Seshadri",Sikar,Tripura,Retail,xaviermemon@example.net
+1884,"Ganesan, Suri and Gara",Nellore,West Bengal,Corporate,egara@example.com
+1885,Arora-Bhat,Medininagar,Uttar Pradesh,Corporate,ckoshy@example.com
+1886,Hayer-Bali,Narasaraopet,Uttar Pradesh,Corporate,ektathakur@example.org
+1887,Karnik-Narayanan,Farrukhabad,Andhra Pradesh,Wholesale,chawlayutika@example.org
+1888,"Randhawa, Sastry and Som",Kottayam,Assam,Wholesale,lpai@example.com
+1889,Kumar-Parsa,Firozabad,Maharashtra,Corporate,walishivansh@example.net
+1890,Bhatti-Soman,Hospet,Tamil Nadu,Corporate,auroraekani@example.org
+1891,"Dasgupta, Din and Yadav",Ambala,Mizoram,Corporate,libni99@example.net
+1892,Wable-Varkey,Khora ,Arunachal Pradesh,Retail,divya79@example.net
+1893,Srinivas Inc,Hospet,Sikkim,Wholesale,zehaanpuri@example.org
+1894,Chakraborty Ltd,Nizamabad,Goa,Corporate,kevin38@example.net
+1895,Sengupta and Sons,Patiala,Odisha,Corporate,doraisaiah@example.net
+1896,"Tata, Balan and Ramanathan",Tezpur,Gujarat,Retail,zansivarma@example.org
+1897,"Kala, Ganesh and Dhingra",Varanasi,Uttarakhand,Wholesale,auroraqasim@example.org
+1898,Agate Inc,Nagaon,Madhya Pradesh,Corporate,ysaraf@example.org
+1899,Balan PLC,Kharagpur,Bihar,Wholesale,chackochakrika@example.org
+1900,Rajagopal-Chander,Ghaziabad,Telangana,Corporate,bimalanagar@example.net
+1901,Chada PLC,Karawal Nagar,Himachal Pradesh,Retail,mdevi@example.com
+1902,Rege-Mutti,Visakhapatnam,Andhra Pradesh,Retail,anayshankar@example.com
+1903,Aggarwal LLC,Ozhukarai,Telangana,Wholesale,esarma@example.com
+1904,Batra Group,Pali,Maharashtra,Retail,george10@example.net
+1905,Prabhakar-Mistry,Mysore,Tamil Nadu,Wholesale,baghyawatiagarwal@example.com
+1906,"Naik, Chaudhry and Rastogi",Tadipatri,Meghalaya,Corporate,virkalexander@example.com
+1907,"Hayer, Sani and Saini",Durg,Nagaland,Retail,krishnawarrior@example.net
+1908,"Ravel, Dutta and Rama",Kanpur,Mizoram,Corporate,rachitavenkatesh@example.net
+1909,"Dani, Sodhi and Wadhwa",Srikakulam,Assam,Corporate,azaan59@example.com
+1910,Patil Group,Jehanabad,Manipur,Retail,sbajaj@example.net
+1911,Date Inc,Mira-Bhayandar,Maharashtra,Retail,suhani89@example.net
+1912,Rai Inc,Vijayawada,Nagaland,Retail,pillayliam@example.org
+1913,Patel-Nayak,Kochi,Manipur,Corporate,sshan@example.net
+1914,Devi Group,Kharagpur,Punjab,Wholesale,falanchar@example.net
+1915,"Dhillon, Mand and Chanda",Durgapur,Maharashtra,Wholesale,peter22@example.net
+1916,Natt-Vala,Hospet,Arunachal Pradesh,Corporate,jeevika42@example.org
+1917,"Pal, Memon and Pradhan",Ranchi,Karnataka,Corporate,itiwari@example.org
+1918,"Dhaliwal, Date and Peri",Mumbai,Tamil Nadu,Corporate,bawadev@example.net
+1919,Kanda-Oommen,Panipat,Arunachal Pradesh,Retail,ngarg@example.org
+1920,Singhal-Goel,Karaikudi,Punjab,Wholesale,ati00@example.org
+1921,Venkatesh-Varughese,Nanded,Tamil Nadu,Wholesale,sneha31@example.org
+1922,Bora-Ramachandran,Chennai,Meghalaya,Wholesale,bhargavaindali@example.net
+1923,"Bhargava, Chand and D’Alia",Mumbai,Punjab,Wholesale,ubikachopra@example.net
+1924,Murty and Sons,Jodhpur,Telangana,Wholesale,patilutkarsh@example.com
+1925,Deshpande and Sons,Patna,Manipur,Wholesale,sanidipta@example.net
+1926,Agrawal Group,Chandigarh,Mizoram,Corporate,falak43@example.net
+1927,Vig Group,Guntakal,Nagaland,Corporate,nitarapadmanabhan@example.org
+1928,"Kurian, Mallick and Sodhi",Haridwar,Uttarakhand,Retail,varmalohit@example.com
+1929,Mukhopadhyay PLC,Kakinada,Tripura,Corporate,banikaarna@example.com
+1930,Dube LLC,Korba,Sikkim,Corporate,ekapadsidhu@example.com
+1931,Parsa Group,Loni,Tripura,Wholesale,geetikadoshi@example.com
+1932,"Bhasin, Ravi and Mahajan",Agra,Telangana,Retail,msem@example.net
+1933,"Kanda, Krishnamurthy and Mistry",Motihari,Jharkhand,Wholesale,eeshakari@example.com
+1934,"Misra, Ravi and Devi",Bathinda,Karnataka,Retail,sehgalsachi@example.com
+1935,"Bedi, Ramaswamy and Parsa",Udupi,Karnataka,Corporate,fariq56@example.org
+1936,Goswami Ltd,Hindupur,Arunachal Pradesh,Corporate,ekta10@example.com
+1937,"More, Bala and Chaudry",Salem,Assam,Wholesale,shereyashica@example.com
+1938,Bahl and Sons,Sagar,Tamil Nadu,Wholesale,dramachandran@example.net
+1939,"Goel, Ganguly and Bajwa",Udupi,Kerala,Wholesale,divyaloyal@example.net
+1940,Goel Inc,Bhavnagar,Goa,Corporate,ymurthy@example.net
+1941,Bhargava-Anne,Erode,Tripura,Corporate,brarekaja@example.org
+1942,Kala-Goswami,Giridih,Himachal Pradesh,Corporate,cnori@example.com
+1943,Bassi-Tailor,Mango,Tamil Nadu,Retail,kaisheth@example.net
+1944,"Bawa, Pandya and Pau",Ahmednagar,Sikkim,Wholesale,bavaaditya@example.com
+1945,Kalita-Modi,Kurnool,Tamil Nadu,Retail,aggarwalarunima@example.com
+1946,Balay and Sons,Ranchi,Mizoram,Corporate,devansh18@example.com
+1947,"Chandra, Kant and Nayar",Bongaigaon,Kerala,Corporate,yagnesh59@example.com
+1948,Bath LLC,Madurai,Arunachal Pradesh,Retail,reddyvidhi@example.net
+1949,"Arya, Bahl and Rao",Motihari,Arunachal Pradesh,Wholesale,ramreva@example.com
+1950,Basu-Khurana,Orai,Himachal Pradesh,Wholesale,tejashari@example.net
+1951,Mohanty-Prasad,Jaipur,Andhra Pradesh,Corporate,dswaminathan@example.com
+1952,Natt LLC,Bellary,Goa,Corporate,advay17@example.org
+1953,Munshi-Kumer,Katni,Goa,Corporate,hitesh78@example.com
+1954,Bhat Ltd,Chapra,Tamil Nadu,Wholesale,theodorekant@example.com
+1955,Chandran-Boase,Patna,Odisha,Retail,samachakradhar@example.com
+1956,Ahluwalia Ltd,Sasaram,Himachal Pradesh,Corporate,akshaydoshi@example.org
+1957,Rajagopalan Group,Muzaffarnagar,Uttar Pradesh,Corporate,abeermanda@example.net
+1958,Shan-Natt,North Dumdum,West Bengal,Retail,gagangarg@example.net
+1959,"Sampath, Muni and Ganesh",Ranchi,Haryana,Wholesale,onigola@example.org
+1960,"Dhaliwal, Shankar and Pingle",Saharsa,Goa,Corporate,kumerturvi@example.com
+1961,Date Inc,Raipur,Assam,Wholesale,neel38@example.org
+1962,Gulati Group,Navi Mumbai,Rajasthan,Corporate,ekanshpandit@example.net
+1963,Vig PLC,Kolkata,Sikkim,Wholesale,girindra61@example.org
+1964,"Sarkar, Kakar and Wason",Thoothukudi,Nagaland,Retail,munshiubika@example.net
+1965,Ganesh-Chandra,Miryalaguda,Mizoram,Corporate,bediharinakshi@example.org
+1966,Warrior-Kalita,Motihari,Madhya Pradesh,Corporate,yashodasrinivasan@example.org
+1967,"Majumdar, Narula and Mukhopadhyay",Jalandhar,Mizoram,Corporate,omsood@example.org
+1968,Bhagat and Sons,Srikakulam,Jharkhand,Corporate,veerdeshmukh@example.net
+1969,Bhargava LLC,Alwar,Himachal Pradesh,Corporate,pmallick@example.org
+1970,"Deep, Vohra and Choudhary",Bidar,Kerala,Retail,advaithdate@example.net
+1971,"Arya, Datta and Banik",Dhanbad,Himachal Pradesh,Corporate,theodoredeep@example.org
+1972,"Sarna, Tank and Parmer",Kota,Haryana,Corporate,rishi02@example.net
+1973,Sahni LLC,Vellore,Himachal Pradesh,Wholesale,ahegde@example.net
+1974,Padmanabhan Ltd,Gandhidham,Manipur,Corporate,zparekh@example.net
+1975,Yogi and Sons,Madurai,Sikkim,Wholesale,edwingaurav@example.com
+1976,"Borah, Singh and Misra",Narasaraopet,Arunachal Pradesh,Retail,tejasdar@example.org
+1977,Kota-Majumdar,Udupi,Madhya Pradesh,Wholesale,jgaba@example.net
+1978,Jain Inc,Morbi,Andhra Pradesh,Wholesale,perinidra@example.net
+1979,Sahni-Ramaswamy,Thane,Madhya Pradesh,Retail,meeradua@example.org
+1980,"Vala, Ramesh and Pathak",Allahabad,Jharkhand,Retail,aachal40@example.com
+1981,Raman-Hegde,Mahbubnagar,Tripura,Wholesale,umangsaha@example.com
+1982,Mittal Ltd,Rourkela,Manipur,Wholesale,kaiganguly@example.com
+1983,Saraf Inc,Sagar,Chhattisgarh,Retail,tarak62@example.net
+1984,Nagi-Lata,Salem,Sikkim,Retail,wallawaida@example.net
+1985,"Chaudhari, Reddy and Divan",Bijapur,Uttarakhand,Retail,raiadya@example.org
+1986,Nigam and Sons,Ichalkaranji,Manipur,Retail,jasmitbhandari@example.com
+1987,"Keer, Kar and Korpal",Panihati,Uttarakhand,Retail,khoslafaras@example.org
+1988,"Pau, Wadhwa and Tata",Bhopal,Kerala,Wholesale,kala76@example.net
+1989,"Luthra, Tata and Narayanan",Rewa,Odisha,Retail,gautami35@example.org
+1990,Prabhakar-Sodhi,Singrauli,Madhya Pradesh,Corporate,bbhatt@example.org
+1991,Date-Brar,Tiruvottiyur,Jharkhand,Corporate,anthony80@example.net
+1992,Mohan-Trivedi,Mau,Goa,Corporate,udhar@example.com
+1993,"Raj, Ranganathan and Mittal",South Dumdum,Bihar,Corporate,agastyasetty@example.com
+1994,Khatri LLC,Shimoga,Goa,Retail,sdas@example.org
+1995,"Lanka, Hayre and Kota",Vijayanagaram,Uttarakhand,Corporate,mitraedhitha@example.com
+1996,Bhalla Group,Muzaffarnagar,Sikkim,Wholesale,gkara@example.net
+1997,Balan PLC,Shimla,Mizoram,Corporate,oliver21@example.org
+1998,Sekhon-Chanda,Ratlam,Goa,Retail,jananimammen@example.net
+1999,Sant PLC,Rampur,Himachal Pradesh,Corporate,hbava@example.com
+2000,Gade Ltd,Dehri,Maharashtra,Wholesale,manbir37@example.com
