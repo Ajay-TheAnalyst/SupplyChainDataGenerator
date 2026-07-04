@@ -1,34 +1,51 @@
-import pandas as pd
 import random
+import pandas as pd
+
+from config.config import NUM_PRODUCTS, RANDOM_SEED
+from master_data.product_catalog import PRODUCT_CATALOG
+
+
+PRICE_RULES = {
+    "Laptop": (650, 1400),
+    "Monitor": (120, 450),
+    "Mouse": (25, 90),
+    "Keyboard": (30, 120),
+    "Webcam": (40, 150),
+    "Dock": (80, 250),
+    "SSD": (60, 220),
+    "Switch": (180, 1500),
+    "Printer": (150, 500),
+    "Chair": (150, 500),
+    "Desk": (200, 700),
+    "Office Supplies": (2, 25)
+}
+
 
 def generate_products():
 
-    random.seed(42)
+    random.seed(RANDOM_SEED)
 
     products = []
 
-    categories = [
-        "Electronics",
-        "Office Supplies",
-        "Furniture",
-        "Networking",
-        "Accessories"
-    ]
+    for product_id in range(1, NUM_PRODUCTS + 1):
 
-    for product_id in range(1, 101):
+        brand, model, product_type, category = random.choice(PRODUCT_CATALOG)
 
-        category = random.choice(categories)
+        min_price, max_price = PRICE_RULES[product_type]
 
-        cost = round(random.uniform(10, 500), 2)
+        unit_price = random.randint(min_price, max_price)
 
-        price = round(cost * random.uniform(1.2, 1.8), 2)
+        unit_cost = round(unit_price * random.uniform(0.6, 0.8), 2)
+
+        product_name = f"{brand} {model}"
 
         products.append([
             product_id,
-            f"Product {product_id}",
+            product_name,
+            brand,
             category,
-            cost,
-            price
+            unit_cost,
+            unit_price
         ])
 
     df = pd.DataFrame(
@@ -36,6 +53,7 @@ def generate_products():
         columns=[
             "ProductID",
             "ProductName",
+            "Brand",
             "Category",
             "UnitCost",
             "UnitPrice"
@@ -44,4 +62,4 @@ def generate_products():
 
     df.to_csv("data/Products.csv", index=False)
 
-    print("✅ Products.csv created")
+    print(f"✅ Products.csv created ({len(df)} rows)")

@@ -1,12 +1,16 @@
-# ===========================
-# Dataset Sizes
-# ===========================
+# ====================================
+# Supply Chain Data Generator Config
+# ====================================
 
+# Random Seed
+RANDOM_SEED = 42
+
+# Master Data
 NUM_PRODUCTS = 100
 NUM_CUSTOMERS = 2000
 NUM_SUPPLIERS = 80
 NUM_WAREHOUSES = 5
 
-# Transaction Tables
+# Transaction Data
 NUM_ORDERS = 20000
 MAX_ITEMS_PER_ORDER = 5

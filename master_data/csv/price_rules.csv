@@ -1,0 +1,13 @@
+ProductType,MinPrice,MaxPrice
+Laptop,650,1400
+Monitor,120,450
+Mouse,25,90
+Keyboard,30,120
+Webcam,40,150
+Dock,80,250
+SSD,60,220
+Switch,180,1500
+Printer,150,500
+Chair,150,500
+Desk,200,700
+Office Supplies,2,25
