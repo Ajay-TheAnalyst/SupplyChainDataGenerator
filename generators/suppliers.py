@@ -25,7 +25,9 @@ def generate_suppliers():
         "Office Supplies",
         "Furniture",
         "Networking",
-        "Accessories"
+        "Accessories",
+        "Storage",
+        "Printers"
     ]
 
     payment_terms = [

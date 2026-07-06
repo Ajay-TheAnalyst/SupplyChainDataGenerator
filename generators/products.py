@@ -25,11 +25,33 @@ def generate_products():
 
     random.seed(RANDOM_SEED)
 
+    # Read Suppliers.csv
+    suppliers_df = pd.read_csv("data/Suppliers.csv")
+
     products = []
 
     for product_id in range(1, NUM_PRODUCTS + 1):
 
         brand, model, product_type, category = random.choice(PRODUCT_CATALOG)
+
+        if product_type not in PRICE_RULES:
+            raise ValueError(
+                f"No price rule defined for {product_type}"
+            )
+
+        # Find suppliers that supply this category
+        matching_suppliers = suppliers_df[
+            suppliers_df["Category"] == category
+            ]
+
+        if matching_suppliers.empty:
+            raise ValueError(
+                f"No supplier found for category: {category}"
+            )
+
+        supplier_id = random.choice(
+            matching_suppliers["SupplierID"].tolist()
+        )
 
         min_price, max_price = PRICE_RULES[product_type]
 
@@ -44,6 +66,7 @@ def generate_products():
             product_name,
             brand,
             category,
+            supplier_id,
             unit_cost,
             unit_price
         ])
@@ -55,6 +78,7 @@ def generate_products():
             "ProductName",
             "Brand",
             "Category",
+            "SupplierID",
             "UnitCost",
             "UnitPrice"
         ]

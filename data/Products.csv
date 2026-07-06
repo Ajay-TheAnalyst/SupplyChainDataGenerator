@@ -1,101 +1,101 @@
-ProductID,ProductName,Brand,Category,UnitCost,UnitPrice
-1,Cisco Catalyst 9300,Cisco,Networking,246.84,408
-2,Dell UltraSharp 27,Dell,Electronics,157.94,245
-3,Epson EcoTank L3250,Epson,Printers,148.54,202
-4,Camlin Whiteboard Marker,Camlin,Office,11.73,19
-5,Logitech MX Keys S,Logitech,Accessories,20.6,34
-6,Lenovo ThinkPad T14,Lenovo,Electronics,622.55,888
-7,Dell Latitude 5440,Dell,Electronics,783.08,1224
-8,Cisco Catalyst 9300,Cisco,Networking,886.34,1296
-9,Logitech Brio 500,Logitech,Accessories,75.4,115
-10,Kangaro HD-10 Stapler,Kangaro,Office,1.5,2
-11,Lenovo ThinkPad E16,Lenovo,Electronics,933.69,1364
-12,Dell UltraSharp 27,Dell,Electronics,127.97,199
-13,Steelcase Series 1 Chair,Steelcase,Furniture,199.78,322
-14,Logitech MX Master 3S,Logitech,Accessories,24.86,37
-15,Lenovo ThinkVision T24,Lenovo,Electronics,280.1,429
-16,Dell Latitude 7450,Dell,Electronics,966.56,1397
-17,HP EliteBook 840,HP,Electronics,638.54,1037
-18,Dell P2425H,Dell,Electronics,319.15,441
-19,Kangaro HD-10 Stapler,Kangaro,Office,9.3,13
-20,HP LaserJet Pro M404,HP,Printers,112.7,185
-21,Apple MacBook Air M3,Apple,Electronics,754.0,946
-22,Kangaro HD-10 Stapler,Kangaro,Office,6.96,9
-23,Logitech MX Master 3S,Logitech,Accessories,41.44,60
-24,JK Paper A4 Paper Box,JK Paper,Office,8.22,13
-25,Lenovo ThinkVision T24,Lenovo,Electronics,166.63,227
-26,HP LaserJet Pro M404,HP,Printers,364.07,499
-27,Cisco Catalyst 9200,Cisco,Networking,938.66,1480
-28,Epson EcoTank L3250,Epson,Printers,173.99,275
-29,Logitech MX Master 3S,Logitech,Accessories,47.08,59
-30,Cisco Catalyst 9300,Cisco,Networking,849.98,1320
-31,HP Series 5 Pro,HP,Electronics,95.58,148
-32,Dell Latitude 7450,Dell,Electronics,661.87,973
-33,Dell Precision 3590,Dell,Electronics,677.76,866
-34,Kingston NV2 1TB,Kingston,Storage,89.95,140
-35,Dell USB-C Dock WD19,Dell,Accessories,140.63,181
-36,Cisco Catalyst 9300,Cisco,Networking,703.37,1119
-37,HP ProBook 450,HP,Electronics,675.6,902
-38,Samsung 980 PRO 2TB,Samsung,Storage,95.17,127
-39,Logitech MX Keys S,Logitech,Accessories,70.71,104
-40,Apple MacBook Air M3,Apple,Electronics,555.21,791
-41,Dell Precision 3590,Dell,Electronics,539.01,698
-42,HP ProBook 450,HP,Electronics,816.54,1292
-43,TP-Link TL-SG1024,TP-Link,Networking,750.93,1044
-44,Logitech MX Master 3S,Logitech,Accessories,52.5,73
-45,Logitech Brio 500,Logitech,Accessories,69.58,107
-46,Samsung 980 PRO 2TB,Samsung,Storage,45.64,62
-47,HP EliteBook 840,HP,Electronics,1047.34,1348
-48,Steelcase Series 1 Chair,Steelcase,Furniture,215.56,286
-49,HP Series 5 Pro,HP,Electronics,116.59,177
-50,Lenovo ThinkPad E16,Lenovo,Electronics,669.12,1114
-51,Epson EcoTank L3250,Epson,Printers,225.6,284
-52,Steelcase Series 1 Chair,Steelcase,Furniture,169.07,241
-53,HP EliteBook 840,HP,Electronics,851.0,1290
-54,Cisco Catalyst 9300,Cisco,Networking,879.87,1219
-55,HP ProBook 450,HP,Electronics,776.58,1032
-56,Samsung 980 PRO 2TB,Samsung,Storage,152.82,195
-57,Cisco Catalyst 9200,Cisco,Networking,588.18,843
-58,HP EliteBook 840,HP,Electronics,792.04,1021
-59,JK Paper A4 Paper Box,JK Paper,Office,7.13,11
-60,Apple MacBook Air M3,Apple,Electronics,970.95,1230
-61,Dell Precision 3590,Dell,Electronics,975.38,1399
-62,Dell Precision 3590,Dell,Electronics,900.03,1195
-63,HP ProBook 450,HP,Electronics,920.95,1325
-64,Samsung 980 PRO 2TB,Samsung,Storage,66.61,102
-65,Kangaro HD-10 Stapler,Kangaro,Office,14.38,21
-66,Lenovo ThinkPad T14,Lenovo,Electronics,902.77,1202
-67,HP LaserJet Pro M404,HP,Printers,187.13,252
-68,Logitech MX Master 3S,Logitech,Accessories,49.51,72
-69,Samsung 990 PRO 1TB,Samsung,Storage,109.24,175
-70,Apple MacBook Air M3,Apple,Electronics,477.35,715
-71,Kingston NV2 1TB,Kingston,Storage,129.85,201
-72,Apple MacBook Air M3,Apple,Electronics,403.53,657
-73,Cisco Catalyst 9300,Cisco,Networking,193.74,300
-74,Camlin Whiteboard Marker,Camlin,Office,2.32,3
-75,Dell Precision 3590,Dell,Electronics,761.58,1176
-76,TP-Link TL-SG1024,TP-Link,Networking,754.7,1174
-77,HP ProBook 450,HP,Electronics,1094.07,1390
-78,Kingston NV2 1TB,Kingston,Storage,143.77,207
-79,IKEA Bekant Desk,IKEA,Furniture,336.58,442
-80,Lenovo ThinkPad T14,Lenovo,Electronics,462.06,746
-81,Logitech MX Keys S,Logitech,Accessories,51.35,75
-82,Logitech Brio 500,Logitech,Accessories,111.87,150
-83,TP-Link TL-SG1024,TP-Link,Networking,233.22,381
-84,Epson EcoTank L3250,Epson,Printers,245.52,323
-85,HP EliteBook 840,HP,Electronics,577.04,904
-86,Samsung 980 PRO 2TB,Samsung,Storage,109.28,174
-87,Lenovo ThinkPad E16,Lenovo,Electronics,647.51,935
-88,Kangaro HD-10 Stapler,Kangaro,Office,2.75,4
-89,Kangaro HD-10 Stapler,Kangaro,Office,11.77,19
-90,Cisco Catalyst 9300,Cisco,Networking,987.39,1287
-91,Dell Precision 3590,Dell,Electronics,564.87,892
-92,Dell USB-C Dock WD19,Dell,Accessories,130.48,203
-93,Logitech MX Master 3S,Logitech,Accessories,20.25,32
-94,Dell Latitude 5440,Dell,Electronics,685.04,1049
-95,IKEA Bekant Desk,IKEA,Furniture,415.29,601
-96,Logitech MX Keys S,Logitech,Accessories,94.18,119
-97,IKEA Bekant Desk,IKEA,Furniture,354.47,484
-98,Dell USB-C Dock WD19,Dell,Accessories,75.92,119
-99,Lenovo ThinkPad T14,Lenovo,Electronics,507.53,709
-100,Samsung 980 PRO 2TB,Samsung,Storage,56.22,75
+ProductID,ProductName,Brand,Category,SupplierID,UnitCost,UnitPrice
+1,Cisco Catalyst 9300,Cisco,Networking,14,172.86,231
+2,Apple MacBook Air M3,Apple,Electronics,42,591.86,792
+3,TP-Link TL-SG1024,TP-Link,Networking,14,950.61,1389
+4,Dell Latitude 5440,Dell,Electronics,20,564.42,873
+5,Cisco Catalyst 9200,Cisco,Networking,6,850.25,1329
+6,Cisco Catalyst 9300,Cisco,Networking,62,435.29,631
+7,Dell UltraSharp 27,Dell,Electronics,1,148.67,201
+8,HP Series 5 Pro,HP,Electronics,48,127.97,199
+9,Steelcase Series 1 Chair,Steelcase,Furniture,24,124.95,202
+10,HP EliteBook 840,HP,Electronics,50,722.19,1002
+11,IKEA Bekant Desk,IKEA,Furniture,9,396.45,573
+12,HP EliteBook 840,HP,Electronics,54,518.6,730
+13,JK Paper A4 Paper Box,JK Paper,Office Supplies,56,16.32,21
+14,Lenovo ThinkVision T24,Lenovo,Electronics,42,94.42,155
+15,Apple MacBook Air M3,Apple,Electronics,48,563.65,731
+16,Kangaro HD-10 Stapler,Kangaro,Office Supplies,17,9.18,14
+17,Cisco Catalyst 9300,Cisco,Networking,55,345.78,513
+18,Lenovo ThinkPad T14,Lenovo,Electronics,48,1077.07,1368
+19,Cisco Catalyst 9300,Cisco,Networking,14,1037.42,1427
+20,Samsung 980 PRO 2TB,Samsung,Storage,18,69.94,101
+21,Dell UltraSharp 27,Dell,Electronics,77,170.97,232
+22,JK Paper A4 Paper Box,JK Paper,Office Supplies,65,1.94,3
+23,Dell Latitude 7450,Dell,Electronics,50,692.76,1060
+24,Lenovo ThinkPad T14,Lenovo,Electronics,50,633.85,867
+25,Logitech MX Master 3S,Logitech,Accessories,63,28.08,43
+26,Apple MacBook Air M3,Apple,Electronics,77,783.71,1201
+27,Kingston NV2 1TB,Kingston,Storage,40,142.09,209
+28,Apple MacBook Air M3,Apple,Electronics,25,818.18,1171
+29,Steelcase Series 1 Chair,Steelcase,Furniture,9,129.9,206
+30,Lenovo ThinkPad E16,Lenovo,Electronics,54,772.01,1260
+31,Logitech MX Master 3S,Logitech,Accessories,80,59.29,84
+32,Samsung 980 PRO 2TB,Samsung,Storage,2,65.53,89
+33,Samsung 980 PRO 2TB,Samsung,Storage,23,91.48,147
+34,Logitech MX Keys S,Logitech,Accessories,28,52.86,88
+35,Epson EcoTank L3250,Epson,Printers,32,305.47,406
+36,Samsung 990 PRO 1TB,Samsung,Storage,5,145.13,220
+37,Cisco Catalyst 9300,Cisco,Networking,41,332.67,493
+38,Lenovo ThinkPad E16,Lenovo,Electronics,77,934.95,1193
+39,Cisco Catalyst 9200,Cisco,Networking,55,712.6,1180
+40,Lenovo ThinkVision T24,Lenovo,Electronics,48,148.0,242
+41,Camlin Whiteboard Marker,Camlin,Office Supplies,52,2.47,4
+42,Dell USB-C Dock WD19,Dell,Accessories,11,162.68,216
+43,HP ProBook 450,HP,Electronics,73,767.23,1212
+44,Samsung 990 PRO 1TB,Samsung,Storage,72,133.2,168
+45,Samsung 980 PRO 2TB,Samsung,Storage,18,94.49,139
+46,TP-Link TL-SG1024,TP-Link,Networking,55,839.98,1077
+47,Logitech Brio 500,Logitech,Accessories,12,45.79,71
+48,HP Series 5 Pro,HP,Electronics,1,299.24,421
+49,Kingston NV2 1TB,Kingston,Storage,18,37.47,61
+50,Cisco Catalyst 9300,Cisco,Networking,6,397.54,648
+51,Dell Latitude 7450,Dell,Electronics,50,507.44,722
+52,Dell UltraSharp 27,Dell,Electronics,73,162.1,229
+53,Epson EcoTank L3250,Epson,Printers,61,309.07,445
+54,IKEA Bekant Desk,IKEA,Furniture,33,417.71,613
+55,HP EliteBook 840,HP,Electronics,20,908.54,1324
+56,Logitech MX Keys S,Logitech,Accessories,60,68.78,89
+57,Dell Latitude 7450,Dell,Electronics,20,484.53,712
+58,HP Series 5 Pro,HP,Electronics,20,157.66,247
+59,Samsung 980 PRO 2TB,Samsung,Storage,59,65.02,95
+60,Dell UltraSharp 27,Dell,Electronics,73,191.4,247
+61,Dell Precision 3590,Dell,Electronics,73,751.55,1213
+62,Cisco Catalyst 9300,Cisco,Networking,6,291.34,371
+63,Kangaro HD-10 Stapler,Kangaro,Office Supplies,22,4.77,7
+64,Dell USB-C Dock WD19,Dell,Accessories,31,142.05,182
+65,Lenovo ThinkPad E16,Lenovo,Electronics,54,519.68,652
+66,Dell UltraSharp 27,Dell,Electronics,73,182.1,266
+67,Epson EcoTank L3250,Epson,Printers,57,362.92,488
+68,HP ProBook 450,HP,Electronics,42,613.29,953
+69,Dell Latitude 7450,Dell,Electronics,77,533.71,712
+70,Dell Latitude 7450,Dell,Electronics,1,867.81,1248
+71,Kangaro HD-10 Stapler,Kangaro,Office Supplies,51,4.28,7
+72,Samsung 990 PRO 1TB,Samsung,Storage,5,65.67,107
+73,Dell Precision 3590,Dell,Electronics,42,663.29,1063
+74,Camlin Whiteboard Marker,Camlin,Office Supplies,52,6.44,9
+75,Dell Latitude 7450,Dell,Electronics,20,789.26,1079
+76,Kingston NV2 1TB,Kingston,Storage,64,110.17,140
+77,Lenovo ThinkPad T14,Lenovo,Electronics,50,583.89,894
+78,HP ProBook 450,HP,Electronics,48,741.5,1118
+79,Steelcase Series 1 Chair,Steelcase,Furniture,9,106.52,154
+80,Kingston NV2 1TB,Kingston,Storage,5,55.19,78
+81,Samsung 990 PRO 1TB,Samsung,Storage,23,73.16,93
+82,Camlin Whiteboard Marker,Camlin,Office Supplies,17,6.07,9
+83,Lenovo ThinkPad E16,Lenovo,Electronics,73,893.29,1206
+84,Cisco Catalyst 9200,Cisco,Networking,6,867.74,1315
+85,TP-Link TL-SG1024,TP-Link,Networking,14,297.07,455
+86,Camlin Whiteboard Marker,Camlin,Office Supplies,17,17.77,25
+87,Dell UltraSharp 27,Dell,Electronics,48,275.47,429
+88,HP Series 5 Pro,HP,Electronics,42,342.14,444
+89,Samsung 990 PRO 1TB,Samsung,Storage,59,96.85,124
+90,Kangaro HD-10 Stapler,Kangaro,Office Supplies,4,2.91,4
+91,JK Paper A4 Paper Box,JK Paper,Office Supplies,30,1.8,3
+92,Steelcase Series 1 Chair,Steelcase,Furniture,15,378.88,476
+93,Lenovo ThinkPad E16,Lenovo,Electronics,73,899.74,1214
+94,Samsung 980 PRO 2TB,Samsung,Storage,2,54.12,88
+95,Camlin Whiteboard Marker,Camlin,Office Supplies,58,4.25,6
+96,JK Paper A4 Paper Box,JK Paper,Office Supplies,39,14.21,20
+97,Logitech MX Keys S,Logitech,Accessories,16,23.16,35
+98,Camlin Whiteboard Marker,Camlin,Office Supplies,78,2.34,3
+99,Lenovo ThinkPad T14,Lenovo,Electronics,42,826.58,1332
+100,Steelcase Series 1 Chair,Steelcase,Furniture,67,284.53,358

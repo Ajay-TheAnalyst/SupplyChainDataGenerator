@@ -49,7 +49,7 @@ PRODUCT_CATALOG = [
     ("IKEA", "Bekant Desk", "Desk", "Furniture"),
 
     # Office Supplies
-    ("JK Paper", "A4 Paper Box", "Office Supplies", "Office"),
-    ("Kangaro", "HD-10 Stapler", "Office Supplies", "Office"),
-    ("Camlin", "Whiteboard Marker", "Office Supplies", "Office")
+    ("JK Paper", "A4 Paper Box", "Office Supplies", "Office Supplies"),
+    ("Kangaro", "HD-10 Stapler", "Office Supplies", "Office Supplies"),
+    ("Camlin", "Whiteboard Marker", "Office Supplies", "Office Supplies")
 ]

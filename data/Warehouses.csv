@@ -1,6 +1,6 @@
 WarehouseID,WarehouseName,City,State,Capacity,Manager
-1,North Distribution Center,Jalna,Mizoram,50000,Ojasvi Subramanian
-2,South Distribution Center,Latur,Manipur,60000,Leela Halder
-3,East Distribution Center,Coimbatore,Himachal Pradesh,70000,Harini Tripathi
-4,West Distribution Center,Delhi,Jharkhand,80000,Vrishti Dixit
-5,Central Distribution Center,Siwan,Meghalaya,100000,Gaurangi Purohit
+1,North Distribution Center,Mira-Bhayandar,Odisha,50000,Mugdha Naik
+2,South Distribution Center,Maheshtala,Gujarat,60000,Aarush Choudhury
+3,East Distribution Center,Ghaziabad,Rajasthan,70000,Ishanvi Dua
+4,West Distribution Center,Jorhat,Assam,80000,Jhalak Nanda
+5,Central Distribution Center,Vadodara,Andhra Pradesh,100000,Veda Gokhale

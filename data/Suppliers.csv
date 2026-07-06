@@ -1,81 +1,81 @@
 SupplierID,SupplierName,Country,Category,LeadTimeDays,SupplierRating,PaymentTerms,Email
 1,"Rodriguez, Figueroa and Sanchez",China,Electronics,28,3.91,Net 30,jillrhodes@miller.com
-2,Wagner Inc,Vietnam,Electronics,26,4.61,Net 60,jennifermiles@robinson-lawrence.com
+2,Wagner Inc,Vietnam,Storage,8,4.52,Net 60,jennifermiles@robinson-lawrence.com
 3,Wolfe LLC,China,Accessories,18,3.55,Net 30,eric51@james.com
 4,"Baker, Williams and Stevens",Germany,Office Supplies,21,4.4,Net 60,dudleynicholas@carter.com
-5,"Lee, Jones and Stanley",Germany,Accessories,18,3.83,Net 60,tracie31@ramirez-reid.com
-6,Wood and Sons,USA,Electronics,29,4.71,Net 60,jacqueline19@jackson.biz
-7,Mayo-Bowman,South Korea,Furniture,13,3.73,Net 45,gabriellecameron@perez.com
-8,Adams-Clark,China,Electronics,17,3.65,Net 45,jason76@ellis.net
-9,"Baker, Richards and Hurst",USA,Electronics,28,4.19,Net 30,icox@snyder.com
-10,"Moore, Becker and Carlson",South Korea,Electronics,22,3.94,Net 60,djames@king.com
-11,"Dyer, Potter and Mack",Japan,Accessories,11,4.56,Net 30,daniel62@smith-bowen.com
-12,"Gill, Romero and Rodriguez",Germany,Furniture,7,4.78,Net 30,meagan89@hernandez.net
-13,"Sellers, George and Burns",South Korea,Furniture,19,4.45,Net 45,hickmannatasha@allen-allen.org
-14,Miller Group,Vietnam,Furniture,16,3.81,Net 45,spenceamanda@anderson.net
-15,Baker PLC,China,Accessories,25,3.76,Net 60,ibrandt@vaughn.com
-16,Lam-Hayes,Germany,Office Supplies,19,4.07,Net 60,jeffreymorgan@spencer.com
-17,Jones Inc,Germany,Furniture,29,4.66,Net 30,chad34@washington.org
-18,"Kennedy, Mueller and Aguirre",India,Furniture,17,3.9,Net 30,clintonhopkins@henderson-owens.com
-19,"Valdez, Lucas and Brown",Japan,Office Supplies,25,4.25,Net 60,lauren13@lee.com
-20,White-Ford,Malaysia,Office Supplies,13,3.71,Net 60,ramosmichelle@garcia.com
-21,House and Sons,USA,Accessories,18,4.85,Net 45,richardolson@barrera-martin.com
-22,Baker-Bowers,Japan,Office Supplies,9,4.26,Net 30,smitchell@cowan.com
-23,Phillips Inc,India,Electronics,9,4.44,Net 60,adkinsbrian@woods.com
-24,"Miller, Lopez and Larson",South Korea,Accessories,7,4.08,Net 60,richarddavid@sanchez.biz
-25,"Silva, Mills and Donovan",Malaysia,Accessories,13,4.96,Net 30,elizabethedwards@foster-powers.com
-26,Stewart-Walton,China,Accessories,29,3.9,Net 60,smithchristine@ferrell.com
-27,Mahoney Inc,Japan,Electronics,14,4.15,Net 45,mikemoore@warner.net
-28,Contreras PLC,India,Furniture,21,4.64,Net 60,sarah12@wilson-rodriguez.net
-29,Nelson PLC,China,Furniture,25,4.26,Net 30,jenniferharris@farrell.com
-30,Walters LLC,Vietnam,Furniture,29,3.74,Net 60,smithkellie@whitney.biz
-31,"Smith, Jones and Ware",India,Accessories,15,4.23,Net 30,amydavenport@tran.com
-32,Nolan and Sons,Japan,Furniture,12,3.59,Net 60,elizabethgomez@henson.com
-33,Hancock and Sons,China,Electronics,28,4.23,Net 30,vjohnson@patton-jenkins.com
-34,Moore-Haynes,Vietnam,Office Supplies,26,4.21,Net 60,ebrennan@gonzalez.com
-35,Hoover-Savage,Vietnam,Furniture,21,4.81,Net 45,andrewlee@ramirez-jones.com
-36,May-Ross,Germany,Accessories,29,4.59,Net 30,sheila14@carpenter.com
-37,Carlson LLC,USA,Networking,26,4.47,Net 45,samuel81@lam-lee.com
-38,"Graham, Meyer and Drake",Malaysia,Electronics,12,3.84,Net 45,michaeljones@mccall.com
-39,"Mccullough, Hunter and Estrada",India,Accessories,22,3.85,Net 30,richard48@lee.biz
-40,"Adkins, Thompson and Carroll",India,Electronics,27,4.45,Net 30,akelley@mitchell-jordan.org
-41,"Pena, Marshall and Ramos",China,Electronics,15,3.61,Net 30,williamleon@jackson.org
-42,Davis-Crane,USA,Networking,11,4.31,Net 60,emilywalker@hernandez.com
-43,Carr-Mack,Malaysia,Office Supplies,30,4.21,Net 45,operry@lee.com
-44,Douglas Inc,Germany,Electronics,8,4.49,Net 45,osbornejeffery@holmes.com
-45,Anderson-Marshall,South Korea,Networking,19,4.8,Net 30,stephanie79@mcclain.info
-46,Manning Group,China,Electronics,17,4.59,Net 30,pgreen@ramirez.com
-47,Gonzales-Reeves,Germany,Office Supplies,11,4.3,Net 30,josephflores@miller.com
-48,"Lewis, Perry and Rivera",South Korea,Office Supplies,13,4.19,Net 30,nperry@price-carrillo.com
-49,"James, Smith and Bell",Malaysia,Accessories,8,3.58,Net 60,acastaneda@adkins.com
-50,Robinson-Graham,India,Electronics,29,4.77,Net 30,priceelizabeth@ramsey-pittman.com
-51,"Ferguson, Meadows and Vargas",South Korea,Networking,20,3.82,Net 45,millerroy@white-green.com
-52,Gibson LLC,India,Office Supplies,17,3.5,Net 45,aramirez@conley-ruiz.net
-53,Cooke LLC,USA,Networking,14,4.13,Net 60,debraharrington@williams.com
-54,"Hernandez, Martinez and Caldwell",Malaysia,Office Supplies,11,3.95,Net 30,stevenscott@jackson-lawson.com
-55,Oconnell Inc,India,Furniture,6,3.58,Net 45,hickmanbarbara@sanders-espinoza.com
-56,"Vaughn, Burton and Garcia",Vietnam,Electronics,21,3.62,Net 30,melissa91@patton.com
-57,Hunter LLC,China,Accessories,7,4.51,Net 30,atkinsonlynn@hamilton.info
-58,"Hernandez, Thompson and Boyd",South Korea,Electronics,23,3.87,Net 60,christina87@graham-simon.com
-59,Christian-Rivas,India,Accessories,7,4.13,Net 60,ramirezshannon@hudson-barnett.com
-60,Snyder LLC,Japan,Furniture,11,4.5,Net 45,tonykelly@peterson-beard.com
-61,"Smith, Vaughan and Miller",Germany,Furniture,17,3.7,Net 60,wfreeman@vaughn.info
-62,Mcguire-Davis,USA,Networking,15,4.89,Net 30,richardsanchez@perkins.biz
-63,"Pierce, Bell and Chavez",India,Networking,24,5.0,Net 30,john13@wilson-herrera.com
-64,Robinson Group,China,Accessories,11,4.26,Net 30,jenny89@hooper-wall.com
-65,Ward LLC,Japan,Electronics,12,4.05,Net 30,ericksondavid@mccann.com
-66,"Raymond, Little and Mullins",Malaysia,Accessories,27,3.95,Net 60,salasaudrey@mendoza-peterson.com
-67,Everett-Woods,India,Accessories,14,4.9,Net 30,moralescharles@parks.com
-68,Mcknight Inc,Vietnam,Furniture,8,4.83,Net 60,yobrien@perez.info
-69,Dalton-Branch,Vietnam,Furniture,14,4.41,Net 60,ashley09@garcia.com
-70,"Miller, Allen and Arnold",Japan,Office Supplies,26,4.45,Net 45,aaronhayes@harrison.com
-71,"Heath, Jones and Hall",Malaysia,Furniture,6,3.64,Net 45,kristin93@wilson-walker.com
-72,Serrano-Jones,USA,Electronics,5,4.0,Net 30,lauralarson@morse.com
-73,"Powell, Nelson and Fernandez",USA,Office Supplies,28,4.16,Net 60,cmiller@navarro-munoz.com
-74,Perez Ltd,South Korea,Accessories,5,3.67,Net 60,keyemily@johnston-hines.com
-75,Stone-Ramos,Vietnam,Accessories,6,4.75,Net 60,howard96@olsen.biz
-76,Morris-Garcia,Vietnam,Networking,9,3.56,Net 45,marksteele@bates-morales.net
-77,Gibson LLC,India,Furniture,11,4.52,Net 60,marcus68@sandoval.info
-78,Brown-Stone,China,Furniture,29,4.34,Net 45,wgarrett@harris.com
-79,Kim-Wolfe,Vietnam,Office Supplies,10,4.96,Net 30,johnsoncrystal@mckinney.net
-80,Tran Inc,South Korea,Electronics,10,4.6,Net 45,victoriadurham@valentine-holland.com
+5,"Lee, Jones and Stanley",Germany,Storage,25,4.55,Net 45,tracie31@ramirez-reid.com
+6,Wood and Sons,Germany,Networking,23,3.92,Net 30,jacqueline19@jackson.biz
+7,Mayo-Bowman,Vietnam,Storage,18,4.01,Net 30,gabriellecameron@perez.com
+8,Adams-Clark,Germany,Printers,15,3.65,Net 45,jason76@ellis.net
+9,"Baker, Richards and Hurst",China,Furniture,16,4.41,Net 30,icox@snyder.com
+10,"Moore, Becker and Carlson",Malaysia,Accessories,8,4.96,Net 45,djames@king.com
+11,"Dyer, Potter and Mack",China,Accessories,14,4.74,Net 60,daniel62@smith-bowen.com
+12,"Gill, Romero and Rodriguez",Japan,Accessories,11,4.56,Net 30,meagan89@hernandez.net
+13,"Sellers, George and Burns",Germany,Printers,14,4.98,Net 30,hickmannatasha@allen-allen.org
+14,Miller Group,China,Networking,13,4.18,Net 45,spenceamanda@anderson.net
+15,Baker PLC,Vietnam,Furniture,16,3.81,Net 45,ibrandt@vaughn.com
+16,Lam-Hayes,China,Accessories,25,3.76,Net 60,jeffreymorgan@spencer.com
+17,Jones Inc,Germany,Office Supplies,19,4.07,Net 60,chad34@washington.org
+18,"Kennedy, Mueller and Aguirre",Germany,Storage,15,4.76,Net 30,clintonhopkins@henderson-owens.com
+19,"Valdez, Lucas and Brown",Germany,Printers,6,4.71,Net 45,lauren13@lee.com
+20,White-Ford,USA,Electronics,11,4.87,Net 60,ramosmichelle@garcia.com
+21,House and Sons,Japan,Office Supplies,25,4.25,Net 60,richardolson@barrera-martin.com
+22,Baker-Bowers,Malaysia,Office Supplies,13,3.71,Net 60,smitchell@cowan.com
+23,Phillips Inc,USA,Storage,23,4.14,Net 60,adkinsbrian@woods.com
+24,"Miller, Lopez and Larson",South Korea,Furniture,12,5.0,Net 30,richarddavid@sanchez.biz
+25,"Silva, Mills and Donovan",Malaysia,Electronics,29,3.57,Net 30,elizabethedwards@foster-powers.com
+26,Stewart-Walton,Vietnam,Storage,10,4.69,Net 45,smithchristine@ferrell.com
+27,Mahoney Inc,China,Networking,17,4.39,Net 45,mikemoore@warner.net
+28,Contreras PLC,USA,Accessories,5,4.52,Net 30,sarah12@wilson-rodriguez.net
+29,Nelson PLC,USA,Printers,25,4.01,Net 45,jenniferharris@farrell.com
+30,Walters LLC,South Korea,Office Supplies,19,3.5,Net 60,smithkellie@whitney.biz
+31,"Smith, Jones and Ware",USA,Accessories,29,3.77,Net 30,amydavenport@tran.com
+32,Nolan and Sons,USA,Printers,25,4.26,Net 30,elizabethgomez@henson.com
+33,Hancock and Sons,Vietnam,Furniture,29,3.74,Net 60,vjohnson@patton-jenkins.com
+34,Moore-Haynes,India,Accessories,15,4.23,Net 30,ebrennan@gonzalez.com
+35,Hoover-Savage,Japan,Printers,30,3.96,Net 30,andrewlee@ramirez-jones.com
+36,May-Ross,Germany,Accessories,7,3.63,Net 45,sheila14@carpenter.com
+37,Carlson LLC,China,Printers,22,4.65,Net 30,samuel81@lam-lee.com
+38,"Graham, Meyer and Drake",Malaysia,Accessories,10,3.9,Net 60,michaeljones@mccall.com
+39,"Mccullough, Hunter and Estrada",South Korea,Office Supplies,22,4.63,Net 60,richard48@lee.biz
+40,"Adkins, Thompson and Carroll",Germany,Storage,14,4.1,Net 60,akelley@mitchell-jordan.org
+41,"Pena, Marshall and Ramos",Japan,Networking,21,4.18,Net 30,williamleon@jackson.org
+42,Davis-Crane,Germany,Electronics,15,3.53,Net 60,emilywalker@hernandez.com
+43,Carr-Mack,Germany,Accessories,12,3.51,Net 60,operry@lee.com
+44,Douglas Inc,India,Office Supplies,7,4.86,Net 45,osbornejeffery@holmes.com
+45,Anderson-Marshall,China,Accessories,12,3.92,Net 45,stephanie79@mcclain.info
+46,Manning Group,Germany,Accessories,9,4.59,Net 60,pgreen@ramirez.com
+47,Gonzales-Reeves,Malaysia,Office Supplies,30,4.21,Net 45,josephflores@miller.com
+48,"Lewis, Perry and Rivera",Germany,Electronics,8,4.49,Net 45,nperry@price-carrillo.com
+49,"James, Smith and Bell",South Korea,Networking,19,4.8,Net 30,acastaneda@adkins.com
+50,Robinson-Graham,China,Electronics,17,4.59,Net 30,priceelizabeth@ramsey-pittman.com
+51,"Ferguson, Meadows and Vargas",Germany,Office Supplies,11,4.3,Net 30,millerroy@white-green.com
+52,Gibson LLC,South Korea,Office Supplies,13,4.19,Net 30,aramirez@conley-ruiz.net
+53,Cooke LLC,Malaysia,Printers,22,3.65,Net 60,debraharrington@williams.com
+54,"Hernandez, Martinez and Caldwell",India,Electronics,29,4.77,Net 30,stevenscott@jackson-lawson.com
+55,Oconnell Inc,South Korea,Networking,20,3.82,Net 45,hickmanbarbara@sanders-espinoza.com
+56,"Vaughn, Burton and Garcia",India,Office Supplies,17,3.5,Net 45,melissa91@patton.com
+57,Hunter LLC,USA,Printers,30,4.18,Net 45,atkinsonlynn@hamilton.info
+58,"Hernandez, Thompson and Boyd",Malaysia,Office Supplies,11,3.95,Net 30,christina87@graham-simon.com
+59,Christian-Rivas,India,Storage,15,3.59,Net 60,ramirezshannon@hudson-barnett.com
+60,Snyder LLC,Malaysia,Accessories,21,3.74,Net 60,tonykelly@peterson-beard.com
+61,"Smith, Vaughan and Miller",China,Printers,10,3.6,Net 30,wfreeman@vaughn.info
+62,Mcguire-Davis,Germany,Networking,8,4.91,Net 60,richardsanchez@perkins.biz
+63,"Pierce, Bell and Chavez",Germany,Accessories,24,3.56,Net 30,john13@wilson-herrera.com
+64,Robinson Group,South Korea,Storage,23,4.35,Net 45,jenny89@hooper-wall.com
+65,Ward LLC,USA,Office Supplies,26,4.57,Net 30,ericksondavid@mccann.com
+66,"Raymond, Little and Mullins",USA,Networking,9,4.51,Net 45,salasaudrey@mendoza-peterson.com
+67,Everett-Woods,Malaysia,Furniture,29,4.9,Net 30,moralescharles@parks.com
+68,Mcknight Inc,Malaysia,Accessories,23,4.99,Net 30,yobrien@perez.info
+69,Dalton-Branch,Germany,Accessories,13,3.7,Net 45,ashley09@garcia.com
+70,"Miller, Allen and Arnold",China,Office Supplies,16,3.93,Net 45,aaronhayes@harrison.com
+71,"Heath, Jones and Hall",USA,Accessories,30,4.48,Net 30,kristin93@wilson-walker.com
+72,Serrano-Jones,USA,Storage,8,4.91,Net 30,lauralarson@morse.com
+73,"Powell, Nelson and Fernandez",USA,Electronics,8,4.61,Net 30,cmiller@navarro-munoz.com
+74,Perez Ltd,USA,Furniture,24,3.82,Net 45,keyemily@johnston-hines.com
+75,Stone-Ramos,Germany,Storage,25,4.78,Net 60,howard96@olsen.biz
+76,Morris-Garcia,Malaysia,Furniture,6,3.64,Net 45,marksteele@bates-morales.net
+77,Gibson LLC,USA,Electronics,5,4.0,Net 30,marcus68@sandoval.info
+78,Brown-Stone,USA,Office Supplies,28,4.16,Net 60,wgarrett@harris.com
+79,Kim-Wolfe,South Korea,Accessories,5,3.67,Net 60,johnsoncrystal@mckinney.net
+80,Tran Inc,Vietnam,Accessories,6,4.75,Net 60,victoriadurham@valentine-holland.com
