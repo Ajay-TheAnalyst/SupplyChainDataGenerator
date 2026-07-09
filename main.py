@@ -6,7 +6,8 @@ from generators.orders import generate_orders
 from generators.order_items import generate_order_items
 from generators.inventory import generate_inventory
 from generators.inventory_transactions import generate_inventory_transactions
-
+from generators.purchase_orders import generate_purchase_orders
+from generators.purchase_order_items import generate_purchase_order_items
 
 
 print("====================================")
@@ -21,6 +22,8 @@ generate_orders()
 generate_order_items()
 generate_inventory()
 generate_inventory_transactions()
+generate_purchase_orders()
+generate_purchase_order_items()
 
 
 
