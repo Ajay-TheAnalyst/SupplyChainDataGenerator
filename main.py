@@ -8,7 +8,7 @@ from generators.inventory import generate_inventory
 from generators.inventory_transactions import generate_inventory_transactions
 from generators.purchase_orders import generate_purchase_orders
 from generators.purchase_order_items import generate_purchase_order_items
-
+from generators.returns import generate_returns
 
 print("====================================")
 print(" Supply Chain Data Generator ")
@@ -24,6 +24,7 @@ generate_inventory()
 generate_inventory_transactions()
 generate_purchase_orders()
 generate_purchase_order_items()
+generate_returns()
 
 
 

@@ -1,0 +1,2505 @@
+ReturnID,OrderID,CustomerID,ProductID,ReturnedQuantity,Reason,Status,RefundAmount
+1,100018,1812,31,9,Different Product Received,Rejected,756
+2,100045,1898,95,1,Changed with Another Product,Pending,6
+3,100092,1647,53,2,Product Condition Not Good,Pending,890
+4,100092,1647,89,4,Color Mismatch,Refunded,496
+5,100112,1273,75,1,Changed with Another Product,Rejected,1079
+6,100112,1273,19,5,Changed with Another Product,Approved,7135
+7,100112,1273,60,6,Changed with Another Product,Approved,1482
+8,100112,1273,30,5,Color Mismatch,Rejected,6300
+9,100153,513,94,2,Product Condition Not Good,Rejected,176
+10,100153,513,45,2,Different Product Received,Refunded,278
+11,100166,1911,40,5,Color Mismatch,Approved,1210
+12,100166,1911,69,6,Product Condition Not Good,Rejected,4272
+13,100166,1911,30,3,Product Condition Not Good,Pending,3780
+14,100198,527,83,3,Product Condition Not Good,Refunded,3618
+15,100200,750,60,1,Color Mismatch,Approved,247
+16,100200,750,62,1,Different Product Received,Pending,371
+17,100216,1759,36,7,Color Mismatch,Pending,1540
+18,100227,848,52,2,Color Mismatch,Pending,458
+19,100247,1937,50,2,Product Condition Not Good,Refunded,1296
+20,100247,1937,68,2,Changed with Another Product,Rejected,1906
+21,100247,1937,72,4,Product Condition Not Good,Rejected,428
+22,100247,1937,18,2,Color Mismatch,Pending,2736
+23,100274,1431,38,2,Color Mismatch,Refunded,2386
+24,100274,1431,2,5,Changed with Another Product,Rejected,3960
+25,100274,1431,77,6,Color Mismatch,Rejected,5364
+26,100290,812,59,2,Color Mismatch,Refunded,190
+27,100292,687,24,6,Changed with Another Product,Approved,5202
+28,100292,687,15,3,Changed with Another Product,Refunded,2193
+29,100293,1426,24,3,Different Product Received,Rejected,2601
+30,100293,1426,63,6,Color Mismatch,Approved,42
+31,100293,1426,82,2,Color Mismatch,Rejected,18
+32,100308,75,74,2,Changed with Another Product,Pending,18
+33,100308,75,71,1,Different Product Received,Approved,7
+34,100328,1454,34,4,Different Product Received,Rejected,352
+35,100328,1454,48,5,Changed with Another Product,Rejected,2105
+36,100363,1242,68,1,Color Mismatch,Approved,953
+37,100366,1671,86,1,Changed with Another Product,Refunded,25
+38,100366,1671,76,4,Different Product Received,Rejected,560
+39,100404,766,18,4,Color Mismatch,Approved,5472
+40,100404,766,93,4,Different Product Received,Approved,4856
+41,100406,1442,72,2,Color Mismatch,Pending,214
+42,100414,588,79,6,Changed with Another Product,Refunded,924
+43,100414,588,56,1,Different Product Received,Rejected,89
+44,100418,1710,25,2,Changed with Another Product,Pending,86
+45,100418,1710,22,1,Different Product Received,Pending,3
+46,100418,1710,97,5,Color Mismatch,Approved,175
+47,100436,1239,2,6,Color Mismatch,Rejected,4752
+48,100436,1239,41,5,Product Condition Not Good,Refunded,20
+49,100451,934,18,9,Changed with Another Product,Approved,12312
+50,100451,934,38,3,Product Condition Not Good,Rejected,3579
+51,100473,649,98,2,Different Product Received,Refunded,6
+52,100519,1725,90,1,Different Product Received,Approved,4
+53,100519,1725,67,3,Different Product Received,Pending,1464
+54,100519,1725,16,5,Color Mismatch,Rejected,70
+55,100519,1725,59,2,Changed with Another Product,Rejected,190
+56,100520,280,35,6,Color Mismatch,Refunded,2436
+57,100530,1667,22,1,Color Mismatch,Refunded,3
+58,100530,1667,51,2,Different Product Received,Rejected,1444
+59,100541,1184,20,4,Changed with Another Product,Approved,404
+60,100541,1184,12,1,Different Product Received,Rejected,730
+61,100546,626,51,2,Changed with Another Product,Refunded,1444
+62,100552,1314,85,3,Color Mismatch,Approved,1365
+63,100552,1314,42,2,Different Product Received,Pending,432
+64,100562,1119,28,5,Different Product Received,Pending,5855
+65,100562,1119,71,3,Color Mismatch,Approved,21
+66,100572,762,45,5,Changed with Another Product,Approved,695
+67,100572,762,42,8,Changed with Another Product,Refunded,1728
+68,100572,762,47,6,Color Mismatch,Pending,426
+69,100572,762,25,4,Color Mismatch,Rejected,172
+70,100591,1996,55,2,Color Mismatch,Rejected,2648
+71,100595,479,76,2,Color Mismatch,Pending,280
+72,100595,479,26,1,Different Product Received,Refunded,1201
+73,100595,479,59,1,Different Product Received,Refunded,95
+74,100595,479,92,6,Color Mismatch,Refunded,2856
+75,100602,1139,37,4,Product Condition Not Good,Refunded,1972
+76,100602,1139,23,2,Different Product Received,Pending,2120
+77,100602,1139,87,1,Product Condition Not Good,Approved,429
+78,100610,1810,59,1,Different Product Received,Refunded,95
+79,100610,1810,81,5,Product Condition Not Good,Refunded,465
+80,100628,280,42,4,Product Condition Not Good,Refunded,864
+81,100628,280,92,2,Product Condition Not Good,Pending,952
+82,100628,280,14,8,Changed with Another Product,Rejected,1240
+83,100639,925,66,1,Changed with Another Product,Rejected,266
+84,100639,925,59,3,Product Condition Not Good,Pending,285
+85,100639,925,55,6,Product Condition Not Good,Refunded,7944
+86,100639,925,71,4,Color Mismatch,Pending,28
+87,100639,925,24,2,Color Mismatch,Approved,1734
+88,100653,1541,88,3,Product Condition Not Good,Approved,1332
+89,100668,1838,81,6,Product Condition Not Good,Refunded,558
+90,100694,1722,94,6,Different Product Received,Rejected,528
+91,100695,263,42,7,Color Mismatch,Rejected,1512
+92,100695,263,56,5,Changed with Another Product,Rejected,445
+93,100699,1822,50,1,Different Product Received,Refunded,648
+94,100709,265,67,3,Changed with Another Product,Approved,1464
+95,100709,265,27,1,Changed with Another Product,Approved,209
+96,100717,1713,86,6,Product Condition Not Good,Approved,150
+97,100717,1713,97,3,Different Product Received,Rejected,105
+98,100717,1713,74,3,Different Product Received,Refunded,27
+99,100720,862,66,5,Different Product Received,Refunded,1330
+100,100723,1441,55,1,Changed with Another Product,Approved,1324
+101,100723,1441,94,7,Product Condition Not Good,Pending,616
+102,100770,1544,82,2,Product Condition Not Good,Refunded,18
+103,100778,542,57,10,Changed with Another Product,Pending,7120
+104,100778,542,33,2,Color Mismatch,Approved,294
+105,100778,542,53,8,Product Condition Not Good,Rejected,3560
+106,100779,677,32,4,Color Mismatch,Refunded,356
+107,100779,677,61,4,Different Product Received,Approved,4852
+108,100779,677,55,2,Product Condition Not Good,Pending,2648
+109,100779,677,36,1,Changed with Another Product,Refunded,220
+110,100779,677,88,2,Changed with Another Product,Approved,888
+111,100792,1698,48,1,Changed with Another Product,Pending,421
+112,100804,431,5,2,Changed with Another Product,Pending,2658
+113,100804,431,24,6,Changed with Another Product,Refunded,5202
+114,100848,1792,39,1,Product Condition Not Good,Approved,1180
+115,100876,139,1,3,Product Condition Not Good,Rejected,693
+116,100903,249,43,1,Different Product Received,Approved,1212
+117,100918,912,46,3,Product Condition Not Good,Refunded,3231
+118,100918,912,57,1,Different Product Received,Pending,712
+119,100918,912,67,5,Product Condition Not Good,Pending,2440
+120,100935,1621,60,2,Different Product Received,Pending,494
+121,100935,1621,6,2,Color Mismatch,Approved,1262
+122,100935,1621,63,2,Changed with Another Product,Pending,14
+123,100935,1621,74,9,Product Condition Not Good,Rejected,81
+124,100935,1621,59,2,Color Mismatch,Refunded,190
+125,100949,1144,84,4,Product Condition Not Good,Rejected,5260
+126,100949,1144,2,4,Different Product Received,Refunded,3168
+127,100949,1144,41,2,Different Product Received,Refunded,8
+128,100949,1144,50,1,Different Product Received,Rejected,648
+129,100964,959,23,1,Color Mismatch,Pending,1060
+130,100964,959,94,7,Changed with Another Product,Rejected,616
+131,100964,959,20,2,Changed with Another Product,Rejected,202
+132,101028,1566,53,2,Color Mismatch,Refunded,890
+133,101028,1566,99,2,Product Condition Not Good,Approved,2664
+134,101035,816,46,3,Color Mismatch,Approved,3231
+135,101035,816,52,1,Different Product Received,Pending,229
+136,101045,631,63,1,Product Condition Not Good,Pending,7
+137,101045,631,62,2,Different Product Received,Rejected,742
+138,101045,631,38,4,Different Product Received,Pending,4772
+139,101045,631,37,8,Color Mismatch,Pending,3944
+140,101070,944,64,3,Different Product Received,Rejected,546
+141,101089,653,69,4,Changed with Another Product,Refunded,2848
+142,101089,653,11,1,Product Condition Not Good,Rejected,573
+143,101090,502,15,5,Changed with Another Product,Rejected,3655
+144,101090,502,8,3,Different Product Received,Pending,597
+145,101130,1096,77,1,Changed with Another Product,Pending,894
+146,101130,1096,71,1,Color Mismatch,Rejected,7
+147,101157,1576,66,5,Different Product Received,Pending,1330
+148,101172,1426,86,4,Product Condition Not Good,Refunded,100
+149,101172,1426,53,4,Changed with Another Product,Pending,1780
+150,101210,1558,86,7,Changed with Another Product,Pending,175
+151,101225,1937,24,4,Color Mismatch,Pending,3468
+152,101225,1937,78,3,Color Mismatch,Approved,3354
+153,101225,1937,74,8,Product Condition Not Good,Pending,72
+154,101246,650,31,3,Changed with Another Product,Rejected,252
+155,101250,1835,32,1,Changed with Another Product,Pending,89
+156,101254,113,29,6,Color Mismatch,Pending,1236
+157,101254,113,6,2,Product Condition Not Good,Pending,1262
+158,101254,113,27,4,Changed with Another Product,Refunded,836
+159,101254,113,49,9,Changed with Another Product,Approved,549
+160,101257,1236,60,1,Color Mismatch,Rejected,247
+161,101257,1236,49,3,Product Condition Not Good,Refunded,183
+162,101302,672,78,1,Product Condition Not Good,Approved,1118
+163,101302,672,70,6,Product Condition Not Good,Approved,7488
+164,101306,216,21,2,Color Mismatch,Refunded,464
+165,101306,216,37,5,Different Product Received,Refunded,2465
+166,101306,216,63,1,Different Product Received,Rejected,7
+167,101306,216,51,3,Color Mismatch,Rejected,2166
+168,101306,216,6,1,Changed with Another Product,Refunded,631
+169,101318,704,81,4,Changed with Another Product,Pending,372
+170,101339,1641,36,3,Different Product Received,Approved,660
+171,101380,537,89,9,Different Product Received,Approved,1116
+172,101421,83,33,5,Product Condition Not Good,Refunded,735
+173,101437,429,87,8,Changed with Another Product,Approved,3432
+174,101437,429,26,4,Different Product Received,Approved,4804
+175,101468,1543,88,4,Changed with Another Product,Approved,1776
+176,101485,1366,53,2,Color Mismatch,Rejected,890
+177,101485,1366,94,5,Changed with Another Product,Refunded,440
+178,101485,1366,4,6,Product Condition Not Good,Rejected,5238
+179,101491,868,83,1,Different Product Received,Pending,1206
+180,101491,868,40,3,Changed with Another Product,Pending,726
+181,101491,868,72,4,Different Product Received,Rejected,428
+182,101491,868,90,3,Different Product Received,Approved,12
+183,101548,562,83,5,Different Product Received,Rejected,6030
+184,101582,696,96,3,Different Product Received,Pending,60
+185,101593,1539,41,1,Changed with Another Product,Refunded,4
+186,101656,356,66,8,Color Mismatch,Pending,2128
+187,101656,356,8,2,Product Condition Not Good,Rejected,398
+188,101656,356,2,5,Different Product Received,Pending,3960
+189,101684,9,30,2,Product Condition Not Good,Refunded,2520
+190,101684,9,49,3,Color Mismatch,Approved,183
+191,101684,9,77,1,Color Mismatch,Pending,894
+192,101728,237,83,6,Product Condition Not Good,Approved,7236
+193,101729,1517,5,2,Different Product Received,Pending,2658
+194,101729,1517,44,6,Product Condition Not Good,Approved,1008
+195,101729,1517,51,4,Changed with Another Product,Approved,2888
+196,101747,19,40,5,Product Condition Not Good,Rejected,1210
+197,101747,19,89,1,Color Mismatch,Pending,124
+198,101747,19,70,2,Color Mismatch,Approved,2496
+199,101767,641,12,1,Different Product Received,Refunded,730
+200,101767,641,85,1,Different Product Received,Rejected,455
+201,101767,641,35,1,Changed with Another Product,Approved,406
+202,101776,1975,15,4,Changed with Another Product,Rejected,2924
+203,101776,1975,74,1,Different Product Received,Pending,9
+204,101778,183,49,5,Color Mismatch,Rejected,305
+205,101778,183,85,1,Product Condition Not Good,Pending,455
+206,101795,1439,63,4,Color Mismatch,Approved,28
+207,101806,15,15,2,Product Condition Not Good,Rejected,1462
+208,101807,767,31,4,Color Mismatch,Rejected,336
+209,101807,767,17,4,Product Condition Not Good,Approved,2052
+210,101826,126,93,4,Different Product Received,Pending,4856
+211,101826,126,87,6,Changed with Another Product,Pending,2574
+212,101826,126,38,3,Changed with Another Product,Approved,3579
+213,101826,126,80,3,Color Mismatch,Pending,234
+214,101860,636,1,1,Changed with Another Product,Approved,231
+215,101860,636,97,1,Product Condition Not Good,Approved,35
+216,101860,636,45,4,Different Product Received,Refunded,556
+217,101860,636,37,6,Color Mismatch,Refunded,2958
+218,101863,1236,20,1,Product Condition Not Good,Pending,101
+219,101863,1236,31,1,Different Product Received,Rejected,84
+220,101884,1626,42,2,Color Mismatch,Approved,432
+221,101884,1626,21,5,Different Product Received,Pending,1160
+222,101891,432,70,3,Product Condition Not Good,Approved,3744
+223,101895,301,41,1,Product Condition Not Good,Pending,4
+224,101895,301,52,1,Changed with Another Product,Refunded,229
+225,101895,301,88,3,Changed with Another Product,Refunded,1332
+226,101895,301,1,6,Color Mismatch,Refunded,1386
+227,101917,949,42,2,Product Condition Not Good,Refunded,432
+228,101986,992,38,3,Color Mismatch,Refunded,3579
+229,101986,992,76,10,Color Mismatch,Approved,1400
+230,102002,251,2,1,Product Condition Not Good,Pending,792
+231,102050,384,14,8,Changed with Another Product,Refunded,1240
+232,102053,722,6,1,Changed with Another Product,Pending,631
+233,102080,409,60,1,Different Product Received,Pending,247
+234,102080,409,5,8,Different Product Received,Approved,10632
+235,102080,409,18,1,Color Mismatch,Rejected,1368
+236,102080,409,26,5,Changed with Another Product,Refunded,6005
+237,102080,409,6,1,Product Condition Not Good,Rejected,631
+238,102089,1218,51,6,Product Condition Not Good,Rejected,4332
+239,102089,1218,43,2,Color Mismatch,Refunded,2424
+240,102092,458,82,6,Changed with Another Product,Refunded,54
+241,102092,458,22,1,Color Mismatch,Rejected,3
+242,102108,1344,41,1,Color Mismatch,Rejected,4
+243,102108,1344,51,1,Color Mismatch,Approved,722
+244,102112,1957,2,1,Color Mismatch,Refunded,792
+245,102129,1787,48,1,Product Condition Not Good,Refunded,421
+246,102129,1787,92,2,Color Mismatch,Refunded,952
+247,102145,157,32,2,Different Product Received,Approved,178
+248,102176,650,14,1,Product Condition Not Good,Refunded,155
+249,102176,650,82,2,Product Condition Not Good,Refunded,18
+250,102176,650,3,1,Changed with Another Product,Pending,1389
+251,102209,1668,98,8,Changed with Another Product,Rejected,24
+252,102220,670,27,4,Color Mismatch,Refunded,836
+253,102222,888,24,1,Color Mismatch,Approved,867
+254,102222,888,59,1,Product Condition Not Good,Refunded,95
+255,102228,857,20,1,Different Product Received,Approved,101
+256,102228,857,67,4,Changed with Another Product,Refunded,1952
+257,102250,1676,76,2,Changed with Another Product,Pending,280
+258,102250,1676,37,5,Color Mismatch,Rejected,2465
+259,102260,295,65,6,Color Mismatch,Rejected,3912
+260,102260,295,73,4,Different Product Received,Rejected,4252
+261,102260,295,23,6,Color Mismatch,Approved,6360
+262,102260,295,64,3,Color Mismatch,Approved,546
+263,102265,429,37,3,Different Product Received,Pending,1479
+264,102265,429,33,8,Changed with Another Product,Rejected,1176
+265,102265,429,69,1,Changed with Another Product,Refunded,712
+266,102279,321,60,9,Color Mismatch,Rejected,2223
+267,102279,321,95,3,Changed with Another Product,Rejected,18
+268,102300,90,83,1,Different Product Received,Pending,1206
+269,102300,90,54,1,Changed with Another Product,Pending,613
+270,102327,1437,30,3,Changed with Another Product,Rejected,3780
+271,102333,83,34,3,Product Condition Not Good,Rejected,264
+272,102333,83,43,6,Product Condition Not Good,Pending,7272
+273,102333,83,68,2,Changed with Another Product,Pending,1906
+274,102333,83,39,1,Color Mismatch,Approved,1180
+275,102373,1170,7,1,Product Condition Not Good,Pending,201
+276,102387,598,75,7,Product Condition Not Good,Pending,7553
+277,102387,598,12,2,Product Condition Not Good,Approved,1460
+278,102387,598,69,1,Changed with Another Product,Pending,712
+279,102399,841,2,3,Color Mismatch,Rejected,2376
+280,102399,841,94,3,Color Mismatch,Rejected,264
+281,102399,841,70,5,Changed with Another Product,Pending,6240
+282,102399,841,50,5,Changed with Another Product,Pending,3240
+283,102399,841,6,4,Changed with Another Product,Approved,2524
+284,102402,187,13,4,Color Mismatch,Rejected,84
+285,102418,564,80,1,Color Mismatch,Rejected,78
+286,102440,205,22,1,Different Product Received,Pending,3
+287,102460,1571,96,2,Color Mismatch,Rejected,40
+288,102460,1571,15,4,Color Mismatch,Pending,2924
+289,102464,498,57,1,Product Condition Not Good,Pending,712
+290,102473,1854,4,3,Color Mismatch,Pending,2619
+291,102473,1854,45,7,Changed with Another Product,Pending,973
+292,102473,1854,1,1,Changed with Another Product,Refunded,231
+293,102477,1704,27,5,Different Product Received,Refunded,1045
+294,102480,1158,100,2,Changed with Another Product,Pending,716
+295,102482,1572,23,3,Product Condition Not Good,Rejected,3180
+296,102482,1572,75,2,Product Condition Not Good,Rejected,2158
+297,102529,699,2,1,Color Mismatch,Approved,792
+298,102529,699,83,4,Product Condition Not Good,Refunded,4824
+299,102529,699,80,1,Product Condition Not Good,Pending,78
+300,102531,1316,97,6,Changed with Another Product,Pending,210
+301,102531,1316,5,2,Different Product Received,Refunded,2658
+302,102531,1316,54,4,Color Mismatch,Rejected,2452
+303,102546,1973,74,3,Product Condition Not Good,Rejected,27
+304,102556,1726,24,2,Product Condition Not Good,Approved,1734
+305,102569,939,55,4,Different Product Received,Refunded,5296
+306,102569,939,1,2,Product Condition Not Good,Refunded,462
+307,102569,939,76,1,Changed with Another Product,Rejected,140
+308,102571,721,31,7,Product Condition Not Good,Refunded,588
+309,102578,1225,98,1,Changed with Another Product,Rejected,3
+310,102578,1225,89,5,Product Condition Not Good,Pending,620
+311,102591,643,3,4,Color Mismatch,Refunded,5556
+312,102593,1714,21,1,Color Mismatch,Refunded,232
+313,102593,1714,86,5,Changed with Another Product,Pending,125
+314,102593,1714,96,1,Product Condition Not Good,Refunded,20
+315,102598,441,20,1,Color Mismatch,Pending,101
+316,102598,441,43,2,Changed with Another Product,Refunded,2424
+317,102598,441,74,2,Product Condition Not Good,Refunded,18
+318,102605,972,69,2,Color Mismatch,Refunded,1424
+319,102605,972,96,1,Product Condition Not Good,Approved,20
+320,102605,972,17,2,Color Mismatch,Pending,1026
+321,102611,670,36,2,Changed with Another Product,Pending,440
+322,102611,670,70,5,Changed with Another Product,Refunded,6240
+323,102611,670,16,1,Product Condition Not Good,Pending,14
+324,102621,734,53,2,Color Mismatch,Refunded,890
+325,102621,734,24,3,Different Product Received,Refunded,2601
+326,102629,1095,69,5,Color Mismatch,Refunded,3560
+327,102629,1095,18,1,Different Product Received,Pending,1368
+328,102631,1074,72,1,Different Product Received,Approved,107
+329,102674,805,80,1,Color Mismatch,Rejected,78
+330,102698,653,20,3,Product Condition Not Good,Rejected,303
+331,102698,653,18,5,Changed with Another Product,Rejected,6840
+332,102698,653,59,2,Different Product Received,Rejected,190
+333,102698,653,31,6,Different Product Received,Refunded,504
+334,102802,1782,82,3,Changed with Another Product,Refunded,27
+335,102828,147,29,1,Different Product Received,Approved,206
+336,102834,1005,38,3,Changed with Another Product,Approved,3579
+337,102834,1005,11,1,Color Mismatch,Rejected,573
+338,102834,1005,29,5,Different Product Received,Approved,1030
+339,102834,1005,46,3,Product Condition Not Good,Rejected,3231
+340,102834,1005,24,2,Color Mismatch,Refunded,1734
+341,102838,1592,49,1,Changed with Another Product,Pending,61
+342,102838,1592,27,1,Color Mismatch,Refunded,209
+343,102848,271,37,7,Changed with Another Product,Approved,3451
+344,102848,271,43,1,Product Condition Not Good,Pending,1212
+345,102859,1763,45,4,Different Product Received,Rejected,556
+346,102859,1763,56,1,Changed with Another Product,Refunded,89
+347,102859,1763,77,2,Color Mismatch,Rejected,1788
+348,102882,504,72,4,Product Condition Not Good,Refunded,428
+349,102887,876,61,6,Changed with Another Product,Refunded,7278
+350,102906,447,57,3,Color Mismatch,Pending,2136
+351,102906,447,8,1,Different Product Received,Pending,199
+352,102906,447,11,5,Different Product Received,Refunded,2865
+353,102906,447,19,3,Different Product Received,Approved,4281
+354,102930,1637,82,1,Product Condition Not Good,Rejected,9
+355,102945,208,83,2,Product Condition Not Good,Pending,2412
+356,102970,881,56,2,Product Condition Not Good,Rejected,178
+357,102999,6,35,1,Different Product Received,Pending,406
+358,103006,1826,23,1,Color Mismatch,Refunded,1060
+359,103006,1826,31,3,Changed with Another Product,Approved,252
+360,103012,1149,59,2,Changed with Another Product,Refunded,190
+361,103012,1149,77,2,Different Product Received,Approved,1788
+362,103036,1513,25,2,Color Mismatch,Rejected,86
+363,103036,1513,88,5,Color Mismatch,Pending,2220
+364,103044,141,99,1,Changed with Another Product,Refunded,1332
+365,103063,299,85,7,Different Product Received,Refunded,3185
+366,103078,699,34,1,Color Mismatch,Approved,88
+367,103089,1253,28,1,Different Product Received,Refunded,1171
+368,103127,1039,40,6,Different Product Received,Refunded,1452
+369,103127,1039,8,4,Product Condition Not Good,Rejected,796
+370,103165,1073,82,2,Different Product Received,Approved,18
+371,103189,1483,33,4,Product Condition Not Good,Approved,588
+372,103191,1190,38,3,Different Product Received,Rejected,3579
+373,103191,1190,16,6,Different Product Received,Pending,84
+374,103192,1464,67,3,Product Condition Not Good,Pending,1464
+375,103195,1097,5,2,Different Product Received,Rejected,2658
+376,103195,1097,63,9,Product Condition Not Good,Rejected,63
+377,103195,1097,90,1,Product Condition Not Good,Refunded,4
+378,103195,1097,56,5,Different Product Received,Approved,445
+379,103195,1097,70,6,Product Condition Not Good,Refunded,7488
+380,103200,969,35,2,Changed with Another Product,Refunded,812
+381,103219,601,89,3,Product Condition Not Good,Approved,372
+382,103249,1395,24,2,Product Condition Not Good,Pending,1734
+383,103249,1395,98,1,Different Product Received,Refunded,3
+384,103249,1395,76,3,Changed with Another Product,Refunded,420
+385,103266,1913,93,7,Product Condition Not Good,Refunded,8498
+386,103269,1177,60,5,Changed with Another Product,Rejected,1235
+387,103269,1177,41,2,Color Mismatch,Refunded,8
+388,103270,656,30,6,Different Product Received,Rejected,7560
+389,103271,1090,70,9,Color Mismatch,Approved,11232
+390,103290,992,77,1,Different Product Received,Rejected,894
+391,103290,992,29,1,Changed with Another Product,Pending,206
+392,103290,992,53,2,Changed with Another Product,Refunded,890
+393,103290,992,5,10,Color Mismatch,Rejected,13290
+394,103297,1428,91,2,Different Product Received,Pending,6
+395,103297,1428,74,5,Color Mismatch,Pending,45
+396,103302,1916,30,1,Different Product Received,Pending,1260
+397,103302,1916,32,2,Color Mismatch,Rejected,178
+398,103302,1916,36,1,Color Mismatch,Refunded,220
+399,103302,1916,44,5,Different Product Received,Approved,840
+400,103306,1632,4,6,Color Mismatch,Refunded,5238
+401,103307,1962,46,5,Color Mismatch,Rejected,5385
+402,103329,109,32,5,Color Mismatch,Pending,445
+403,103355,50,19,3,Color Mismatch,Refunded,4281
+404,103355,50,53,3,Product Condition Not Good,Rejected,1335
+405,103355,50,63,4,Changed with Another Product,Pending,28
+406,103355,50,93,1,Color Mismatch,Approved,1214
+407,103355,50,39,2,Changed with Another Product,Pending,2360
+408,103369,47,29,2,Product Condition Not Good,Rejected,412
+409,103370,1761,8,4,Product Condition Not Good,Rejected,796
+410,103391,1633,1,2,Product Condition Not Good,Pending,462
+411,103391,1633,11,1,Different Product Received,Approved,573
+412,103391,1633,86,6,Different Product Received,Refunded,150
+413,103405,1646,46,3,Color Mismatch,Pending,3231
+414,103445,220,94,3,Different Product Received,Pending,264
+415,103445,220,37,2,Product Condition Not Good,Pending,986
+416,103445,220,75,5,Product Condition Not Good,Pending,5395
+417,103447,771,51,5,Color Mismatch,Approved,3610
+418,103447,771,4,2,Different Product Received,Approved,1746
+419,103447,771,94,3,Product Condition Not Good,Pending,264
+420,103447,771,14,4,Color Mismatch,Approved,620
+421,103454,912,98,2,Color Mismatch,Pending,6
+422,103480,1990,57,1,Different Product Received,Approved,712
+423,103490,1896,61,1,Product Condition Not Good,Refunded,1213
+424,103496,1633,7,4,Product Condition Not Good,Rejected,804
+425,103496,1633,45,4,Changed with Another Product,Approved,556
+426,103496,1633,20,1,Product Condition Not Good,Rejected,101
+427,103522,708,78,1,Product Condition Not Good,Refunded,1118
+428,103522,708,62,5,Different Product Received,Approved,1855
+429,103532,1660,76,3,Color Mismatch,Refunded,420
+430,103532,1660,78,4,Different Product Received,Refunded,4472
+431,103532,1660,92,7,Different Product Received,Approved,3332
+432,103532,1660,68,8,Color Mismatch,Refunded,7624
+433,103534,921,21,4,Color Mismatch,Approved,928
+434,103549,8,11,2,Color Mismatch,Rejected,1146
+435,103562,48,95,2,Changed with Another Product,Rejected,12
+436,103563,272,38,2,Different Product Received,Rejected,2386
+437,103563,272,30,10,Color Mismatch,Refunded,12600
+438,103563,272,83,2,Product Condition Not Good,Refunded,2412
+439,103563,272,3,4,Color Mismatch,Approved,5556
+440,103565,755,18,4,Color Mismatch,Rejected,5472
+441,103570,363,6,5,Color Mismatch,Approved,3155
+442,103572,1806,39,9,Product Condition Not Good,Pending,10620
+443,103572,1806,47,2,Color Mismatch,Approved,142
+444,103578,564,45,2,Different Product Received,Refunded,278
+445,103578,564,92,4,Product Condition Not Good,Rejected,1904
+446,103578,564,8,1,Product Condition Not Good,Pending,199
+447,103586,177,1,9,Color Mismatch,Pending,2079
+448,103586,177,94,2,Color Mismatch,Refunded,176
+449,103595,1661,66,2,Changed with Another Product,Approved,532
+450,103596,529,33,4,Color Mismatch,Approved,588
+451,103596,529,48,2,Product Condition Not Good,Approved,842
+452,103596,529,11,4,Color Mismatch,Approved,2292
+453,103606,738,75,3,Different Product Received,Refunded,3237
+454,103613,1299,36,1,Color Mismatch,Refunded,220
+455,103656,723,74,5,Changed with Another Product,Refunded,45
+456,103702,1089,46,1,Color Mismatch,Pending,1077
+457,103702,1089,80,3,Changed with Another Product,Pending,234
+458,103716,491,36,1,Product Condition Not Good,Pending,220
+459,103738,407,37,2,Product Condition Not Good,Rejected,986
+460,103738,407,6,3,Different Product Received,Approved,1893
+461,103758,118,1,9,Changed with Another Product,Refunded,2079
+462,103758,118,93,1,Product Condition Not Good,Pending,1214
+463,103758,118,78,1,Different Product Received,Approved,1118
+464,103790,951,2,1,Changed with Another Product,Approved,792
+465,103799,955,49,3,Product Condition Not Good,Pending,183
+466,103799,955,85,1,Different Product Received,Pending,455
+467,103799,955,77,1,Different Product Received,Rejected,894
+468,103799,955,80,2,Changed with Another Product,Refunded,156
+469,103799,955,52,2,Color Mismatch,Refunded,458
+470,103830,1344,23,2,Different Product Received,Refunded,2120
+471,103838,1249,12,3,Different Product Received,Pending,2190
+472,103838,1249,40,2,Changed with Another Product,Approved,484
+473,103838,1249,58,6,Different Product Received,Rejected,1482
+474,103838,1249,85,9,Color Mismatch,Rejected,4095
+475,103841,276,50,2,Changed with Another Product,Rejected,1296
+476,103841,276,72,1,Product Condition Not Good,Approved,107
+477,103841,276,63,2,Different Product Received,Approved,14
+478,103858,808,80,2,Color Mismatch,Approved,156
+479,103858,808,13,1,Color Mismatch,Rejected,21
+480,103858,808,38,6,Product Condition Not Good,Refunded,7158
+481,103889,1054,3,3,Changed with Another Product,Pending,4167
+482,103889,1054,78,8,Changed with Another Product,Pending,8944
+483,103889,1054,4,1,Color Mismatch,Approved,873
+484,103889,1054,95,1,Product Condition Not Good,Pending,6
+485,103898,1537,23,3,Changed with Another Product,Refunded,3180
+486,103906,519,38,3,Different Product Received,Approved,3579
+487,103906,519,86,1,Product Condition Not Good,Rejected,25
+488,103924,215,80,2,Color Mismatch,Approved,156
+489,103940,1187,13,4,Product Condition Not Good,Rejected,84
+490,103942,1566,51,1,Changed with Another Product,Pending,722
+491,103942,1566,11,5,Product Condition Not Good,Pending,2865
+492,103942,1566,62,6,Color Mismatch,Refunded,2226
+493,103944,1146,40,1,Color Mismatch,Rejected,242
+494,103950,670,63,3,Color Mismatch,Pending,21
+495,103950,670,97,3,Color Mismatch,Rejected,105
+496,103950,670,23,3,Different Product Received,Pending,3180
+497,103950,670,93,7,Color Mismatch,Refunded,8498
+498,103967,992,4,3,Product Condition Not Good,Refunded,2619
+499,103980,1891,63,1,Product Condition Not Good,Pending,7
+500,103980,1891,55,6,Changed with Another Product,Pending,7944
+501,103993,1001,16,5,Changed with Another Product,Refunded,70
+502,103993,1001,23,5,Changed with Another Product,Pending,5300
+503,103993,1001,98,5,Different Product Received,Approved,15
+504,103993,1001,9,2,Changed with Another Product,Approved,404
+505,103999,129,57,3,Color Mismatch,Rejected,2136
+506,103999,129,60,2,Changed with Another Product,Refunded,494
+507,103999,129,13,9,Product Condition Not Good,Refunded,189
+508,103999,129,77,1,Changed with Another Product,Approved,894
+509,103999,129,80,4,Product Condition Not Good,Refunded,312
+510,104002,1049,32,2,Different Product Received,Approved,178
+511,104018,613,37,6,Product Condition Not Good,Approved,2958
+512,104018,613,7,6,Changed with Another Product,Rejected,1206
+513,104018,613,56,1,Color Mismatch,Refunded,89
+514,104038,1911,9,5,Different Product Received,Rejected,1010
+515,104038,1911,57,1,Different Product Received,Approved,712
+516,104038,1911,22,5,Changed with Another Product,Approved,15
+517,104038,1911,97,2,Different Product Received,Rejected,70
+518,104040,1476,72,8,Color Mismatch,Pending,856
+519,104041,724,86,7,Product Condition Not Good,Pending,175
+520,104053,1097,38,2,Product Condition Not Good,Rejected,2386
+521,104082,376,42,5,Different Product Received,Refunded,1080
+522,104082,376,24,2,Product Condition Not Good,Refunded,1734
+523,104093,499,56,1,Color Mismatch,Pending,89
+524,104093,499,9,5,Product Condition Not Good,Refunded,1010
+525,104093,499,33,1,Product Condition Not Good,Approved,147
+526,104093,499,86,2,Color Mismatch,Refunded,50
+527,104093,499,60,2,Product Condition Not Good,Approved,494
+528,104106,1810,63,1,Product Condition Not Good,Approved,7
+529,104107,1382,98,4,Changed with Another Product,Approved,12
+530,104139,1238,37,2,Different Product Received,Pending,986
+531,104159,175,6,9,Color Mismatch,Pending,5679
+532,104159,175,24,4,Different Product Received,Refunded,3468
+533,104183,1416,84,8,Product Condition Not Good,Refunded,10520
+534,104204,340,78,9,Color Mismatch,Pending,10062
+535,104204,340,10,3,Color Mismatch,Approved,3006
+536,104215,1975,83,1,Different Product Received,Refunded,1206
+537,104215,1975,63,5,Color Mismatch,Pending,35
+538,104229,1368,15,1,Product Condition Not Good,Approved,731
+539,104229,1368,23,1,Product Condition Not Good,Rejected,1060
+540,104230,186,38,6,Color Mismatch,Rejected,7158
+541,104230,186,48,3,Different Product Received,Pending,1263
+542,104230,186,19,2,Different Product Received,Rejected,2854
+543,104230,186,5,1,Changed with Another Product,Pending,1329
+544,104230,186,71,8,Product Condition Not Good,Rejected,56
+545,104243,1314,48,1,Product Condition Not Good,Refunded,421
+546,104243,1314,31,8,Changed with Another Product,Refunded,672
+547,104243,1314,52,5,Color Mismatch,Refunded,1145
+548,104255,107,58,3,Product Condition Not Good,Rejected,741
+549,104255,107,64,1,Different Product Received,Refunded,182
+550,104255,107,25,4,Different Product Received,Refunded,172
+551,104255,107,19,5,Product Condition Not Good,Pending,7135
+552,104255,107,67,2,Color Mismatch,Rejected,976
+553,104330,620,74,3,Different Product Received,Pending,27
+554,104330,620,85,5,Different Product Received,Refunded,2275
+555,104336,1087,22,1,Product Condition Not Good,Pending,3
+556,104349,1696,75,2,Changed with Another Product,Rejected,2158
+557,104374,449,1,3,Product Condition Not Good,Rejected,693
+558,104377,1725,36,4,Product Condition Not Good,Refunded,880
+559,104377,1725,10,1,Color Mismatch,Refunded,1002
+560,104378,1410,10,1,Different Product Received,Refunded,1002
+561,104378,1410,19,2,Color Mismatch,Rejected,2854
+562,104426,112,94,1,Color Mismatch,Rejected,88
+563,104426,112,60,3,Color Mismatch,Approved,741
+564,104436,274,40,1,Color Mismatch,Refunded,242
+565,104436,274,54,5,Color Mismatch,Pending,3065
+566,104463,1015,67,3,Color Mismatch,Rejected,1464
+567,104482,683,24,4,Product Condition Not Good,Pending,3468
+568,104482,683,10,2,Changed with Another Product,Rejected,2004
+569,104482,683,28,8,Color Mismatch,Approved,9368
+570,104487,348,98,7,Product Condition Not Good,Refunded,21
+571,104505,566,9,4,Changed with Another Product,Approved,808
+572,104505,566,84,6,Product Condition Not Good,Refunded,7890
+573,104528,1795,46,3,Color Mismatch,Refunded,3231
+574,104528,1795,19,3,Product Condition Not Good,Refunded,4281
+575,104567,1135,99,5,Changed with Another Product,Pending,6660
+576,104573,445,53,8,Product Condition Not Good,Approved,3560
+577,104573,445,55,1,Different Product Received,Approved,1324
+578,104593,1634,45,7,Different Product Received,Refunded,973
+579,104600,1649,77,4,Changed with Another Product,Refunded,3576
+580,104620,665,68,3,Color Mismatch,Refunded,2859
+581,104620,665,95,6,Product Condition Not Good,Rejected,36
+582,104630,792,84,6,Product Condition Not Good,Pending,7890
+583,104642,136,15,2,Changed with Another Product,Pending,1462
+584,104642,136,30,5,Product Condition Not Good,Approved,6300
+585,104675,1195,69,4,Color Mismatch,Rejected,2848
+586,104687,563,23,7,Different Product Received,Approved,7420
+587,104687,563,97,5,Product Condition Not Good,Approved,175
+588,104687,563,16,2,Different Product Received,Pending,28
+589,104695,561,88,3,Product Condition Not Good,Rejected,1332
+590,104695,561,95,3,Color Mismatch,Rejected,18
+591,104695,561,89,7,Color Mismatch,Pending,868
+592,104707,1356,29,2,Changed with Another Product,Pending,412
+593,104727,1143,4,1,Product Condition Not Good,Approved,873
+594,104752,1688,48,2,Different Product Received,Pending,842
+595,104752,1688,50,3,Different Product Received,Rejected,1944
+596,104757,176,83,1,Color Mismatch,Pending,1206
+597,104759,1096,47,8,Different Product Received,Refunded,568
+598,104759,1096,89,1,Product Condition Not Good,Rejected,124
+599,104777,525,32,9,Product Condition Not Good,Pending,801
+600,104780,499,49,5,Color Mismatch,Pending,305
+601,104780,499,24,8,Changed with Another Product,Rejected,6936
+602,104787,1274,58,6,Different Product Received,Refunded,1482
+603,104791,615,73,2,Product Condition Not Good,Approved,2126
+604,104791,615,22,9,Product Condition Not Good,Refunded,27
+605,104791,615,53,2,Product Condition Not Good,Approved,890
+606,104811,813,64,4,Color Mismatch,Rejected,728
+607,104823,976,57,1,Different Product Received,Approved,712
+608,104823,976,97,6,Color Mismatch,Refunded,210
+609,104840,1371,60,5,Changed with Another Product,Refunded,1235
+610,104847,511,6,1,Changed with Another Product,Refunded,631
+611,104852,5,2,2,Product Condition Not Good,Rejected,1584
+612,104854,800,99,3,Product Condition Not Good,Rejected,3996
+613,104856,925,34,1,Changed with Another Product,Refunded,88
+614,104909,372,61,1,Changed with Another Product,Approved,1213
+615,104910,793,68,1,Changed with Another Product,Approved,953
+616,104919,379,80,5,Product Condition Not Good,Approved,390
+617,104936,1328,84,9,Changed with Another Product,Rejected,11835
+618,104936,1328,13,2,Color Mismatch,Approved,42
+619,104936,1328,40,1,Changed with Another Product,Rejected,242
+620,104936,1328,25,5,Color Mismatch,Refunded,215
+621,104936,1328,94,9,Different Product Received,Refunded,792
+622,104937,1357,82,1,Different Product Received,Pending,9
+623,104981,1739,22,3,Product Condition Not Good,Refunded,9
+624,104981,1739,20,1,Different Product Received,Refunded,101
+625,104981,1739,41,1,Changed with Another Product,Approved,4
+626,105005,848,6,9,Color Mismatch,Rejected,5679
+627,105005,848,31,5,Changed with Another Product,Pending,420
+628,105005,848,99,2,Changed with Another Product,Rejected,2664
+629,105005,848,90,3,Product Condition Not Good,Refunded,12
+630,105005,848,39,1,Color Mismatch,Rejected,1180
+631,105020,936,32,4,Color Mismatch,Pending,356
+632,105020,936,5,2,Color Mismatch,Rejected,2658
+633,105031,1249,2,1,Product Condition Not Good,Approved,792
+634,105052,1412,30,4,Product Condition Not Good,Rejected,5040
+635,105061,1079,20,7,Different Product Received,Refunded,707
+636,105061,1079,100,3,Different Product Received,Pending,1074
+637,105067,1832,25,1,Changed with Another Product,Refunded,43
+638,105067,1832,58,2,Changed with Another Product,Refunded,494
+639,105081,384,44,1,Color Mismatch,Pending,168
+640,105142,507,55,1,Changed with Another Product,Pending,1324
+641,105142,507,6,1,Changed with Another Product,Approved,631
+642,105142,507,80,7,Different Product Received,Approved,546
+643,105157,505,16,5,Color Mismatch,Rejected,70
+644,105180,836,57,2,Changed with Another Product,Refunded,1424
+645,105180,836,44,6,Product Condition Not Good,Refunded,1008
+646,105188,842,56,4,Different Product Received,Rejected,356
+647,105209,608,56,2,Different Product Received,Approved,178
+648,105209,608,95,7,Changed with Another Product,Refunded,42
+649,105209,608,83,4,Changed with Another Product,Rejected,4824
+650,105209,608,36,4,Color Mismatch,Rejected,880
+651,105213,56,93,2,Different Product Received,Pending,2428
+652,105223,1063,13,8,Changed with Another Product,Refunded,168
+653,105235,1747,83,3,Color Mismatch,Refunded,3618
+654,105235,1747,14,2,Color Mismatch,Pending,310
+655,105235,1747,34,1,Product Condition Not Good,Approved,88
+656,105277,786,26,6,Different Product Received,Rejected,7206
+657,105277,786,98,8,Different Product Received,Approved,24
+658,105314,1760,26,3,Color Mismatch,Pending,3603
+659,105318,662,71,2,Color Mismatch,Pending,14
+660,105324,1531,24,5,Color Mismatch,Rejected,4335
+661,105324,1531,36,1,Different Product Received,Pending,220
+662,105324,1531,53,1,Product Condition Not Good,Pending,445
+663,105324,1531,76,6,Changed with Another Product,Refunded,840
+664,105356,273,37,10,Product Condition Not Good,Approved,4930
+665,105394,1211,80,5,Color Mismatch,Rejected,390
+666,105414,924,90,2,Product Condition Not Good,Approved,8
+667,105414,924,6,2,Color Mismatch,Pending,1262
+668,105415,1784,68,2,Color Mismatch,Approved,1906
+669,105416,532,16,6,Changed with Another Product,Refunded,84
+670,105420,1350,66,4,Product Condition Not Good,Pending,1064
+671,105459,1628,93,1,Changed with Another Product,Refunded,1214
+672,105461,1804,81,5,Changed with Another Product,Refunded,465
+673,105461,1804,54,1,Different Product Received,Pending,613
+674,105463,1297,58,1,Different Product Received,Pending,247
+675,105463,1297,53,1,Product Condition Not Good,Refunded,445
+676,105472,914,80,10,Different Product Received,Refunded,780
+677,105472,914,84,1,Product Condition Not Good,Rejected,1315
+678,105472,914,81,3,Color Mismatch,Refunded,279
+679,105472,914,95,7,Color Mismatch,Rejected,42
+680,105486,950,4,2,Changed with Another Product,Refunded,1746
+681,105490,1931,41,1,Different Product Received,Refunded,4
+682,105495,37,33,1,Product Condition Not Good,Approved,147
+683,105495,37,19,2,Different Product Received,Refunded,2854
+684,105495,37,76,7,Color Mismatch,Refunded,980
+685,105496,742,66,5,Different Product Received,Approved,1330
+686,105496,742,21,1,Changed with Another Product,Rejected,232
+687,105556,1132,98,1,Color Mismatch,Approved,3
+688,105556,1132,65,6,Changed with Another Product,Pending,3912
+689,105559,1968,22,4,Different Product Received,Refunded,12
+690,105559,1968,27,3,Product Condition Not Good,Refunded,627
+691,105559,1968,19,2,Color Mismatch,Approved,2854
+692,105570,1185,66,4,Color Mismatch,Approved,1064
+693,105584,576,11,1,Product Condition Not Good,Rejected,573
+694,105584,576,14,1,Color Mismatch,Refunded,155
+695,105584,576,79,2,Product Condition Not Good,Rejected,308
+696,105584,576,65,3,Changed with Another Product,Pending,1956
+697,105586,793,50,1,Color Mismatch,Approved,648
+698,105586,793,63,1,Product Condition Not Good,Refunded,7
+699,105592,1400,55,3,Product Condition Not Good,Rejected,3972
+700,105635,1395,60,2,Changed with Another Product,Approved,494
+701,105635,1395,74,3,Product Condition Not Good,Refunded,27
+702,105635,1395,91,5,Color Mismatch,Rejected,15
+703,105650,331,82,5,Color Mismatch,Rejected,45
+704,105650,331,47,5,Color Mismatch,Rejected,355
+705,105683,1240,81,1,Product Condition Not Good,Pending,93
+706,105689,1536,1,1,Product Condition Not Good,Pending,231
+707,105697,636,87,5,Changed with Another Product,Refunded,2145
+708,105704,1431,69,2,Different Product Received,Rejected,1424
+709,105704,1431,47,2,Color Mismatch,Pending,142
+710,105714,1721,61,1,Product Condition Not Good,Rejected,1213
+711,105714,1721,46,1,Different Product Received,Approved,1077
+712,105727,1907,87,7,Changed with Another Product,Pending,3003
+713,105727,1907,17,8,Color Mismatch,Approved,4104
+714,105739,871,8,2,Product Condition Not Good,Pending,398
+715,105748,315,22,1,Different Product Received,Rejected,3
+716,105748,315,84,2,Product Condition Not Good,Approved,2630
+717,105750,49,19,1,Different Product Received,Pending,1427
+718,105768,446,21,1,Product Condition Not Good,Refunded,232
+719,105768,446,57,4,Product Condition Not Good,Pending,2848
+720,105781,1959,30,3,Color Mismatch,Approved,3780
+721,105781,1959,8,5,Different Product Received,Rejected,995
+722,105781,1959,98,6,Color Mismatch,Pending,18
+723,105782,1148,77,2,Different Product Received,Pending,1788
+724,105782,1148,87,1,Color Mismatch,Rejected,429
+725,105782,1148,100,1,Product Condition Not Good,Refunded,358
+726,105782,1148,67,2,Changed with Another Product,Rejected,976
+727,105808,985,5,7,Product Condition Not Good,Rejected,9303
+728,105810,1908,39,1,Product Condition Not Good,Refunded,1180
+729,105810,1908,16,4,Changed with Another Product,Approved,56
+730,105810,1908,77,2,Product Condition Not Good,Rejected,1788
+731,105810,1908,54,6,Different Product Received,Refunded,3678
+732,105830,1537,38,6,Color Mismatch,Pending,7158
+733,105830,1537,76,2,Changed with Another Product,Rejected,280
+734,105838,1676,77,2,Product Condition Not Good,Pending,1788
+735,105845,538,29,7,Color Mismatch,Pending,1442
+736,105859,1401,26,1,Changed with Another Product,Approved,1201
+737,105859,1401,6,9,Different Product Received,Rejected,5679
+738,105859,1401,59,2,Different Product Received,Refunded,190
+739,105869,299,68,1,Changed with Another Product,Approved,953
+740,105893,1052,80,2,Different Product Received,Approved,156
+741,105922,1555,38,1,Color Mismatch,Pending,1193
+742,105922,1555,26,5,Color Mismatch,Approved,6005
+743,105936,800,94,4,Different Product Received,Pending,352
+744,105941,1584,28,4,Changed with Another Product,Refunded,4684
+745,105941,1584,89,3,Changed with Another Product,Pending,372
+746,105941,1584,63,5,Color Mismatch,Approved,35
+747,105945,1401,24,1,Changed with Another Product,Rejected,867
+748,105945,1401,34,7,Product Condition Not Good,Approved,616
+749,105951,1305,74,1,Changed with Another Product,Refunded,9
+750,105951,1305,78,1,Color Mismatch,Pending,1118
+751,105951,1305,82,7,Color Mismatch,Pending,63
+752,105954,977,61,4,Changed with Another Product,Pending,4852
+753,105954,977,89,4,Color Mismatch,Refunded,496
+754,105954,977,98,2,Product Condition Not Good,Refunded,6
+755,105954,977,56,3,Different Product Received,Pending,267
+756,105954,977,73,5,Different Product Received,Rejected,5315
+757,105957,1803,52,7,Color Mismatch,Rejected,1603
+758,105966,287,9,1,Color Mismatch,Approved,202
+759,105966,287,19,1,Changed with Another Product,Approved,1427
+760,105966,287,77,4,Product Condition Not Good,Pending,3576
+761,105988,1584,59,4,Different Product Received,Pending,380
+762,105988,1584,89,2,Different Product Received,Approved,248
+763,105988,1584,43,4,Different Product Received,Approved,4848
+764,105988,1584,96,3,Different Product Received,Refunded,60
+765,105988,1584,70,2,Different Product Received,Pending,2496
+766,105996,51,63,1,Different Product Received,Refunded,7
+767,105998,949,10,7,Different Product Received,Refunded,7014
+768,105998,949,49,2,Changed with Another Product,Refunded,122
+769,105998,949,79,5,Different Product Received,Approved,770
+770,106023,1140,47,1,Product Condition Not Good,Rejected,71
+771,106039,310,46,2,Different Product Received,Pending,2154
+772,106039,310,72,3,Color Mismatch,Refunded,321
+773,106070,678,69,2,Different Product Received,Approved,1424
+774,106106,1100,84,2,Changed with Another Product,Refunded,2630
+775,106106,1100,18,3,Changed with Another Product,Refunded,4104
+776,106106,1100,28,3,Changed with Another Product,Approved,3513
+777,106106,1100,4,4,Changed with Another Product,Pending,3492
+778,106111,125,70,1,Different Product Received,Rejected,1248
+779,106111,125,59,9,Product Condition Not Good,Pending,855
+780,106111,125,32,1,Color Mismatch,Refunded,89
+781,106125,864,5,1,Changed with Another Product,Pending,1329
+782,106125,864,10,8,Color Mismatch,Pending,8016
+783,106125,864,32,2,Product Condition Not Good,Approved,178
+784,106137,1168,28,1,Different Product Received,Approved,1171
+785,106161,1573,39,1,Color Mismatch,Rejected,1180
+786,106170,1995,57,1,Product Condition Not Good,Refunded,712
+787,106171,446,22,1,Color Mismatch,Approved,3
+788,106171,446,3,7,Product Condition Not Good,Pending,9723
+789,106171,446,13,1,Changed with Another Product,Pending,21
+790,106213,1024,65,3,Different Product Received,Approved,1956
+791,106213,1024,69,3,Color Mismatch,Approved,2136
+792,106213,1024,73,3,Changed with Another Product,Pending,3189
+793,106240,84,66,4,Different Product Received,Pending,1064
+794,106245,427,61,2,Changed with Another Product,Pending,2426
+795,106245,427,24,2,Changed with Another Product,Approved,1734
+796,106245,427,69,5,Changed with Another Product,Rejected,3560
+797,106252,1553,92,1,Color Mismatch,Pending,476
+798,106252,1553,65,1,Product Condition Not Good,Refunded,652
+799,106264,1704,40,4,Changed with Another Product,Rejected,968
+800,106264,1704,29,3,Product Condition Not Good,Refunded,618
+801,106264,1704,79,1,Color Mismatch,Pending,154
+802,106264,1704,21,3,Color Mismatch,Refunded,696
+803,106264,1704,23,2,Product Condition Not Good,Pending,2120
+804,106290,1113,67,2,Changed with Another Product,Refunded,976
+805,106290,1113,17,4,Color Mismatch,Pending,2052
+806,106300,1427,57,9,Changed with Another Product,Rejected,6408
+807,106300,1427,88,1,Color Mismatch,Rejected,444
+808,106311,610,6,1,Product Condition Not Good,Approved,631
+809,106311,610,21,1,Product Condition Not Good,Rejected,232
+810,106311,610,74,1,Different Product Received,Refunded,9
+811,106311,610,92,2,Different Product Received,Rejected,952
+812,106311,610,77,8,Different Product Received,Refunded,7152
+813,106312,1698,41,1,Changed with Another Product,Refunded,4
+814,106335,1346,13,1,Color Mismatch,Rejected,21
+815,106335,1346,71,3,Color Mismatch,Refunded,21
+816,106335,1346,52,4,Product Condition Not Good,Refunded,916
+817,106362,343,88,6,Product Condition Not Good,Approved,2664
+818,106423,1968,24,5,Different Product Received,Refunded,4335
+819,106423,1968,22,3,Changed with Another Product,Approved,9
+820,106423,1968,2,5,Different Product Received,Pending,3960
+821,106423,1968,44,4,Color Mismatch,Pending,672
+822,106423,1968,28,1,Changed with Another Product,Approved,1171
+823,106430,875,12,2,Different Product Received,Refunded,1460
+824,106430,875,17,3,Different Product Received,Refunded,1539
+825,106430,875,33,10,Color Mismatch,Approved,1470
+826,106430,875,76,1,Color Mismatch,Pending,140
+827,106431,1008,52,7,Product Condition Not Good,Approved,1603
+828,106431,1008,37,6,Color Mismatch,Pending,2958
+829,106431,1008,57,1,Color Mismatch,Rejected,712
+830,106453,142,3,2,Different Product Received,Rejected,2778
+831,106453,142,38,2,Color Mismatch,Rejected,2386
+832,106453,142,27,3,Different Product Received,Refunded,627
+833,106472,1321,16,2,Changed with Another Product,Rejected,28
+834,106479,697,47,5,Changed with Another Product,Refunded,355
+835,106479,697,35,3,Product Condition Not Good,Pending,1218
+836,106479,697,58,5,Different Product Received,Approved,1235
+837,106498,580,79,1,Color Mismatch,Approved,154
+838,106498,580,88,3,Product Condition Not Good,Approved,1332
+839,106521,725,6,6,Changed with Another Product,Pending,3786
+840,106521,725,49,1,Color Mismatch,Pending,61
+841,106523,495,86,2,Changed with Another Product,Refunded,50
+842,106533,362,42,2,Changed with Another Product,Rejected,432
+843,106556,745,58,3,Color Mismatch,Pending,741
+844,106565,1009,87,3,Color Mismatch,Approved,1287
+845,106613,212,88,7,Different Product Received,Rejected,3108
+846,106637,305,100,3,Product Condition Not Good,Pending,1074
+847,106637,305,9,2,Product Condition Not Good,Refunded,404
+848,106640,1608,99,2,Different Product Received,Rejected,2664
+849,106640,1608,10,3,Different Product Received,Pending,3006
+850,106656,818,1,1,Changed with Another Product,Approved,231
+851,106656,818,82,4,Different Product Received,Rejected,36
+852,106656,818,25,1,Color Mismatch,Approved,43
+853,106659,870,87,5,Different Product Received,Rejected,2145
+854,106661,753,26,1,Different Product Received,Refunded,1201
+855,106661,753,70,1,Color Mismatch,Pending,1248
+856,106704,1455,53,3,Product Condition Not Good,Approved,1335
+857,106704,1455,44,5,Color Mismatch,Pending,840
+858,106719,1243,39,6,Different Product Received,Refunded,7080
+859,106736,688,92,6,Different Product Received,Pending,2856
+860,106736,688,29,9,Different Product Received,Pending,1854
+861,106745,1023,70,1,Color Mismatch,Pending,1248
+862,106770,382,42,2,Different Product Received,Rejected,432
+863,106780,431,82,2,Changed with Another Product,Refunded,18
+864,106818,736,53,2,Different Product Received,Approved,890
+865,106818,736,63,2,Different Product Received,Refunded,14
+866,106818,736,70,1,Product Condition Not Good,Refunded,1248
+867,106841,166,61,2,Changed with Another Product,Refunded,2426
+868,106842,958,91,1,Product Condition Not Good,Rejected,3
+869,106853,1222,90,6,Color Mismatch,Rejected,24
+870,106859,354,36,10,Color Mismatch,Pending,2200
+871,106859,354,70,1,Changed with Another Product,Refunded,1248
+872,106859,354,99,9,Changed with Another Product,Approved,11988
+873,106897,167,50,3,Color Mismatch,Approved,1944
+874,106922,330,75,4,Changed with Another Product,Pending,4316
+875,106924,873,16,6,Product Condition Not Good,Rejected,84
+876,106924,873,5,4,Product Condition Not Good,Approved,5316
+877,106924,873,7,8,Changed with Another Product,Refunded,1608
+878,106924,873,20,1,Changed with Another Product,Pending,101
+879,106941,899,74,7,Different Product Received,Refunded,63
+880,106969,1502,82,1,Product Condition Not Good,Refunded,9
+881,106969,1502,29,5,Changed with Another Product,Approved,1030
+882,106983,1498,12,5,Changed with Another Product,Rejected,3650
+883,107019,155,35,3,Changed with Another Product,Pending,1218
+884,107019,155,48,3,Color Mismatch,Pending,1263
+885,107019,155,73,1,Color Mismatch,Refunded,1063
+886,107022,1252,79,1,Product Condition Not Good,Approved,154
+887,107022,1252,23,1,Different Product Received,Rejected,1060
+888,107027,706,59,4,Different Product Received,Approved,380
+889,107027,706,94,2,Different Product Received,Pending,176
+890,107032,1599,55,3,Product Condition Not Good,Pending,3972
+891,107033,236,39,6,Different Product Received,Refunded,7080
+892,107044,1827,74,1,Different Product Received,Approved,9
+893,107044,1827,93,1,Different Product Received,Refunded,1214
+894,107052,1452,7,8,Color Mismatch,Refunded,1608
+895,107054,1609,53,3,Color Mismatch,Refunded,1335
+896,107067,1144,62,2,Changed with Another Product,Refunded,742
+897,107067,1144,56,2,Color Mismatch,Rejected,178
+898,107068,613,98,2,Changed with Another Product,Refunded,6
+899,107068,613,65,1,Different Product Received,Refunded,652
+900,107068,613,38,3,Color Mismatch,Approved,3579
+901,107068,613,86,2,Product Condition Not Good,Rejected,50
+902,107076,1681,10,3,Changed with Another Product,Refunded,3006
+903,107094,1665,56,5,Different Product Received,Rejected,445
+904,107094,1665,7,4,Product Condition Not Good,Approved,804
+905,107098,562,9,2,Color Mismatch,Pending,404
+906,107195,384,82,8,Product Condition Not Good,Approved,72
+907,107211,1343,43,3,Changed with Another Product,Refunded,3636
+908,107211,1343,71,1,Product Condition Not Good,Rejected,7
+909,107211,1343,53,7,Changed with Another Product,Approved,3115
+910,107211,1343,81,3,Product Condition Not Good,Rejected,279
+911,107211,1343,70,3,Product Condition Not Good,Refunded,3744
+912,107267,1798,68,1,Different Product Received,Refunded,953
+913,107270,747,65,1,Different Product Received,Rejected,652
+914,107270,747,31,2,Different Product Received,Refunded,168
+915,107270,747,56,5,Different Product Received,Refunded,445
+916,107270,747,90,6,Changed with Another Product,Approved,24
+917,107270,747,92,5,Different Product Received,Refunded,2380
+918,107308,1834,2,3,Different Product Received,Pending,2376
+919,107308,1834,54,5,Color Mismatch,Refunded,3065
+920,107321,1079,89,5,Product Condition Not Good,Pending,620
+921,107321,1079,66,3,Color Mismatch,Refunded,798
+922,107327,677,60,1,Changed with Another Product,Refunded,247
+923,107348,1034,18,3,Changed with Another Product,Pending,4104
+924,107348,1034,41,1,Product Condition Not Good,Approved,4
+925,107348,1034,11,5,Product Condition Not Good,Pending,2865
+926,107348,1034,74,1,Color Mismatch,Refunded,9
+927,107358,1847,21,9,Product Condition Not Good,Pending,2088
+928,107359,646,16,2,Color Mismatch,Refunded,28
+929,107359,646,41,4,Changed with Another Product,Pending,16
+930,107359,646,37,2,Changed with Another Product,Approved,986
+931,107381,1824,17,2,Different Product Received,Rejected,1026
+932,107381,1824,38,8,Color Mismatch,Pending,9544
+933,107381,1824,75,3,Different Product Received,Refunded,3237
+934,107398,1914,17,4,Color Mismatch,Refunded,2052
+935,107398,1914,100,1,Color Mismatch,Refunded,358
+936,107398,1914,69,3,Changed with Another Product,Refunded,2136
+937,107399,29,19,5,Product Condition Not Good,Refunded,7135
+938,107399,29,12,7,Different Product Received,Rejected,5110
+939,107399,29,81,1,Changed with Another Product,Pending,93
+940,107400,847,97,2,Color Mismatch,Rejected,70
+941,107406,987,98,6,Product Condition Not Good,Approved,18
+942,107406,987,2,2,Color Mismatch,Pending,1584
+943,107406,987,62,5,Color Mismatch,Refunded,1855
+944,107427,211,83,4,Changed with Another Product,Rejected,4824
+945,107427,211,30,10,Product Condition Not Good,Approved,12600
+946,107427,211,42,3,Different Product Received,Refunded,648
+947,107447,1720,75,4,Different Product Received,Pending,4316
+948,107447,1720,22,2,Different Product Received,Approved,6
+949,107472,1741,91,1,Product Condition Not Good,Pending,3
+950,107472,1741,92,2,Color Mismatch,Refunded,952
+951,107473,1982,41,2,Color Mismatch,Rejected,8
+952,107476,29,38,7,Color Mismatch,Pending,8351
+953,107476,29,60,1,Different Product Received,Refunded,247
+954,107479,1064,100,1,Product Condition Not Good,Refunded,358
+955,107479,1064,62,3,Product Condition Not Good,Approved,1113
+956,107502,147,14,7,Color Mismatch,Approved,1085
+957,107502,147,87,3,Different Product Received,Pending,1287
+958,107502,147,79,1,Different Product Received,Approved,154
+959,107502,147,16,1,Different Product Received,Pending,14
+960,107502,147,36,5,Color Mismatch,Approved,1100
+961,107509,132,40,4,Product Condition Not Good,Refunded,968
+962,107509,132,96,1,Product Condition Not Good,Refunded,20
+963,107510,1942,27,8,Color Mismatch,Pending,1672
+964,107513,286,4,4,Changed with Another Product,Refunded,3492
+965,107523,616,3,4,Changed with Another Product,Rejected,5556
+966,107524,926,54,4,Color Mismatch,Approved,2452
+967,107527,1514,77,4,Changed with Another Product,Pending,3576
+968,107531,1140,6,1,Changed with Another Product,Pending,631
+969,107531,1140,7,2,Product Condition Not Good,Refunded,402
+970,107531,1140,9,1,Color Mismatch,Approved,202
+971,107531,1140,82,1,Product Condition Not Good,Rejected,9
+972,107546,898,70,3,Color Mismatch,Refunded,3744
+973,107560,4,91,1,Different Product Received,Pending,3
+974,107560,4,86,3,Product Condition Not Good,Rejected,75
+975,107568,115,27,2,Changed with Another Product,Rejected,418
+976,107582,279,8,6,Different Product Received,Pending,1194
+977,107582,279,24,4,Product Condition Not Good,Approved,3468
+978,107582,279,67,1,Product Condition Not Good,Pending,488
+979,107610,403,51,1,Color Mismatch,Refunded,722
+980,107610,403,98,3,Product Condition Not Good,Pending,9
+981,107610,403,4,1,Changed with Another Product,Rejected,873
+982,107610,403,89,3,Product Condition Not Good,Refunded,372
+983,107610,403,10,3,Product Condition Not Good,Pending,3006
+984,107634,1721,27,2,Changed with Another Product,Rejected,418
+985,107640,45,70,3,Color Mismatch,Refunded,3744
+986,107644,1489,89,1,Color Mismatch,Pending,124
+987,107644,1489,77,1,Product Condition Not Good,Pending,894
+988,107658,1844,100,1,Different Product Received,Pending,358
+989,107660,227,51,2,Color Mismatch,Approved,1444
+990,107677,1767,64,1,Changed with Another Product,Refunded,182
+991,107677,1767,74,1,Changed with Another Product,Approved,9
+992,107677,1767,59,1,Product Condition Not Good,Pending,95
+993,107677,1767,71,1,Color Mismatch,Approved,7
+994,107704,226,40,1,Product Condition Not Good,Rejected,242
+995,107704,226,56,1,Different Product Received,Approved,89
+996,107708,69,71,5,Different Product Received,Rejected,35
+997,107708,69,5,7,Changed with Another Product,Refunded,9303
+998,107719,757,1,3,Color Mismatch,Approved,693
+999,107727,1878,41,1,Different Product Received,Pending,4
+1000,107727,1878,18,4,Different Product Received,Rejected,5472
+1001,107740,1682,25,1,Color Mismatch,Pending,43
+1002,107759,1917,57,1,Product Condition Not Good,Pending,712
+1003,107759,1917,50,1,Color Mismatch,Approved,648
+1004,107764,1542,50,2,Color Mismatch,Approved,1296
+1005,107767,167,78,4,Color Mismatch,Refunded,4472
+1006,107772,1459,50,7,Changed with Another Product,Rejected,4536
+1007,107772,1459,30,4,Different Product Received,Rejected,5040
+1008,107772,1459,54,7,Product Condition Not Good,Rejected,4291
+1009,107782,1572,68,2,Different Product Received,Approved,1906
+1010,107783,1429,97,3,Changed with Another Product,Approved,105
+1011,107783,1429,54,5,Color Mismatch,Rejected,3065
+1012,107783,1429,30,5,Changed with Another Product,Pending,6300
+1013,107800,1345,49,7,Color Mismatch,Approved,427
+1014,107800,1345,74,5,Product Condition Not Good,Refunded,45
+1015,107800,1345,40,2,Changed with Another Product,Rejected,484
+1016,107800,1345,34,3,Changed with Another Product,Refunded,264
+1017,107809,1909,10,1,Different Product Received,Refunded,1002
+1018,107843,228,9,3,Product Condition Not Good,Pending,606
+1019,107843,228,11,1,Changed with Another Product,Approved,573
+1020,107851,1895,12,2,Different Product Received,Rejected,1460
+1021,107851,1895,4,9,Color Mismatch,Pending,7857
+1022,107858,774,17,1,Different Product Received,Pending,513
+1023,107858,774,95,1,Product Condition Not Good,Approved,6
+1024,107871,83,42,1,Different Product Received,Refunded,216
+1025,107872,588,82,1,Changed with Another Product,Pending,9
+1026,107872,588,13,1,Color Mismatch,Approved,21
+1027,107887,1317,61,3,Changed with Another Product,Pending,3639
+1028,107901,1746,26,3,Different Product Received,Pending,3603
+1029,107914,596,47,4,Changed with Another Product,Rejected,284
+1030,107921,1506,33,3,Product Condition Not Good,Refunded,441
+1031,107921,1506,18,1,Changed with Another Product,Pending,1368
+1032,107929,896,19,3,Color Mismatch,Approved,4281
+1033,107946,1774,27,1,Color Mismatch,Rejected,209
+1034,107946,1774,95,3,Product Condition Not Good,Rejected,18
+1035,107950,1156,28,5,Different Product Received,Approved,5855
+1036,107960,505,45,6,Changed with Another Product,Rejected,834
+1037,107960,505,41,4,Changed with Another Product,Pending,16
+1038,107987,1136,45,2,Color Mismatch,Rejected,278
+1039,107988,1340,47,3,Color Mismatch,Pending,213
+1040,108000,691,21,1,Changed with Another Product,Pending,232
+1041,108001,1085,19,3,Product Condition Not Good,Rejected,4281
+1042,108001,1085,36,1,Changed with Another Product,Refunded,220
+1043,108022,444,41,3,Changed with Another Product,Refunded,12
+1044,108022,444,68,3,Color Mismatch,Refunded,2859
+1045,108059,840,51,4,Changed with Another Product,Pending,2888
+1046,108074,1320,57,1,Changed with Another Product,Approved,712
+1047,108074,1320,59,1,Changed with Another Product,Pending,95
+1048,108074,1320,83,3,Changed with Another Product,Rejected,3618
+1049,108093,1629,56,5,Product Condition Not Good,Rejected,445
+1050,108119,746,93,1,Changed with Another Product,Refunded,1214
+1051,108119,746,64,6,Color Mismatch,Approved,1092
+1052,108119,746,18,4,Product Condition Not Good,Approved,5472
+1053,108119,746,65,6,Color Mismatch,Refunded,3912
+1054,108138,7,84,3,Color Mismatch,Approved,3945
+1055,108147,986,60,6,Color Mismatch,Refunded,1482
+1056,108159,1884,56,2,Product Condition Not Good,Refunded,178
+1057,108159,1884,4,9,Changed with Another Product,Refunded,7857
+1058,108159,1884,40,6,Different Product Received,Rejected,1452
+1059,108165,50,91,3,Color Mismatch,Refunded,9
+1060,108211,905,39,1,Color Mismatch,Approved,1180
+1061,108211,905,57,3,Product Condition Not Good,Approved,2136
+1062,108211,905,9,6,Changed with Another Product,Pending,1212
+1063,108223,1311,11,4,Product Condition Not Good,Approved,2292
+1064,108229,1599,41,2,Color Mismatch,Approved,8
+1065,108229,1599,50,7,Changed with Another Product,Approved,4536
+1066,108229,1599,62,5,Different Product Received,Refunded,1855
+1067,108241,703,68,4,Different Product Received,Rejected,3812
+1068,108241,703,100,1,Color Mismatch,Rejected,358
+1069,108300,793,19,7,Changed with Another Product,Rejected,9989
+1070,108300,793,75,7,Product Condition Not Good,Approved,7553
+1071,108300,793,28,1,Product Condition Not Good,Pending,1171
+1072,108300,793,53,3,Product Condition Not Good,Approved,1335
+1073,108309,1993,62,5,Product Condition Not Good,Approved,1855
+1074,108317,738,6,1,Product Condition Not Good,Approved,631
+1075,108317,738,100,2,Different Product Received,Rejected,716
+1076,108328,1213,16,5,Color Mismatch,Approved,70
+1077,108341,1543,66,2,Color Mismatch,Rejected,532
+1078,108341,1543,55,7,Different Product Received,Pending,9268
+1079,108341,1543,65,3,Product Condition Not Good,Refunded,1956
+1080,108368,1045,79,2,Color Mismatch,Refunded,308
+1081,108368,1045,42,3,Product Condition Not Good,Approved,648
+1082,108396,1242,77,4,Color Mismatch,Pending,3576
+1083,108397,60,19,6,Color Mismatch,Rejected,8562
+1084,108409,1364,52,3,Product Condition Not Good,Pending,687
+1085,108409,1364,10,1,Color Mismatch,Pending,1002
+1086,108409,1364,14,9,Changed with Another Product,Refunded,1395
+1087,108439,467,55,1,Changed with Another Product,Refunded,1324
+1088,108439,467,23,7,Color Mismatch,Approved,7420
+1089,108439,467,31,1,Color Mismatch,Refunded,84
+1090,108476,878,48,3,Different Product Received,Approved,1263
+1091,108476,878,67,2,Different Product Received,Pending,976
+1092,108476,878,51,4,Color Mismatch,Approved,2888
+1093,108476,878,34,3,Color Mismatch,Rejected,264
+1094,108476,878,76,1,Product Condition Not Good,Approved,140
+1095,108495,1306,31,3,Color Mismatch,Rejected,252
+1096,108502,314,66,7,Color Mismatch,Refunded,1862
+1097,108503,1513,15,4,Product Condition Not Good,Rejected,2924
+1098,108515,1704,28,3,Product Condition Not Good,Pending,3513
+1099,108537,728,56,1,Changed with Another Product,Refunded,89
+1100,108537,728,38,1,Different Product Received,Refunded,1193
+1101,108537,728,34,1,Changed with Another Product,Pending,88
+1102,108552,1186,16,2,Color Mismatch,Refunded,28
+1103,108569,1981,76,3,Product Condition Not Good,Refunded,420
+1104,108569,1981,43,3,Color Mismatch,Approved,3636
+1105,108569,1981,42,2,Changed with Another Product,Rejected,432
+1106,108586,1988,24,7,Different Product Received,Rejected,6069
+1107,108589,1458,24,3,Different Product Received,Pending,2601
+1108,108589,1458,21,2,Product Condition Not Good,Pending,464
+1109,108589,1458,78,7,Changed with Another Product,Approved,7826
+1110,108594,541,93,8,Different Product Received,Rejected,9712
+1111,108594,541,52,3,Product Condition Not Good,Refunded,687
+1112,108610,716,96,5,Different Product Received,Approved,100
+1113,108617,1570,86,1,Color Mismatch,Refunded,25
+1114,108623,1712,16,1,Different Product Received,Rejected,14
+1115,108637,153,67,8,Product Condition Not Good,Rejected,3904
+1116,108690,1397,89,2,Changed with Another Product,Approved,248
+1117,108693,462,16,4,Changed with Another Product,Pending,56
+1118,108693,462,8,3,Color Mismatch,Rejected,597
+1119,108693,462,72,1,Changed with Another Product,Pending,107
+1120,108695,331,50,8,Different Product Received,Refunded,5184
+1121,108700,246,76,1,Changed with Another Product,Refunded,140
+1122,108700,246,13,1,Color Mismatch,Approved,21
+1123,108700,246,22,1,Changed with Another Product,Refunded,3
+1124,108700,246,68,4,Different Product Received,Pending,3812
+1125,108702,1814,19,2,Different Product Received,Pending,2854
+1126,108702,1814,90,2,Changed with Another Product,Approved,8
+1127,108702,1814,25,5,Changed with Another Product,Approved,215
+1128,108714,846,14,3,Color Mismatch,Approved,465
+1129,108714,846,1,1,Changed with Another Product,Pending,231
+1130,108714,846,15,2,Changed with Another Product,Pending,1462
+1131,108720,348,33,2,Changed with Another Product,Approved,294
+1132,108720,348,93,10,Product Condition Not Good,Refunded,12140
+1133,108720,348,62,2,Color Mismatch,Pending,742
+1134,108720,348,3,3,Color Mismatch,Refunded,4167
+1135,108735,17,6,3,Color Mismatch,Refunded,1893
+1136,108739,1622,57,1,Color Mismatch,Rejected,712
+1137,108745,27,9,6,Changed with Another Product,Refunded,1212
+1138,108746,1233,55,2,Color Mismatch,Pending,2648
+1139,108746,1233,18,3,Different Product Received,Approved,4104
+1140,108746,1233,73,3,Color Mismatch,Rejected,3189
+1141,108746,1233,63,6,Color Mismatch,Pending,42
+1142,108760,1623,68,6,Color Mismatch,Pending,5718
+1143,108760,1623,36,3,Product Condition Not Good,Pending,660
+1144,108773,1124,59,1,Changed with Another Product,Pending,95
+1145,108773,1124,6,3,Changed with Another Product,Rejected,1893
+1146,108774,1368,90,1,Product Condition Not Good,Pending,4
+1147,108774,1368,94,8,Color Mismatch,Refunded,704
+1148,108789,708,75,1,Different Product Received,Approved,1079
+1149,108799,1592,81,1,Product Condition Not Good,Approved,93
+1150,108799,1592,97,2,Changed with Another Product,Refunded,70
+1151,108801,714,65,1,Color Mismatch,Pending,652
+1152,108826,1138,14,1,Different Product Received,Approved,155
+1153,108834,164,75,2,Changed with Another Product,Rejected,2158
+1154,108836,736,13,8,Changed with Another Product,Pending,168
+1155,108843,1800,52,1,Changed with Another Product,Rejected,229
+1156,108848,1735,83,4,Different Product Received,Pending,4824
+1157,108848,1735,74,5,Changed with Another Product,Rejected,45
+1158,108852,1487,34,2,Color Mismatch,Pending,176
+1159,108870,62,53,1,Product Condition Not Good,Approved,445
+1160,108870,62,61,3,Different Product Received,Refunded,3639
+1161,108870,62,98,7,Color Mismatch,Approved,21
+1162,108870,62,78,6,Product Condition Not Good,Rejected,6708
+1163,108881,125,51,4,Product Condition Not Good,Refunded,2888
+1164,108918,836,67,1,Color Mismatch,Pending,488
+1165,108918,836,24,1,Color Mismatch,Pending,867
+1166,108931,720,5,1,Different Product Received,Rejected,1329
+1167,108948,1121,58,2,Different Product Received,Pending,494
+1168,108949,1734,78,2,Color Mismatch,Refunded,2236
+1169,108951,1397,55,7,Different Product Received,Approved,9268
+1170,108951,1397,24,3,Color Mismatch,Rejected,2601
+1171,108951,1397,58,1,Different Product Received,Approved,247
+1172,108958,1625,8,4,Product Condition Not Good,Rejected,796
+1173,108966,1591,41,1,Changed with Another Product,Rejected,4
+1174,108966,1591,21,4,Product Condition Not Good,Refunded,928
+1175,108966,1591,97,10,Changed with Another Product,Refunded,350
+1176,108981,1652,78,4,Different Product Received,Pending,4472
+1177,108981,1652,46,2,Different Product Received,Approved,2154
+1178,108991,397,26,2,Changed with Another Product,Approved,2402
+1179,109006,1844,85,3,Product Condition Not Good,Approved,1365
+1180,109012,1303,51,2,Different Product Received,Rejected,1444
+1181,109012,1303,3,1,Changed with Another Product,Rejected,1389
+1182,109015,1845,65,2,Changed with Another Product,Approved,1304
+1183,109015,1845,33,7,Color Mismatch,Rejected,1029
+1184,109015,1845,58,1,Product Condition Not Good,Refunded,247
+1185,109025,1506,8,6,Color Mismatch,Approved,1194
+1186,109025,1506,45,3,Different Product Received,Pending,417
+1187,109031,1848,75,1,Different Product Received,Rejected,1079
+1188,109056,1788,19,1,Color Mismatch,Pending,1427
+1189,109064,789,39,9,Color Mismatch,Approved,10620
+1190,109067,394,2,2,Color Mismatch,Pending,1584
+1191,109079,420,95,2,Color Mismatch,Rejected,12
+1192,109079,420,52,2,Changed with Another Product,Rejected,458
+1193,109079,420,36,3,Changed with Another Product,Approved,660
+1194,109079,420,62,2,Color Mismatch,Rejected,742
+1195,109090,1057,81,4,Product Condition Not Good,Refunded,372
+1196,109091,1229,46,2,Product Condition Not Good,Rejected,2154
+1197,109091,1229,83,1,Product Condition Not Good,Pending,1206
+1198,109117,943,12,2,Product Condition Not Good,Rejected,1460
+1199,109117,943,63,2,Changed with Another Product,Pending,14
+1200,109164,1971,7,6,Changed with Another Product,Pending,1206
+1201,109164,1971,99,5,Different Product Received,Pending,6660
+1202,109164,1971,82,2,Different Product Received,Refunded,18
+1203,109167,504,39,3,Changed with Another Product,Pending,3540
+1204,109172,540,7,2,Changed with Another Product,Pending,402
+1205,109174,964,65,3,Changed with Another Product,Rejected,1956
+1206,109175,1900,87,2,Product Condition Not Good,Pending,858
+1207,109175,1900,98,2,Product Condition Not Good,Approved,6
+1208,109175,1900,50,6,Product Condition Not Good,Approved,3888
+1209,109178,339,56,2,Changed with Another Product,Rejected,178
+1210,109178,339,42,1,Different Product Received,Approved,216
+1211,109178,339,22,1,Color Mismatch,Refunded,3
+1212,109179,1541,38,1,Color Mismatch,Refunded,1193
+1213,109190,1096,47,6,Different Product Received,Rejected,426
+1214,109190,1096,66,2,Product Condition Not Good,Pending,532
+1215,109190,1096,67,5,Product Condition Not Good,Pending,2440
+1216,109221,692,65,4,Color Mismatch,Rejected,2608
+1217,109221,692,3,1,Product Condition Not Good,Refunded,1389
+1218,109222,1396,49,3,Changed with Another Product,Refunded,183
+1219,109223,613,96,3,Product Condition Not Good,Rejected,60
+1220,109226,1320,82,4,Product Condition Not Good,Pending,36
+1221,109312,1672,64,1,Color Mismatch,Approved,182
+1222,109312,1672,81,4,Changed with Another Product,Pending,372
+1223,109316,853,33,2,Product Condition Not Good,Rejected,294
+1224,109336,117,33,3,Color Mismatch,Approved,441
+1225,109336,117,4,1,Changed with Another Product,Refunded,873
+1226,109355,1372,75,3,Product Condition Not Good,Pending,3237
+1227,109358,215,7,5,Color Mismatch,Approved,1005
+1228,109375,982,36,1,Different Product Received,Rejected,220
+1229,109375,982,46,6,Different Product Received,Approved,6462
+1230,109375,982,92,4,Product Condition Not Good,Refunded,1904
+1231,109387,123,69,2,Color Mismatch,Approved,1424
+1232,109410,612,53,2,Product Condition Not Good,Refunded,890
+1233,109410,612,26,1,Color Mismatch,Rejected,1201
+1234,109414,1583,84,2,Different Product Received,Approved,2630
+1235,109419,554,59,8,Different Product Received,Pending,760
+1236,109419,554,44,2,Changed with Another Product,Rejected,336
+1237,109419,554,25,5,Color Mismatch,Refunded,215
+1238,109419,554,66,4,Changed with Another Product,Approved,1064
+1239,109422,409,45,6,Changed with Another Product,Approved,834
+1240,109422,409,34,9,Different Product Received,Refunded,792
+1241,109422,409,39,5,Changed with Another Product,Pending,5900
+1242,109422,409,79,5,Changed with Another Product,Rejected,770
+1243,109450,142,62,7,Different Product Received,Approved,2597
+1244,109450,142,47,2,Changed with Another Product,Refunded,142
+1245,109480,28,37,3,Changed with Another Product,Refunded,1479
+1246,109546,172,25,10,Different Product Received,Refunded,430
+1247,109546,172,28,1,Color Mismatch,Pending,1171
+1248,109546,172,22,10,Changed with Another Product,Approved,30
+1249,109560,1565,94,3,Different Product Received,Rejected,264
+1250,109585,1286,57,4,Changed with Another Product,Rejected,2848
+1251,109613,836,1,2,Changed with Another Product,Refunded,462
+1252,109614,480,69,8,Product Condition Not Good,Approved,5696
+1253,109614,480,27,2,Color Mismatch,Pending,418
+1254,109614,480,98,10,Different Product Received,Rejected,30
+1255,109614,480,90,3,Color Mismatch,Refunded,12
+1256,109614,480,40,1,Color Mismatch,Pending,242
+1257,109624,1893,44,4,Product Condition Not Good,Refunded,672
+1258,109624,1893,90,3,Changed with Another Product,Refunded,12
+1259,109624,1893,11,3,Different Product Received,Rejected,1719
+1260,109624,1893,37,3,Different Product Received,Pending,1479
+1261,109624,1893,87,4,Different Product Received,Refunded,1716
+1262,109628,71,69,2,Different Product Received,Refunded,1424
+1263,109628,71,50,8,Different Product Received,Pending,5184
+1264,109628,71,68,3,Different Product Received,Refunded,2859
+1265,109635,1533,8,2,Changed with Another Product,Pending,398
+1266,109635,1533,63,1,Different Product Received,Rejected,7
+1267,109638,847,63,3,Color Mismatch,Rejected,21
+1268,109642,828,13,1,Product Condition Not Good,Refunded,21
+1269,109642,828,73,8,Changed with Another Product,Rejected,8504
+1270,109642,828,51,9,Changed with Another Product,Refunded,6498
+1271,109642,828,36,6,Different Product Received,Pending,1320
+1272,109655,1206,18,4,Different Product Received,Pending,5472
+1273,109665,505,95,5,Color Mismatch,Refunded,30
+1274,109665,505,92,7,Changed with Another Product,Rejected,3332
+1275,109665,505,77,5,Color Mismatch,Pending,4470
+1276,109669,1638,77,5,Color Mismatch,Pending,4470
+1277,109669,1638,60,2,Product Condition Not Good,Pending,494
+1278,109686,1920,30,2,Color Mismatch,Refunded,2520
+1279,109686,1920,64,1,Changed with Another Product,Pending,182
+1280,109686,1920,56,2,Color Mismatch,Approved,178
+1281,109686,1920,96,8,Product Condition Not Good,Pending,160
+1282,109722,222,81,3,Product Condition Not Good,Rejected,279
+1283,109722,222,22,4,Product Condition Not Good,Rejected,12
+1284,109722,222,15,1,Changed with Another Product,Approved,731
+1285,109722,222,35,7,Color Mismatch,Rejected,2842
+1286,109729,928,36,2,Changed with Another Product,Pending,440
+1287,109741,1908,40,2,Color Mismatch,Refunded,484
+1288,109748,1602,69,2,Product Condition Not Good,Pending,1424
+1289,109748,1602,3,1,Changed with Another Product,Approved,1389
+1290,109770,280,67,1,Changed with Another Product,Refunded,488
+1291,109784,1141,96,2,Color Mismatch,Approved,40
+1292,109784,1141,32,1,Different Product Received,Rejected,89
+1293,109787,131,56,3,Color Mismatch,Pending,267
+1294,109787,131,47,3,Changed with Another Product,Approved,213
+1295,109787,131,26,5,Different Product Received,Rejected,6005
+1296,109789,628,89,3,Color Mismatch,Pending,372
+1297,109819,1836,21,7,Color Mismatch,Approved,1624
+1298,109819,1836,40,5,Different Product Received,Rejected,1210
+1299,109819,1836,81,7,Different Product Received,Rejected,651
+1300,109819,1836,31,4,Changed with Another Product,Rejected,336
+1301,109820,1021,99,3,Changed with Another Product,Rejected,3996
+1302,109821,1547,78,2,Color Mismatch,Rejected,2236
+1303,109852,1866,14,6,Different Product Received,Approved,930
+1304,109852,1866,31,2,Color Mismatch,Approved,168
+1305,109869,462,100,2,Different Product Received,Refunded,716
+1306,109895,335,36,2,Product Condition Not Good,Refunded,440
+1307,109895,335,46,1,Different Product Received,Pending,1077
+1308,109895,335,81,1,Different Product Received,Rejected,93
+1309,109910,4,29,2,Color Mismatch,Approved,412
+1310,109910,4,18,1,Color Mismatch,Refunded,1368
+1311,109910,4,53,3,Different Product Received,Pending,1335
+1312,109933,1676,72,7,Color Mismatch,Rejected,749
+1313,109935,1881,45,1,Different Product Received,Pending,139
+1314,109935,1881,11,1,Color Mismatch,Refunded,573
+1315,109944,244,74,2,Product Condition Not Good,Rejected,18
+1316,109953,897,20,4,Different Product Received,Refunded,404
+1317,109953,897,21,3,Changed with Another Product,Rejected,696
+1318,109953,897,7,1,Changed with Another Product,Pending,201
+1319,109953,897,67,2,Changed with Another Product,Approved,976
+1320,109953,897,1,1,Color Mismatch,Refunded,231
+1321,109980,877,10,3,Product Condition Not Good,Approved,3006
+1322,110002,157,85,1,Different Product Received,Rejected,455
+1323,110002,157,49,3,Changed with Another Product,Pending,183
+1324,110002,157,84,6,Changed with Another Product,Rejected,7890
+1325,110022,250,52,4,Changed with Another Product,Refunded,916
+1326,110022,250,79,7,Changed with Another Product,Pending,1078
+1327,110022,250,72,9,Color Mismatch,Pending,963
+1328,110052,706,48,3,Changed with Another Product,Pending,1263
+1329,110053,1529,66,6,Changed with Another Product,Pending,1596
+1330,110053,1529,47,4,Product Condition Not Good,Approved,284
+1331,110053,1529,24,4,Color Mismatch,Approved,3468
+1332,110053,1529,7,7,Product Condition Not Good,Rejected,1407
+1333,110053,1529,83,2,Color Mismatch,Approved,2412
+1334,110054,1862,95,3,Color Mismatch,Pending,18
+1335,110054,1862,86,2,Changed with Another Product,Rejected,50
+1336,110059,319,95,1,Product Condition Not Good,Rejected,6
+1337,110059,319,3,1,Product Condition Not Good,Refunded,1389
+1338,110059,319,79,2,Changed with Another Product,Pending,308
+1339,110069,222,95,2,Color Mismatch,Approved,12
+1340,110077,285,97,2,Color Mismatch,Approved,70
+1341,110085,1742,58,1,Product Condition Not Good,Pending,247
+1342,110127,757,68,7,Changed with Another Product,Approved,6671
+1343,110260,648,27,3,Color Mismatch,Rejected,627
+1344,110260,648,78,8,Color Mismatch,Pending,8944
+1345,110276,1233,74,8,Color Mismatch,Refunded,72
+1346,110285,1189,95,1,Changed with Another Product,Pending,6
+1347,110331,1085,52,1,Product Condition Not Good,Pending,229
+1348,110346,854,39,2,Different Product Received,Approved,2360
+1349,110346,854,1,2,Product Condition Not Good,Pending,462
+1350,110353,1963,20,4,Different Product Received,Pending,404
+1351,110374,1938,56,1,Product Condition Not Good,Refunded,89
+1352,110378,1250,42,5,Product Condition Not Good,Pending,1080
+1353,110380,442,78,1,Product Condition Not Good,Rejected,1118
+1354,110383,1528,16,2,Changed with Another Product,Pending,28
+1355,110383,1528,56,2,Product Condition Not Good,Approved,178
+1356,110431,1313,66,6,Product Condition Not Good,Approved,1596
+1357,110431,1313,80,9,Product Condition Not Good,Rejected,702
+1358,110461,849,19,6,Changed with Another Product,Pending,8562
+1359,110461,849,65,10,Different Product Received,Approved,6520
+1360,110461,849,86,4,Color Mismatch,Pending,100
+1361,110495,1988,85,1,Changed with Another Product,Pending,455
+1362,110516,1895,88,4,Changed with Another Product,Rejected,1776
+1363,110516,1895,3,7,Color Mismatch,Rejected,9723
+1364,110516,1895,1,2,Different Product Received,Approved,462
+1365,110532,14,38,1,Product Condition Not Good,Pending,1193
+1366,110532,14,25,2,Different Product Received,Pending,86
+1367,110532,14,12,1,Product Condition Not Good,Refunded,730
+1368,110538,1384,3,1,Product Condition Not Good,Refunded,1389
+1369,110538,1384,16,7,Product Condition Not Good,Rejected,98
+1370,110538,1384,33,2,Changed with Another Product,Approved,294
+1371,110541,642,38,1,Product Condition Not Good,Pending,1193
+1372,110541,642,31,1,Color Mismatch,Approved,84
+1373,110551,1116,70,5,Color Mismatch,Rejected,6240
+1374,110551,1116,7,3,Product Condition Not Good,Pending,603
+1375,110551,1116,78,3,Product Condition Not Good,Pending,3354
+1376,110567,1130,7,3,Changed with Another Product,Approved,603
+1377,110574,1727,83,2,Product Condition Not Good,Refunded,2412
+1378,110574,1727,95,5,Color Mismatch,Pending,30
+1379,110574,1727,87,3,Product Condition Not Good,Pending,1287
+1380,110574,1727,81,1,Different Product Received,Pending,93
+1381,110602,101,88,1,Changed with Another Product,Approved,444
+1382,110602,101,18,6,Changed with Another Product,Pending,8208
+1383,110625,292,52,3,Changed with Another Product,Rejected,687
+1384,110625,292,12,3,Product Condition Not Good,Rejected,2190
+1385,110629,323,19,10,Product Condition Not Good,Rejected,14270
+1386,110629,323,98,3,Color Mismatch,Refunded,9
+1387,110630,899,72,1,Changed with Another Product,Rejected,107
+1388,110640,1079,54,1,Color Mismatch,Refunded,613
+1389,110656,801,55,5,Color Mismatch,Refunded,6620
+1390,110656,801,67,2,Different Product Received,Rejected,976
+1391,110656,801,86,4,Changed with Another Product,Approved,100
+1392,110658,861,80,4,Color Mismatch,Rejected,312
+1393,110663,204,3,1,Changed with Another Product,Approved,1389
+1394,110680,660,66,7,Changed with Another Product,Refunded,1862
+1395,110681,998,20,6,Changed with Another Product,Pending,606
+1396,110681,998,8,4,Color Mismatch,Approved,796
+1397,110700,1893,20,4,Color Mismatch,Pending,404
+1398,110700,1893,76,4,Color Mismatch,Pending,560
+1399,110700,1893,41,8,Different Product Received,Approved,32
+1400,110704,1625,55,8,Color Mismatch,Pending,10592
+1401,110704,1625,33,6,Color Mismatch,Approved,882
+1402,110710,178,80,6,Product Condition Not Good,Approved,468
+1403,110710,178,14,2,Color Mismatch,Approved,310
+1404,110712,994,36,1,Color Mismatch,Approved,220
+1405,110713,1197,66,1,Color Mismatch,Approved,266
+1406,110713,1197,40,1,Different Product Received,Approved,242
+1407,110720,1581,11,2,Different Product Received,Refunded,1146
+1408,110740,557,99,3,Different Product Received,Approved,3996
+1409,110740,557,32,2,Color Mismatch,Pending,178
+1410,110740,557,7,7,Changed with Another Product,Refunded,1407
+1411,110740,557,44,3,Product Condition Not Good,Rejected,504
+1412,110749,292,15,2,Product Condition Not Good,Pending,1462
+1413,110749,292,86,4,Changed with Another Product,Refunded,100
+1414,110749,292,10,4,Changed with Another Product,Rejected,4008
+1415,110760,958,50,6,Changed with Another Product,Pending,3888
+1416,110779,1392,69,4,Color Mismatch,Rejected,2848
+1417,110811,985,43,4,Changed with Another Product,Rejected,4848
+1418,110858,217,53,3,Product Condition Not Good,Refunded,1335
+1419,110904,953,48,3,Product Condition Not Good,Refunded,1263
+1420,110904,953,100,3,Changed with Another Product,Rejected,1074
+1421,110926,1457,4,5,Color Mismatch,Pending,4365
+1422,110926,1457,17,2,Product Condition Not Good,Rejected,1026
+1423,110926,1457,60,4,Different Product Received,Pending,988
+1424,110939,922,59,2,Different Product Received,Pending,190
+1425,110939,922,76,5,Different Product Received,Pending,700
+1426,110939,922,30,4,Product Condition Not Good,Approved,5040
+1427,110973,1029,22,4,Color Mismatch,Refunded,12
+1428,110973,1029,32,1,Product Condition Not Good,Pending,89
+1429,110977,102,81,5,Different Product Received,Approved,465
+1430,110991,594,26,1,Product Condition Not Good,Approved,1201
+1431,110993,1706,87,5,Different Product Received,Refunded,2145
+1432,110993,1706,18,3,Product Condition Not Good,Rejected,4104
+1433,111012,246,72,3,Different Product Received,Refunded,321
+1434,111033,1187,3,1,Different Product Received,Pending,1389
+1435,111033,1187,20,5,Color Mismatch,Pending,505
+1436,111060,459,63,3,Changed with Another Product,Pending,21
+1437,111060,459,20,8,Changed with Another Product,Rejected,808
+1438,111060,459,72,1,Product Condition Not Good,Pending,107
+1439,111060,459,96,3,Changed with Another Product,Pending,60
+1440,111060,459,19,7,Color Mismatch,Refunded,9989
+1441,111091,1915,77,2,Color Mismatch,Rejected,1788
+1442,111091,1915,59,6,Product Condition Not Good,Rejected,570
+1443,111091,1915,50,4,Different Product Received,Refunded,2592
+1444,111120,1471,36,3,Different Product Received,Refunded,660
+1445,111126,1308,81,2,Different Product Received,Approved,186
+1446,111155,290,71,1,Color Mismatch,Pending,7
+1447,111155,290,1,6,Changed with Another Product,Approved,1386
+1448,111180,1983,20,4,Product Condition Not Good,Approved,404
+1449,111228,248,46,1,Product Condition Not Good,Rejected,1077
+1450,111228,248,31,3,Color Mismatch,Rejected,252
+1451,111228,248,11,2,Changed with Another Product,Rejected,1146
+1452,111228,248,53,4,Changed with Another Product,Approved,1780
+1453,111240,980,60,5,Changed with Another Product,Approved,1235
+1454,111240,980,33,2,Product Condition Not Good,Pending,294
+1455,111248,729,81,1,Changed with Another Product,Approved,93
+1456,111248,729,95,7,Product Condition Not Good,Pending,42
+1457,111248,729,75,5,Product Condition Not Good,Approved,5395
+1458,111294,1857,22,8,Color Mismatch,Refunded,24
+1459,111313,1116,16,3,Product Condition Not Good,Refunded,42
+1460,111321,1483,71,1,Different Product Received,Rejected,7
+1461,111345,829,22,1,Product Condition Not Good,Pending,3
+1462,111356,497,18,2,Color Mismatch,Rejected,2736
+1463,111356,497,4,2,Product Condition Not Good,Rejected,1746
+1464,111383,465,26,2,Changed with Another Product,Pending,2402
+1465,111394,1553,48,1,Different Product Received,Approved,421
+1466,111394,1553,3,2,Product Condition Not Good,Refunded,2778
+1467,111394,1553,66,8,Color Mismatch,Refunded,2128
+1468,111415,1933,58,2,Changed with Another Product,Pending,494
+1469,111415,1933,13,5,Changed with Another Product,Refunded,105
+1470,111415,1933,85,4,Color Mismatch,Approved,1820
+1471,111424,614,100,7,Color Mismatch,Refunded,2506
+1472,111437,1427,98,4,Product Condition Not Good,Refunded,12
+1473,111437,1427,72,6,Color Mismatch,Approved,642
+1474,111445,1548,48,2,Color Mismatch,Rejected,842
+1475,111445,1548,46,6,Changed with Another Product,Refunded,6462
+1476,111445,1548,4,2,Color Mismatch,Refunded,1746
+1477,111445,1548,12,3,Changed with Another Product,Refunded,2190
+1478,111447,85,61,1,Different Product Received,Pending,1213
+1479,111447,85,92,2,Different Product Received,Pending,952
+1480,111475,1788,58,2,Product Condition Not Good,Pending,494
+1481,111496,599,87,1,Product Condition Not Good,Pending,429
+1482,111501,181,22,1,Changed with Another Product,Rejected,3
+1483,111505,363,53,2,Color Mismatch,Approved,890
+1484,111505,363,61,4,Color Mismatch,Pending,4852
+1485,111505,363,27,1,Changed with Another Product,Approved,209
+1486,111505,363,84,1,Product Condition Not Good,Refunded,1315
+1487,111508,919,93,2,Changed with Another Product,Refunded,2428
+1488,111520,1187,74,3,Different Product Received,Refunded,27
+1489,111520,1187,49,2,Changed with Another Product,Refunded,122
+1490,111520,1187,56,2,Product Condition Not Good,Refunded,178
+1491,111571,943,83,3,Different Product Received,Approved,3618
+1492,111571,943,56,2,Changed with Another Product,Approved,178
+1493,111571,943,55,6,Different Product Received,Rejected,7944
+1494,111571,943,24,4,Changed with Another Product,Rejected,3468
+1495,111573,61,65,2,Product Condition Not Good,Rejected,1304
+1496,111573,61,83,1,Color Mismatch,Rejected,1206
+1497,111578,1902,45,2,Different Product Received,Approved,278
+1498,111584,305,83,4,Changed with Another Product,Approved,4824
+1499,111593,1175,14,1,Changed with Another Product,Approved,155
+1500,111599,775,74,3,Product Condition Not Good,Approved,27
+1501,111599,775,28,9,Product Condition Not Good,Rejected,10539
+1502,111631,378,6,2,Changed with Another Product,Rejected,1262
+1503,111631,378,95,2,Changed with Another Product,Refunded,12
+1504,111631,378,49,2,Different Product Received,Pending,122
+1505,111652,349,63,2,Different Product Received,Rejected,14
+1506,111652,349,51,6,Different Product Received,Approved,4332
+1507,111652,349,22,1,Product Condition Not Good,Refunded,3
+1508,111652,349,20,1,Changed with Another Product,Approved,101
+1509,111652,349,32,5,Product Condition Not Good,Refunded,445
+1510,111679,1948,4,4,Color Mismatch,Pending,3492
+1511,111679,1948,29,5,Product Condition Not Good,Refunded,1030
+1512,111686,435,55,1,Changed with Another Product,Refunded,1324
+1513,111686,435,11,1,Different Product Received,Rejected,573
+1514,111687,1119,72,2,Color Mismatch,Pending,214
+1515,111687,1119,79,3,Color Mismatch,Rejected,462
+1516,111687,1119,10,4,Product Condition Not Good,Rejected,4008
+1517,111703,1287,82,1,Product Condition Not Good,Approved,9
+1518,111703,1287,19,5,Color Mismatch,Refunded,7135
+1519,111719,148,49,2,Product Condition Not Good,Approved,122
+1520,111728,108,38,4,Product Condition Not Good,Pending,4772
+1521,111728,108,54,3,Product Condition Not Good,Refunded,1839
+1522,111776,1361,29,5,Changed with Another Product,Refunded,1030
+1523,111777,223,39,1,Different Product Received,Approved,1180
+1524,111777,223,5,1,Different Product Received,Rejected,1329
+1525,111780,613,76,3,Changed with Another Product,Approved,420
+1526,111785,1818,75,6,Product Condition Not Good,Approved,6474
+1527,111785,1818,38,1,Changed with Another Product,Refunded,1193
+1528,111794,1878,21,3,Product Condition Not Good,Approved,696
+1529,111794,1878,43,4,Changed with Another Product,Pending,4848
+1530,111794,1878,61,1,Product Condition Not Good,Approved,1213
+1531,111794,1878,7,9,Color Mismatch,Refunded,1809
+1532,111794,1878,73,1,Product Condition Not Good,Pending,1063
+1533,111808,549,30,9,Color Mismatch,Rejected,11340
+1534,111811,476,62,7,Product Condition Not Good,Refunded,2597
+1535,111814,1328,22,6,Changed with Another Product,Approved,18
+1536,111818,1298,21,4,Changed with Another Product,Refunded,928
+1537,111818,1298,95,2,Product Condition Not Good,Pending,12
+1538,111819,740,56,1,Product Condition Not Good,Refunded,89
+1539,111819,740,19,1,Changed with Another Product,Pending,1427
+1540,111819,740,9,4,Color Mismatch,Rejected,808
+1541,111822,655,24,1,Changed with Another Product,Pending,867
+1542,111822,655,37,2,Product Condition Not Good,Pending,986
+1543,111879,535,22,2,Changed with Another Product,Pending,6
+1544,111879,535,20,4,Changed with Another Product,Rejected,404
+1545,111880,1176,3,5,Changed with Another Product,Pending,6945
+1546,111880,1176,9,3,Different Product Received,Refunded,606
+1547,111888,1634,83,2,Changed with Another Product,Refunded,2412
+1548,111888,1634,32,2,Different Product Received,Approved,178
+1549,111907,561,42,3,Changed with Another Product,Refunded,648
+1550,111907,561,58,1,Color Mismatch,Refunded,247
+1551,111907,561,21,4,Product Condition Not Good,Pending,928
+1552,111942,1734,63,6,Color Mismatch,Pending,42
+1553,111942,1734,27,1,Changed with Another Product,Approved,209
+1554,111951,153,10,4,Changed with Another Product,Pending,4008
+1555,111993,725,31,4,Different Product Received,Refunded,336
+1556,111993,725,53,2,Product Condition Not Good,Refunded,890
+1557,112037,1453,67,1,Different Product Received,Approved,488
+1558,112037,1453,8,3,Product Condition Not Good,Refunded,597
+1559,112051,1046,15,1,Color Mismatch,Refunded,731
+1560,112109,1190,17,4,Different Product Received,Rejected,2052
+1561,112127,853,35,9,Different Product Received,Pending,3654
+1562,112127,853,5,2,Different Product Received,Rejected,2658
+1563,112135,389,27,8,Color Mismatch,Rejected,1672
+1564,112135,389,36,1,Changed with Another Product,Refunded,220
+1565,112135,389,79,9,Product Condition Not Good,Pending,1386
+1566,112135,389,98,4,Color Mismatch,Refunded,12
+1567,112135,389,96,1,Changed with Another Product,Refunded,20
+1568,112136,74,15,2,Changed with Another Product,Approved,1462
+1569,112136,74,33,5,Product Condition Not Good,Approved,735
+1570,112161,591,43,1,Different Product Received,Rejected,1212
+1571,112171,998,69,2,Color Mismatch,Rejected,1424
+1572,112172,316,75,2,Product Condition Not Good,Refunded,2158
+1573,112172,316,57,1,Different Product Received,Refunded,712
+1574,112172,316,91,3,Product Condition Not Good,Rejected,9
+1575,112185,51,92,6,Color Mismatch,Rejected,2856
+1576,112199,1600,32,2,Different Product Received,Rejected,178
+1577,112205,1486,18,4,Changed with Another Product,Refunded,5472
+1578,112231,1794,57,5,Color Mismatch,Rejected,3560
+1579,112231,1794,17,1,Changed with Another Product,Refunded,513
+1580,112231,1794,46,1,Color Mismatch,Rejected,1077
+1581,112254,1622,31,3,Different Product Received,Approved,252
+1582,112254,1622,3,9,Color Mismatch,Refunded,12501
+1583,112260,886,94,3,Product Condition Not Good,Rejected,264
+1584,112260,886,16,2,Different Product Received,Rejected,28
+1585,112263,1802,90,4,Different Product Received,Rejected,16
+1586,112271,1163,61,2,Color Mismatch,Pending,2426
+1587,112272,145,14,2,Changed with Another Product,Approved,310
+1588,112292,1156,85,10,Product Condition Not Good,Pending,4550
+1589,112292,1156,56,2,Changed with Another Product,Pending,178
+1590,112292,1156,82,1,Product Condition Not Good,Approved,9
+1591,112292,1156,74,1,Changed with Another Product,Pending,9
+1592,112301,1198,79,1,Product Condition Not Good,Refunded,154
+1593,112301,1198,70,2,Different Product Received,Rejected,2496
+1594,112317,1666,47,6,Different Product Received,Refunded,426
+1595,112317,1666,9,1,Color Mismatch,Refunded,202
+1596,112320,453,48,1,Product Condition Not Good,Refunded,421
+1597,112320,453,99,1,Different Product Received,Refunded,1332
+1598,112323,1796,40,1,Color Mismatch,Rejected,242
+1599,112356,1626,7,2,Changed with Another Product,Refunded,402
+1600,112356,1626,1,6,Product Condition Not Good,Approved,1386
+1601,112356,1626,80,1,Different Product Received,Rejected,78
+1602,112432,483,99,2,Different Product Received,Rejected,2664
+1603,112432,483,73,2,Color Mismatch,Rejected,2126
+1604,112444,242,4,7,Changed with Another Product,Refunded,6111
+1605,112448,1522,48,8,Changed with Another Product,Refunded,3368
+1606,112448,1522,81,6,Product Condition Not Good,Rejected,558
+1607,112468,1633,58,2,Product Condition Not Good,Refunded,494
+1608,112496,1631,4,2,Changed with Another Product,Pending,1746
+1609,112551,833,96,7,Changed with Another Product,Approved,140
+1610,112551,833,53,1,Different Product Received,Approved,445
+1611,112558,294,56,3,Color Mismatch,Approved,267
+1612,112558,294,51,1,Product Condition Not Good,Approved,722
+1613,112558,294,77,5,Color Mismatch,Refunded,4470
+1614,112561,1676,33,1,Color Mismatch,Approved,147
+1615,112561,1676,53,1,Different Product Received,Pending,445
+1616,112561,1676,100,3,Product Condition Not Good,Approved,1074
+1617,112566,1665,52,8,Color Mismatch,Approved,1832
+1618,112566,1665,40,1,Different Product Received,Refunded,242
+1619,112577,1073,60,5,Different Product Received,Pending,1235
+1620,112577,1073,54,1,Color Mismatch,Approved,613
+1621,112604,1199,56,3,Color Mismatch,Rejected,267
+1622,112662,111,5,5,Product Condition Not Good,Rejected,6645
+1623,112711,1360,3,3,Product Condition Not Good,Refunded,4167
+1624,112711,1360,39,4,Product Condition Not Good,Pending,4720
+1625,112756,1831,14,6,Product Condition Not Good,Pending,930
+1626,112756,1831,8,1,Color Mismatch,Approved,199
+1627,112756,1831,54,5,Color Mismatch,Pending,3065
+1628,112756,1831,78,4,Color Mismatch,Refunded,4472
+1629,112775,911,71,4,Product Condition Not Good,Pending,28
+1630,112776,1445,76,2,Color Mismatch,Approved,280
+1631,112776,1445,63,3,Changed with Another Product,Pending,21
+1632,112776,1445,13,2,Color Mismatch,Approved,42
+1633,112777,1181,83,3,Different Product Received,Refunded,3618
+1634,112793,1045,30,1,Changed with Another Product,Pending,1260
+1635,112793,1045,59,4,Product Condition Not Good,Rejected,380
+1636,112793,1045,9,5,Product Condition Not Good,Approved,1010
+1637,112796,1073,84,8,Changed with Another Product,Rejected,10520
+1638,112796,1073,2,1,Product Condition Not Good,Rejected,792
+1639,112796,1073,85,1,Different Product Received,Refunded,455
+1640,112796,1073,87,4,Different Product Received,Approved,1716
+1641,112797,698,84,2,Different Product Received,Refunded,2630
+1642,112825,1042,43,2,Changed with Another Product,Pending,2424
+1643,112837,1048,78,1,Color Mismatch,Rejected,1118
+1644,112890,291,64,5,Changed with Another Product,Rejected,910
+1645,112909,1999,22,2,Color Mismatch,Rejected,6
+1646,112911,54,37,4,Changed with Another Product,Refunded,1972
+1647,112911,54,71,5,Product Condition Not Good,Refunded,35
+1648,112911,54,57,2,Different Product Received,Approved,1424
+1649,112911,54,100,8,Different Product Received,Rejected,2864
+1650,112988,219,22,2,Different Product Received,Approved,6
+1651,112993,162,70,6,Changed with Another Product,Approved,7488
+1652,113026,1243,65,2,Different Product Received,Pending,1304
+1653,113026,1243,6,1,Different Product Received,Approved,631
+1654,113042,672,69,1,Changed with Another Product,Refunded,712
+1655,113042,672,2,2,Changed with Another Product,Approved,1584
+1656,113042,672,19,2,Color Mismatch,Pending,2854
+1657,113069,959,3,3,Different Product Received,Approved,4167
+1658,113072,100,18,7,Different Product Received,Approved,9576
+1659,113072,100,5,1,Color Mismatch,Refunded,1329
+1660,113087,1240,40,6,Product Condition Not Good,Pending,1452
+1661,113087,1240,5,1,Changed with Another Product,Refunded,1329
+1662,113132,876,71,3,Different Product Received,Rejected,21
+1663,113155,1907,44,4,Color Mismatch,Rejected,672
+1664,113155,1907,40,1,Different Product Received,Approved,242
+1665,113221,1825,76,4,Different Product Received,Pending,560
+1666,113221,1825,74,1,Changed with Another Product,Pending,9
+1667,113241,560,62,3,Changed with Another Product,Refunded,1113
+1668,113241,560,18,1,Different Product Received,Refunded,1368
+1669,113241,560,31,5,Changed with Another Product,Approved,420
+1670,113250,741,42,3,Different Product Received,Refunded,648
+1671,113251,1617,96,1,Color Mismatch,Refunded,20
+1672,113253,687,61,3,Product Condition Not Good,Pending,3639
+1673,113258,1785,13,4,Changed with Another Product,Approved,84
+1674,113258,1785,42,3,Different Product Received,Pending,648
+1675,113258,1785,77,4,Color Mismatch,Pending,3576
+1676,113258,1785,73,6,Different Product Received,Approved,6378
+1677,113280,1441,46,2,Color Mismatch,Approved,2154
+1678,113280,1441,56,3,Product Condition Not Good,Approved,267
+1679,113287,1922,19,2,Product Condition Not Good,Refunded,2854
+1680,113312,1967,50,1,Changed with Another Product,Approved,648
+1681,113312,1967,56,6,Changed with Another Product,Rejected,534
+1682,113316,1694,29,2,Different Product Received,Pending,412
+1683,113316,1694,46,3,Changed with Another Product,Refunded,3231
+1684,113316,1694,25,10,Product Condition Not Good,Pending,430
+1685,113316,1694,23,2,Color Mismatch,Approved,2120
+1686,113316,1694,30,3,Product Condition Not Good,Rejected,3780
+1687,113370,2000,73,1,Color Mismatch,Refunded,1063
+1688,113370,2000,43,7,Different Product Received,Pending,8484
+1689,113370,2000,50,9,Different Product Received,Refunded,5832
+1690,113377,840,48,1,Color Mismatch,Approved,421
+1691,113389,45,66,4,Different Product Received,Refunded,1064
+1692,113389,45,43,2,Product Condition Not Good,Pending,2424
+1693,113405,1708,83,2,Changed with Another Product,Approved,2412
+1694,113405,1708,67,1,Changed with Another Product,Approved,488
+1695,113406,1069,31,1,Different Product Received,Pending,84
+1696,113406,1069,39,5,Changed with Another Product,Approved,5900
+1697,113406,1069,93,1,Color Mismatch,Approved,1214
+1698,113422,192,13,2,Product Condition Not Good,Refunded,42
+1699,113422,192,99,1,Color Mismatch,Rejected,1332
+1700,113422,192,20,2,Different Product Received,Pending,202
+1701,113443,975,3,1,Product Condition Not Good,Approved,1389
+1702,113443,975,73,4,Color Mismatch,Rejected,4252
+1703,113443,975,64,2,Changed with Another Product,Pending,364
+1704,113443,975,89,3,Color Mismatch,Pending,372
+1705,113448,1910,50,5,Product Condition Not Good,Approved,3240
+1706,113448,1910,48,7,Color Mismatch,Approved,2947
+1707,113461,678,38,8,Color Mismatch,Rejected,9544
+1708,113475,242,27,5,Product Condition Not Good,Pending,1045
+1709,113491,1912,36,5,Changed with Another Product,Pending,1100
+1710,113497,1617,12,3,Changed with Another Product,Refunded,2190
+1711,113506,1640,44,5,Color Mismatch,Rejected,840
+1712,113506,1640,10,1,Color Mismatch,Refunded,1002
+1713,113521,877,73,5,Different Product Received,Refunded,5315
+1714,113521,877,49,3,Color Mismatch,Pending,183
+1715,113527,1083,77,1,Different Product Received,Refunded,894
+1716,113539,1934,60,1,Different Product Received,Refunded,247
+1717,113539,1934,21,2,Product Condition Not Good,Pending,464
+1718,113539,1934,42,3,Changed with Another Product,Pending,648
+1719,113588,1687,13,2,Changed with Another Product,Rejected,42
+1720,113588,1687,56,4,Product Condition Not Good,Refunded,356
+1721,113605,1747,81,8,Product Condition Not Good,Approved,744
+1722,113605,1747,74,7,Color Mismatch,Refunded,63
+1723,113605,1747,43,1,Changed with Another Product,Refunded,1212
+1724,113605,1747,96,10,Color Mismatch,Refunded,200
+1725,113605,1747,9,1,Product Condition Not Good,Pending,202
+1726,113618,1005,64,1,Color Mismatch,Approved,182
+1727,113618,1005,92,2,Color Mismatch,Approved,952
+1728,113628,1654,84,7,Different Product Received,Approved,9205
+1729,113630,394,36,3,Changed with Another Product,Refunded,660
+1730,113630,394,67,1,Color Mismatch,Rejected,488
+1731,113630,394,17,1,Color Mismatch,Rejected,513
+1732,113630,394,79,4,Changed with Another Product,Pending,616
+1733,113631,991,79,4,Different Product Received,Approved,616
+1734,113631,991,29,1,Product Condition Not Good,Pending,206
+1735,113631,991,17,3,Color Mismatch,Rejected,1539
+1736,113631,991,99,3,Different Product Received,Approved,3996
+1737,113633,15,72,7,Different Product Received,Approved,749
+1738,113633,15,90,6,Different Product Received,Pending,24
+1739,113643,543,77,3,Color Mismatch,Pending,2682
+1740,113643,543,3,4,Product Condition Not Good,Refunded,5556
+1741,113644,679,78,3,Different Product Received,Refunded,3354
+1742,113681,1787,70,2,Product Condition Not Good,Refunded,2496
+1743,113682,841,49,1,Product Condition Not Good,Approved,61
+1744,113690,851,15,6,Product Condition Not Good,Pending,4386
+1745,113716,1982,80,1,Changed with Another Product,Refunded,78
+1746,113734,207,79,2,Color Mismatch,Refunded,308
+1747,113734,207,82,1,Changed with Another Product,Pending,9
+1748,113757,1394,17,1,Product Condition Not Good,Refunded,513
+1749,113763,247,62,1,Color Mismatch,Pending,371
+1750,113778,372,47,1,Product Condition Not Good,Rejected,71
+1751,113778,372,81,9,Different Product Received,Rejected,837
+1752,113778,372,88,2,Product Condition Not Good,Refunded,888
+1753,113787,840,86,1,Product Condition Not Good,Rejected,25
+1754,113787,840,19,3,Different Product Received,Refunded,4281
+1755,113846,841,35,7,Color Mismatch,Rejected,2842
+1756,113846,841,28,5,Product Condition Not Good,Rejected,5855
+1757,113854,1598,34,1,Product Condition Not Good,Refunded,88
+1758,113875,769,2,5,Color Mismatch,Pending,3960
+1759,113904,439,95,9,Different Product Received,Approved,54
+1760,113936,1510,96,4,Color Mismatch,Rejected,80
+1761,113943,1474,28,1,Color Mismatch,Pending,1171
+1762,113945,1512,93,2,Changed with Another Product,Refunded,2428
+1763,113992,704,59,5,Color Mismatch,Rejected,475
+1764,113992,704,77,3,Changed with Another Product,Approved,2682
+1765,114001,1569,86,2,Color Mismatch,Approved,50
+1766,114001,1569,70,1,Color Mismatch,Approved,1248
+1767,114011,1695,1,3,Product Condition Not Good,Approved,693
+1768,114011,1695,62,1,Different Product Received,Pending,371
+1769,114011,1695,38,1,Product Condition Not Good,Refunded,1193
+1770,114018,1087,80,1,Product Condition Not Good,Rejected,78
+1771,114018,1087,20,3,Product Condition Not Good,Rejected,303
+1772,114018,1087,82,1,Color Mismatch,Rejected,9
+1773,114018,1087,100,3,Changed with Another Product,Rejected,1074
+1774,114031,1499,74,1,Color Mismatch,Rejected,9
+1775,114032,851,38,5,Product Condition Not Good,Refunded,5965
+1776,114032,851,27,2,Different Product Received,Refunded,418
+1777,114032,851,33,6,Different Product Received,Refunded,882
+1778,114045,1095,39,1,Different Product Received,Refunded,1180
+1779,114045,1095,7,1,Different Product Received,Approved,201
+1780,114045,1095,13,1,Product Condition Not Good,Refunded,21
+1781,114045,1095,3,7,Product Condition Not Good,Rejected,9723
+1782,114046,976,19,7,Different Product Received,Refunded,9989
+1783,114046,976,59,3,Changed with Another Product,Refunded,285
+1784,114046,976,64,2,Different Product Received,Approved,364
+1785,114051,1262,30,1,Product Condition Not Good,Pending,1260
+1786,114072,1211,31,4,Color Mismatch,Pending,336
+1787,114072,1211,56,7,Changed with Another Product,Rejected,623
+1788,114079,640,15,3,Changed with Another Product,Approved,2193
+1789,114079,640,11,1,Changed with Another Product,Approved,573
+1790,114081,460,25,1,Changed with Another Product,Approved,43
+1791,114082,81,87,8,Color Mismatch,Rejected,3432
+1792,114082,81,1,2,Different Product Received,Pending,462
+1793,114082,81,10,1,Color Mismatch,Pending,1002
+1794,114082,81,72,9,Color Mismatch,Pending,963
+1795,114082,81,30,7,Changed with Another Product,Rejected,8820
+1796,114099,923,23,5,Changed with Another Product,Refunded,5300
+1797,114112,1824,52,7,Color Mismatch,Rejected,1603
+1798,114112,1824,29,1,Product Condition Not Good,Pending,206
+1799,114119,395,55,3,Different Product Received,Refunded,3972
+1800,114130,1217,89,8,Changed with Another Product,Pending,992
+1801,114130,1217,83,2,Changed with Another Product,Pending,2412
+1802,114130,1217,94,6,Different Product Received,Refunded,528
+1803,114133,250,52,3,Product Condition Not Good,Approved,687
+1804,114138,863,44,2,Product Condition Not Good,Pending,336
+1805,114159,415,59,1,Color Mismatch,Pending,95
+1806,114160,138,9,5,Color Mismatch,Rejected,1010
+1807,114166,667,98,8,Changed with Another Product,Rejected,24
+1808,114166,667,42,3,Changed with Another Product,Refunded,648
+1809,114188,783,12,2,Product Condition Not Good,Approved,1460
+1810,114191,1838,32,4,Product Condition Not Good,Approved,356
+1811,114191,1838,84,6,Product Condition Not Good,Rejected,7890
+1812,114195,1715,29,3,Product Condition Not Good,Rejected,618
+1813,114200,1298,97,2,Color Mismatch,Refunded,70
+1814,114209,110,34,1,Different Product Received,Approved,88
+1815,114209,110,41,2,Changed with Another Product,Rejected,8
+1816,114215,1963,90,5,Color Mismatch,Rejected,20
+1817,114229,968,35,1,Product Condition Not Good,Approved,406
+1818,114244,824,57,2,Changed with Another Product,Pending,1424
+1819,114244,824,67,2,Product Condition Not Good,Approved,976
+1820,114263,889,42,5,Product Condition Not Good,Approved,1080
+1821,114263,889,45,2,Product Condition Not Good,Pending,278
+1822,114268,486,52,2,Different Product Received,Pending,458
+1823,114268,486,81,4,Product Condition Not Good,Rejected,372
+1824,114268,486,100,3,Changed with Another Product,Pending,1074
+1825,114272,1961,86,5,Changed with Another Product,Approved,125
+1826,114272,1961,100,2,Product Condition Not Good,Approved,716
+1827,114272,1961,17,1,Different Product Received,Rejected,513
+1828,114272,1961,1,2,Different Product Received,Rejected,462
+1829,114272,1961,78,8,Color Mismatch,Approved,8944
+1830,114283,246,89,8,Different Product Received,Rejected,992
+1831,114290,571,7,2,Color Mismatch,Refunded,402
+1832,114290,571,68,3,Product Condition Not Good,Approved,2859
+1833,114295,659,38,8,Different Product Received,Approved,9544
+1834,114295,659,34,1,Product Condition Not Good,Rejected,88
+1835,114295,659,56,8,Changed with Another Product,Approved,712
+1836,114295,659,52,1,Product Condition Not Good,Pending,229
+1837,114296,1752,95,5,Changed with Another Product,Pending,30
+1838,114301,1349,67,1,Different Product Received,Refunded,488
+1839,114301,1349,37,3,Changed with Another Product,Refunded,1479
+1840,114318,1387,21,1,Product Condition Not Good,Refunded,232
+1841,114318,1387,17,1,Product Condition Not Good,Pending,513
+1842,114331,124,76,1,Changed with Another Product,Pending,140
+1843,114331,124,46,5,Changed with Another Product,Pending,5385
+1844,114332,1840,52,5,Different Product Received,Rejected,1145
+1845,114332,1840,67,1,Different Product Received,Rejected,488
+1846,114332,1840,79,7,Changed with Another Product,Rejected,1078
+1847,114354,892,5,1,Product Condition Not Good,Pending,1329
+1848,114354,892,86,1,Color Mismatch,Refunded,25
+1849,114415,1353,66,6,Product Condition Not Good,Refunded,1596
+1850,114415,1353,21,1,Different Product Received,Refunded,232
+1851,114424,914,4,2,Different Product Received,Refunded,1746
+1852,114424,914,82,1,Changed with Another Product,Pending,9
+1853,114424,914,17,1,Different Product Received,Rejected,513
+1854,114424,914,39,6,Changed with Another Product,Pending,7080
+1855,114449,1248,90,1,Product Condition Not Good,Pending,4
+1856,114478,95,91,4,Different Product Received,Refunded,12
+1857,114521,1623,1,5,Product Condition Not Good,Refunded,1155
+1858,114521,1623,72,7,Product Condition Not Good,Approved,749
+1859,114521,1623,51,1,Color Mismatch,Approved,722
+1860,114521,1623,25,2,Different Product Received,Pending,86
+1861,114539,1764,71,4,Product Condition Not Good,Approved,28
+1862,114591,1910,9,5,Changed with Another Product,Refunded,1010
+1863,114591,1910,6,1,Different Product Received,Rejected,631
+1864,114591,1910,44,3,Product Condition Not Good,Refunded,504
+1865,114591,1910,7,2,Changed with Another Product,Refunded,402
+1866,114600,1498,27,4,Changed with Another Product,Approved,836
+1867,114608,1718,34,3,Different Product Received,Pending,264
+1868,114608,1718,98,9,Product Condition Not Good,Approved,27
+1869,114648,1004,92,1,Different Product Received,Refunded,476
+1870,114662,854,40,6,Changed with Another Product,Approved,1452
+1871,114663,1942,30,2,Color Mismatch,Refunded,2520
+1872,114663,1942,73,2,Color Mismatch,Pending,2126
+1873,114663,1942,49,1,Changed with Another Product,Approved,61
+1874,114678,240,13,7,Product Condition Not Good,Rejected,147
+1875,114678,240,51,1,Changed with Another Product,Rejected,722
+1876,114678,240,85,2,Changed with Another Product,Approved,910
+1877,114678,240,78,1,Changed with Another Product,Approved,1118
+1878,114693,977,80,1,Product Condition Not Good,Pending,78
+1879,114708,897,66,1,Color Mismatch,Approved,266
+1880,114708,897,96,1,Different Product Received,Pending,20
+1881,114714,1432,58,6,Color Mismatch,Rejected,1482
+1882,114726,1489,5,3,Changed with Another Product,Approved,3987
+1883,114737,985,90,1,Different Product Received,Rejected,4
+1884,114741,5,51,4,Changed with Another Product,Rejected,2888
+1885,114744,371,67,2,Different Product Received,Pending,976
+1886,114759,281,33,1,Different Product Received,Pending,147
+1887,114759,281,92,6,Changed with Another Product,Refunded,2856
+1888,114759,281,14,1,Color Mismatch,Pending,155
+1889,114759,281,77,6,Color Mismatch,Rejected,5364
+1890,114759,281,28,3,Color Mismatch,Approved,3513
+1891,114792,275,62,1,Different Product Received,Approved,371
+1892,114807,1901,97,4,Different Product Received,Pending,140
+1893,114809,413,61,6,Changed with Another Product,Pending,7278
+1894,114809,413,54,9,Changed with Another Product,Pending,5517
+1895,114826,1025,8,1,Changed with Another Product,Refunded,199
+1896,114826,1025,81,5,Product Condition Not Good,Pending,465
+1897,114826,1025,37,2,Changed with Another Product,Approved,986
+1898,114827,257,88,4,Changed with Another Product,Approved,1776
+1899,114836,1941,80,1,Different Product Received,Approved,78
+1900,114836,1941,4,1,Product Condition Not Good,Approved,873
+1901,114845,162,15,4,Product Condition Not Good,Approved,2924
+1902,114845,162,63,6,Color Mismatch,Pending,42
+1903,114907,1216,17,2,Changed with Another Product,Rejected,1026
+1904,114924,1258,67,6,Changed with Another Product,Approved,2928
+1905,114924,1258,4,7,Different Product Received,Rejected,6111
+1906,114935,1983,1,2,Product Condition Not Good,Refunded,462
+1907,114935,1983,19,10,Changed with Another Product,Rejected,14270
+1908,114935,1983,14,5,Different Product Received,Refunded,775
+1909,114953,1142,4,2,Product Condition Not Good,Refunded,1746
+1910,114953,1142,41,8,Changed with Another Product,Pending,32
+1911,114959,508,91,5,Color Mismatch,Refunded,15
+1912,114970,1199,89,5,Different Product Received,Approved,620
+1913,114970,1199,11,3,Different Product Received,Pending,1719
+1914,115010,1098,10,3,Different Product Received,Refunded,3006
+1915,115010,1098,70,1,Color Mismatch,Pending,1248
+1916,115011,365,16,3,Product Condition Not Good,Approved,42
+1917,115011,365,57,7,Different Product Received,Rejected,4984
+1918,115033,1472,20,2,Color Mismatch,Approved,202
+1919,115033,1472,41,2,Color Mismatch,Pending,8
+1920,115033,1472,32,3,Changed with Another Product,Rejected,267
+1921,115033,1472,57,5,Changed with Another Product,Rejected,3560
+1922,115036,131,97,6,Different Product Received,Rejected,210
+1923,115036,131,58,1,Color Mismatch,Refunded,247
+1924,115041,1054,20,2,Color Mismatch,Approved,202
+1925,115041,1054,19,3,Changed with Another Product,Refunded,4281
+1926,115050,907,9,6,Color Mismatch,Refunded,1212
+1927,115058,680,37,2,Product Condition Not Good,Refunded,986
+1928,115062,926,63,5,Product Condition Not Good,Refunded,35
+1929,115062,926,4,4,Product Condition Not Good,Pending,3492
+1930,115067,1518,32,4,Different Product Received,Rejected,356
+1931,115069,905,50,2,Color Mismatch,Pending,1296
+1932,115069,905,33,5,Color Mismatch,Approved,735
+1933,115069,905,11,4,Product Condition Not Good,Approved,2292
+1934,115069,905,100,1,Color Mismatch,Pending,358
+1935,115070,245,86,4,Product Condition Not Good,Approved,100
+1936,115070,245,90,3,Changed with Another Product,Pending,12
+1937,115110,1896,77,2,Product Condition Not Good,Rejected,1788
+1938,115124,537,40,5,Changed with Another Product,Approved,1210
+1939,115124,537,12,1,Different Product Received,Approved,730
+1940,115138,1086,92,2,Changed with Another Product,Rejected,952
+1941,115174,1023,4,2,Changed with Another Product,Pending,1746
+1942,115178,1753,80,5,Product Condition Not Good,Approved,390
+1943,115178,1753,14,1,Changed with Another Product,Refunded,155
+1944,115206,749,70,2,Different Product Received,Pending,2496
+1945,115209,864,9,1,Changed with Another Product,Refunded,202
+1946,115213,1133,26,4,Different Product Received,Pending,4804
+1947,115213,1133,48,2,Color Mismatch,Approved,842
+1948,115213,1133,91,4,Different Product Received,Refunded,12
+1949,115213,1133,45,7,Changed with Another Product,Approved,973
+1950,115223,922,81,4,Product Condition Not Good,Pending,372
+1951,115228,482,13,1,Color Mismatch,Rejected,21
+1952,115228,482,22,6,Different Product Received,Refunded,18
+1953,115238,1019,7,3,Changed with Another Product,Rejected,603
+1954,115288,1870,25,1,Color Mismatch,Refunded,43
+1955,115310,60,52,1,Changed with Another Product,Rejected,229
+1956,115310,60,27,5,Product Condition Not Good,Rejected,1045
+1957,115310,60,71,3,Different Product Received,Refunded,21
+1958,115318,214,49,6,Changed with Another Product,Approved,366
+1959,115321,345,76,2,Different Product Received,Pending,280
+1960,115321,345,75,10,Changed with Another Product,Approved,10790
+1961,115321,345,53,2,Different Product Received,Rejected,890
+1962,115373,1008,64,1,Changed with Another Product,Rejected,182
+1963,115380,222,78,1,Color Mismatch,Refunded,1118
+1964,115399,1575,56,5,Color Mismatch,Refunded,445
+1965,115449,293,90,1,Changed with Another Product,Pending,4
+1966,115468,225,95,5,Different Product Received,Rejected,30
+1967,115490,1404,32,6,Color Mismatch,Pending,534
+1968,115490,1404,81,2,Product Condition Not Good,Approved,186
+1969,115490,1404,66,1,Changed with Another Product,Rejected,266
+1970,115490,1404,33,1,Color Mismatch,Pending,147
+1971,115519,868,51,5,Changed with Another Product,Pending,3610
+1972,115519,868,82,2,Changed with Another Product,Pending,18
+1973,115538,1381,41,3,Color Mismatch,Pending,12
+1974,115547,634,44,4,Different Product Received,Approved,672
+1975,115547,634,26,9,Color Mismatch,Rejected,10809
+1976,115549,292,81,4,Product Condition Not Good,Approved,372
+1977,115549,292,27,1,Changed with Another Product,Pending,209
+1978,115556,470,85,2,Changed with Another Product,Rejected,910
+1979,115577,831,18,3,Changed with Another Product,Refunded,4104
+1980,115577,831,30,3,Color Mismatch,Rejected,3780
+1981,115581,1022,100,2,Different Product Received,Refunded,716
+1982,115581,1022,49,2,Different Product Received,Refunded,122
+1983,115581,1022,82,1,Color Mismatch,Approved,9
+1984,115581,1022,56,8,Changed with Another Product,Pending,712
+1985,115606,595,14,5,Product Condition Not Good,Approved,775
+1986,115606,595,19,1,Different Product Received,Rejected,1427
+1987,115619,1476,51,2,Changed with Another Product,Pending,1444
+1988,115619,1476,79,3,Changed with Another Product,Rejected,462
+1989,115629,1922,29,4,Changed with Another Product,Approved,824
+1990,115629,1922,60,2,Color Mismatch,Approved,494
+1991,115629,1922,10,1,Color Mismatch,Rejected,1002
+1992,115638,1832,23,2,Color Mismatch,Rejected,2120
+1993,115647,1188,23,3,Color Mismatch,Pending,3180
+1994,115647,1188,83,1,Color Mismatch,Pending,1206
+1995,115652,762,20,5,Changed with Another Product,Pending,505
+1996,115668,695,37,4,Different Product Received,Approved,1972
+1997,115668,695,80,3,Changed with Another Product,Refunded,234
+1998,115668,695,98,1,Color Mismatch,Refunded,3
+1999,115668,695,8,8,Color Mismatch,Refunded,1592
+2000,115668,695,50,2,Different Product Received,Refunded,1296
+2001,115689,1026,9,7,Color Mismatch,Pending,1414
+2002,115689,1026,21,8,Product Condition Not Good,Rejected,1856
+2003,115689,1026,33,6,Different Product Received,Pending,882
+2004,115733,317,28,3,Changed with Another Product,Rejected,3513
+2005,115736,671,42,1,Different Product Received,Approved,216
+2006,115736,671,73,3,Product Condition Not Good,Approved,3189
+2007,115740,501,67,4,Color Mismatch,Rejected,1952
+2008,115740,501,97,1,Different Product Received,Pending,35
+2009,115745,30,86,3,Changed with Another Product,Rejected,75
+2010,115750,29,44,1,Color Mismatch,Approved,168
+2011,115750,29,52,2,Different Product Received,Rejected,458
+2012,115750,29,75,4,Product Condition Not Good,Pending,4316
+2013,115789,1374,53,2,Product Condition Not Good,Approved,890
+2014,115790,432,24,5,Different Product Received,Pending,4335
+2015,115816,338,92,4,Color Mismatch,Rejected,1904
+2016,115816,338,99,1,Color Mismatch,Pending,1332
+2017,115832,1662,48,2,Changed with Another Product,Rejected,842
+2018,115833,1569,69,2,Color Mismatch,Approved,1424
+2019,115835,1872,5,7,Different Product Received,Rejected,9303
+2020,115837,1927,61,2,Changed with Another Product,Rejected,2426
+2021,115837,1927,81,1,Changed with Another Product,Refunded,93
+2022,115855,620,76,6,Product Condition Not Good,Pending,840
+2023,115866,1458,99,1,Changed with Another Product,Refunded,1332
+2024,115866,1458,11,8,Product Condition Not Good,Pending,4584
+2025,115886,394,96,9,Product Condition Not Good,Pending,180
+2026,115886,394,70,4,Product Condition Not Good,Rejected,4992
+2027,115897,755,99,5,Different Product Received,Approved,6660
+2028,115897,755,51,5,Color Mismatch,Approved,3610
+2029,115902,1380,34,3,Different Product Received,Rejected,264
+2030,115902,1380,87,6,Different Product Received,Pending,2574
+2031,115902,1380,64,4,Product Condition Not Good,Refunded,728
+2032,115902,1380,73,1,Color Mismatch,Rejected,1063
+2033,115902,1380,31,9,Color Mismatch,Approved,756
+2034,115919,318,18,1,Changed with Another Product,Rejected,1368
+2035,115940,577,75,1,Changed with Another Product,Rejected,1079
+2036,115947,211,93,6,Different Product Received,Pending,7284
+2037,115976,1214,71,1,Product Condition Not Good,Approved,7
+2038,115980,1832,37,2,Different Product Received,Refunded,986
+2039,115998,1948,83,5,Different Product Received,Rejected,6030
+2040,116005,1327,72,1,Product Condition Not Good,Pending,107
+2041,116042,1558,87,6,Product Condition Not Good,Refunded,2574
+2042,116042,1558,13,1,Product Condition Not Good,Pending,21
+2043,116050,1978,98,2,Different Product Received,Approved,6
+2044,116054,1833,52,4,Color Mismatch,Refunded,916
+2045,116091,1011,69,4,Product Condition Not Good,Refunded,2848
+2046,116124,545,65,2,Product Condition Not Good,Refunded,1304
+2047,116141,604,95,1,Different Product Received,Approved,6
+2048,116141,604,25,4,Different Product Received,Rejected,172
+2049,116141,604,85,1,Color Mismatch,Approved,455
+2050,116178,1481,93,1,Product Condition Not Good,Refunded,1214
+2051,116178,1481,90,1,Product Condition Not Good,Rejected,4
+2052,116178,1481,57,2,Different Product Received,Rejected,1424
+2053,116178,1481,27,4,Product Condition Not Good,Pending,836
+2054,116178,1481,15,3,Color Mismatch,Pending,2193
+2055,116211,810,99,1,Color Mismatch,Rejected,1332
+2056,116223,1383,39,2,Product Condition Not Good,Refunded,2360
+2057,116223,1383,69,6,Changed with Another Product,Refunded,4272
+2058,116225,1298,52,2,Color Mismatch,Approved,458
+2059,116241,345,74,6,Changed with Another Product,Pending,54
+2060,116245,214,15,9,Changed with Another Product,Refunded,6579
+2061,116245,214,83,1,Color Mismatch,Pending,1206
+2062,116245,214,70,4,Product Condition Not Good,Approved,4992
+2063,116245,214,35,1,Different Product Received,Approved,406
+2064,116291,1559,94,3,Different Product Received,Approved,264
+2065,116314,1289,16,3,Product Condition Not Good,Refunded,42
+2066,116341,1748,19,3,Color Mismatch,Refunded,4281
+2067,116377,1914,57,2,Product Condition Not Good,Pending,1424
+2068,116377,1914,84,9,Different Product Received,Approved,11835
+2069,116381,1111,43,2,Product Condition Not Good,Rejected,2424
+2070,116407,1631,39,4,Product Condition Not Good,Rejected,4720
+2071,116407,1631,69,1,Changed with Another Product,Refunded,712
+2072,116412,1744,88,2,Different Product Received,Rejected,888
+2073,116412,1744,19,3,Product Condition Not Good,Rejected,4281
+2074,116424,857,67,4,Color Mismatch,Refunded,1952
+2075,116424,857,50,1,Color Mismatch,Rejected,648
+2076,116424,857,14,3,Color Mismatch,Pending,465
+2077,116440,1364,87,1,Different Product Received,Refunded,429
+2078,116448,1190,27,1,Changed with Another Product,Refunded,209
+2079,116457,160,62,3,Changed with Another Product,Refunded,1113
+2080,116457,160,7,4,Product Condition Not Good,Rejected,804
+2081,116472,1572,63,2,Different Product Received,Approved,14
+2082,116499,1447,62,6,Different Product Received,Refunded,2226
+2083,116513,1070,61,2,Product Condition Not Good,Approved,2426
+2084,116547,1727,20,1,Product Condition Not Good,Rejected,101
+2085,116554,1958,90,3,Changed with Another Product,Approved,12
+2086,116554,1958,30,4,Different Product Received,Rejected,5040
+2087,116554,1958,71,6,Different Product Received,Pending,42
+2088,116554,1958,25,4,Changed with Another Product,Pending,172
+2089,116557,1989,44,1,Changed with Another Product,Rejected,168
+2090,116566,501,34,5,Changed with Another Product,Refunded,440
+2091,116566,501,10,10,Different Product Received,Rejected,10020
+2092,116566,501,89,4,Color Mismatch,Approved,496
+2093,116579,1287,56,3,Product Condition Not Good,Approved,267
+2094,116579,1287,70,4,Different Product Received,Refunded,4992
+2095,116579,1287,97,8,Product Condition Not Good,Approved,280
+2096,116585,859,95,4,Product Condition Not Good,Refunded,24
+2097,116592,1852,23,7,Color Mismatch,Rejected,7420
+2098,116592,1852,55,2,Different Product Received,Approved,2648
+2099,116592,1852,59,6,Different Product Received,Refunded,570
+2100,116602,1698,42,1,Product Condition Not Good,Approved,216
+2101,116602,1698,50,3,Different Product Received,Refunded,1944
+2102,116607,129,13,7,Different Product Received,Refunded,147
+2103,116607,129,45,1,Changed with Another Product,Refunded,139
+2104,116607,129,66,10,Product Condition Not Good,Pending,2660
+2105,116614,1648,51,6,Different Product Received,Rejected,4332
+2106,116614,1648,70,3,Changed with Another Product,Pending,3744
+2107,116618,1506,7,1,Different Product Received,Approved,201
+2108,116629,1686,34,9,Different Product Received,Rejected,792
+2109,116631,147,35,5,Different Product Received,Refunded,2030
+2110,116634,1048,82,1,Color Mismatch,Rejected,9
+2111,116659,1455,69,1,Color Mismatch,Refunded,712
+2112,116659,1455,56,5,Changed with Another Product,Pending,445
+2113,116659,1455,7,3,Changed with Another Product,Refunded,603
+2114,116662,1,35,1,Different Product Received,Pending,406
+2115,116662,1,28,1,Product Condition Not Good,Refunded,1171
+2116,116662,1,24,1,Color Mismatch,Approved,867
+2117,116662,1,27,4,Color Mismatch,Pending,836
+2118,116662,1,73,1,Different Product Received,Rejected,1063
+2119,116665,191,92,2,Product Condition Not Good,Refunded,952
+2120,116665,191,22,4,Different Product Received,Rejected,12
+2121,116665,191,27,2,Color Mismatch,Refunded,418
+2122,116665,191,45,3,Product Condition Not Good,Refunded,417
+2123,116665,191,42,4,Product Condition Not Good,Pending,864
+2124,116672,975,40,3,Product Condition Not Good,Refunded,726
+2125,116672,975,58,3,Changed with Another Product,Pending,741
+2126,116672,975,31,2,Product Condition Not Good,Pending,168
+2127,116723,1716,98,1,Different Product Received,Rejected,3
+2128,116723,1716,21,1,Different Product Received,Approved,232
+2129,116731,1954,15,3,Product Condition Not Good,Pending,2193
+2130,116736,1342,91,1,Different Product Received,Pending,3
+2131,116748,728,89,3,Different Product Received,Pending,372
+2132,116767,243,21,1,Product Condition Not Good,Rejected,232
+2133,116767,243,40,1,Product Condition Not Good,Rejected,242
+2134,116791,1066,45,1,Changed with Another Product,Approved,139
+2135,116804,1971,69,1,Changed with Another Product,Refunded,712
+2136,116816,1087,95,5,Color Mismatch,Rejected,30
+2137,116816,1087,31,1,Changed with Another Product,Refunded,84
+2138,116818,1051,9,3,Changed with Another Product,Approved,606
+2139,116824,1283,75,4,Color Mismatch,Approved,4316
+2140,116824,1283,69,1,Color Mismatch,Rejected,712
+2141,116834,1143,65,1,Different Product Received,Refunded,652
+2142,116844,443,93,2,Product Condition Not Good,Approved,2428
+2143,116844,443,98,1,Different Product Received,Rejected,3
+2144,116844,443,40,2,Product Condition Not Good,Rejected,484
+2145,116858,1760,22,5,Color Mismatch,Pending,15
+2146,116858,1760,72,7,Different Product Received,Pending,749
+2147,116858,1760,55,5,Product Condition Not Good,Refunded,6620
+2148,116874,45,35,2,Changed with Another Product,Approved,812
+2149,116888,252,19,2,Different Product Received,Approved,2854
+2150,116942,286,85,2,Different Product Received,Approved,910
+2151,116942,286,86,5,Color Mismatch,Refunded,125
+2152,116942,286,97,3,Product Condition Not Good,Rejected,105
+2153,116950,665,37,2,Different Product Received,Refunded,986
+2154,116980,1367,11,3,Different Product Received,Approved,1719
+2155,116980,1367,58,1,Product Condition Not Good,Pending,247
+2156,117017,1350,53,1,Color Mismatch,Rejected,445
+2157,117063,176,97,1,Color Mismatch,Approved,35
+2158,117070,1860,71,4,Color Mismatch,Pending,28
+2159,117070,1860,60,2,Color Mismatch,Refunded,494
+2160,117079,462,27,4,Different Product Received,Refunded,836
+2161,117079,462,52,1,Product Condition Not Good,Refunded,229
+2162,117079,462,26,7,Color Mismatch,Approved,8407
+2163,117079,462,71,1,Product Condition Not Good,Approved,7
+2164,117104,1505,24,2,Product Condition Not Good,Refunded,1734
+2165,117104,1505,1,2,Changed with Another Product,Pending,462
+2166,117104,1505,35,1,Different Product Received,Approved,406
+2167,117130,1669,46,1,Different Product Received,Approved,1077
+2168,117130,1669,21,2,Different Product Received,Pending,464
+2169,117130,1669,50,1,Changed with Another Product,Rejected,648
+2170,117130,1669,11,5,Different Product Received,Rejected,2865
+2171,117185,1069,78,1,Color Mismatch,Approved,1118
+2172,117185,1069,27,5,Product Condition Not Good,Refunded,1045
+2173,117185,1069,58,1,Product Condition Not Good,Rejected,247
+2174,117186,1984,27,1,Product Condition Not Good,Approved,209
+2175,117192,601,57,7,Different Product Received,Refunded,4984
+2176,117192,601,77,5,Color Mismatch,Pending,4470
+2177,117192,601,2,3,Product Condition Not Good,Pending,2376
+2178,117193,1606,66,5,Changed with Another Product,Pending,1330
+2179,117193,1606,87,2,Product Condition Not Good,Rejected,858
+2180,117198,1364,2,4,Color Mismatch,Refunded,3168
+2181,117198,1364,52,4,Color Mismatch,Pending,916
+2182,117203,1598,98,3,Changed with Another Product,Rejected,9
+2183,117203,1598,69,2,Color Mismatch,Pending,1424
+2184,117229,447,13,6,Different Product Received,Pending,126
+2185,117238,1940,18,9,Changed with Another Product,Pending,12312
+2186,117238,1940,60,1,Different Product Received,Refunded,247
+2187,117294,1256,31,3,Color Mismatch,Refunded,252
+2188,117294,1256,59,4,Color Mismatch,Pending,380
+2189,117309,1346,41,3,Product Condition Not Good,Refunded,12
+2190,117309,1346,70,1,Different Product Received,Approved,1248
+2191,117330,956,47,1,Changed with Another Product,Approved,71
+2192,117330,956,43,1,Different Product Received,Pending,1212
+2193,117330,956,70,3,Product Condition Not Good,Refunded,3744
+2194,117335,547,6,3,Changed with Another Product,Rejected,1893
+2195,117335,547,66,1,Changed with Another Product,Refunded,266
+2196,117349,1635,36,8,Color Mismatch,Refunded,1760
+2197,117349,1635,48,5,Product Condition Not Good,Rejected,2105
+2198,117360,1603,7,1,Changed with Another Product,Pending,201
+2199,117360,1603,6,6,Product Condition Not Good,Refunded,3786
+2200,117374,1463,37,5,Color Mismatch,Rejected,2465
+2201,117374,1463,33,4,Different Product Received,Rejected,588
+2202,117381,1323,80,2,Product Condition Not Good,Approved,156
+2203,117381,1323,74,4,Product Condition Not Good,Refunded,36
+2204,117427,399,90,1,Changed with Another Product,Rejected,4
+2205,117427,399,20,1,Product Condition Not Good,Refunded,101
+2206,117427,399,24,5,Product Condition Not Good,Refunded,4335
+2207,117428,258,60,1,Color Mismatch,Pending,247
+2208,117428,258,23,4,Different Product Received,Rejected,4240
+2209,117428,258,15,2,Color Mismatch,Refunded,1462
+2210,117428,258,10,3,Different Product Received,Pending,3006
+2211,117438,1373,18,4,Color Mismatch,Refunded,5472
+2212,117454,1718,14,1,Color Mismatch,Approved,155
+2213,117456,275,99,4,Product Condition Not Good,Rejected,5328
+2214,117469,671,76,7,Color Mismatch,Approved,980
+2215,117470,353,84,6,Changed with Another Product,Rejected,7890
+2216,117472,1427,14,3,Product Condition Not Good,Rejected,465
+2217,117472,1427,32,5,Product Condition Not Good,Approved,445
+2218,117477,1350,93,5,Different Product Received,Approved,6070
+2219,117481,701,30,3,Color Mismatch,Pending,3780
+2220,117486,573,84,1,Different Product Received,Pending,1315
+2221,117488,1541,84,3,Different Product Received,Rejected,3945
+2222,117548,1992,43,1,Changed with Another Product,Rejected,1212
+2223,117558,69,83,1,Different Product Received,Pending,1206
+2224,117558,69,53,1,Different Product Received,Rejected,445
+2225,117558,69,95,1,Different Product Received,Pending,6
+2226,117561,1992,36,3,Color Mismatch,Rejected,660
+2227,117561,1992,92,2,Product Condition Not Good,Pending,952
+2228,117561,1992,17,5,Color Mismatch,Approved,2565
+2229,117561,1992,8,8,Changed with Another Product,Rejected,1592
+2230,117590,663,17,1,Different Product Received,Rejected,513
+2231,117621,1231,57,8,Different Product Received,Pending,5696
+2232,117621,1231,53,2,Different Product Received,Pending,890
+2233,117678,15,17,1,Changed with Another Product,Pending,513
+2234,117678,15,24,2,Color Mismatch,Pending,1734
+2235,117700,1217,96,6,Changed with Another Product,Pending,120
+2236,117709,472,19,6,Different Product Received,Approved,8562
+2237,117717,354,11,1,Product Condition Not Good,Approved,573
+2238,117717,354,95,4,Color Mismatch,Refunded,24
+2239,117721,975,5,6,Color Mismatch,Refunded,7974
+2240,117748,786,96,2,Color Mismatch,Refunded,40
+2241,117748,786,58,4,Different Product Received,Refunded,988
+2242,117748,786,68,3,Color Mismatch,Refunded,2859
+2243,117748,786,81,3,Different Product Received,Pending,279
+2244,117748,786,24,2,Changed with Another Product,Approved,1734
+2245,117802,38,49,1,Changed with Another Product,Rejected,61
+2246,117802,38,42,3,Changed with Another Product,Refunded,648
+2247,117874,1918,44,6,Product Condition Not Good,Approved,1008
+2248,117891,1682,37,2,Changed with Another Product,Rejected,986
+2249,117891,1682,53,2,Different Product Received,Rejected,890
+2250,117893,1794,76,1,Product Condition Not Good,Refunded,140
+2251,117913,377,47,1,Color Mismatch,Approved,71
+2252,117913,377,76,6,Different Product Received,Pending,840
+2253,117913,377,93,2,Different Product Received,Approved,2428
+2254,117938,745,31,4,Product Condition Not Good,Pending,336
+2255,117938,745,23,3,Color Mismatch,Approved,3180
+2256,117954,494,29,6,Color Mismatch,Rejected,1236
+2257,117954,494,40,7,Product Condition Not Good,Pending,1694
+2258,117954,494,20,5,Color Mismatch,Rejected,505
+2259,117957,1380,88,6,Changed with Another Product,Refunded,2664
+2260,117964,1233,85,1,Changed with Another Product,Refunded,455
+2261,117964,1233,73,2,Different Product Received,Approved,2126
+2262,117964,1233,15,2,Product Condition Not Good,Rejected,1462
+2263,117964,1233,1,2,Color Mismatch,Approved,462
+2264,117965,1704,6,1,Changed with Another Product,Rejected,631
+2265,117965,1704,32,1,Product Condition Not Good,Approved,89
+2266,117965,1704,62,7,Changed with Another Product,Refunded,2597
+2267,117968,1291,37,4,Changed with Another Product,Pending,1972
+2268,117973,925,79,3,Changed with Another Product,Rejected,462
+2269,117993,318,1,3,Changed with Another Product,Refunded,693
+2270,117994,260,22,2,Product Condition Not Good,Pending,6
+2271,117994,260,76,1,Product Condition Not Good,Pending,140
+2272,118009,552,31,6,Product Condition Not Good,Refunded,504
+2273,118009,552,36,2,Changed with Another Product,Pending,440
+2274,118009,552,44,1,Different Product Received,Approved,168
+2275,118015,1960,32,2,Different Product Received,Refunded,178
+2276,118015,1960,48,5,Different Product Received,Rejected,2105
+2277,118019,259,98,1,Different Product Received,Pending,3
+2278,118028,1864,56,1,Color Mismatch,Approved,89
+2279,118040,1694,90,6,Different Product Received,Approved,24
+2280,118040,1694,18,4,Product Condition Not Good,Pending,5472
+2281,118051,1811,94,4,Product Condition Not Good,Rejected,352
+2282,118051,1811,72,4,Product Condition Not Good,Pending,428
+2283,118051,1811,86,1,Different Product Received,Approved,25
+2284,118073,53,9,1,Color Mismatch,Approved,202
+2285,118074,660,35,6,Different Product Received,Rejected,2436
+2286,118094,1417,45,1,Changed with Another Product,Rejected,139
+2287,118094,1417,31,5,Different Product Received,Approved,420
+2288,118094,1417,27,6,Color Mismatch,Rejected,1254
+2289,118096,1312,78,4,Color Mismatch,Pending,4472
+2290,118096,1312,83,8,Different Product Received,Refunded,9648
+2291,118096,1312,33,2,Color Mismatch,Refunded,294
+2292,118096,1312,65,1,Color Mismatch,Refunded,652
+2293,118097,1428,25,1,Changed with Another Product,Pending,43
+2294,118097,1428,28,1,Product Condition Not Good,Approved,1171
+2295,118099,1600,81,1,Product Condition Not Good,Refunded,93
+2296,118110,266,19,2,Changed with Another Product,Pending,2854
+2297,118110,266,35,2,Different Product Received,Refunded,812
+2298,118110,266,63,1,Changed with Another Product,Approved,7
+2299,118124,1633,6,1,Different Product Received,Rejected,631
+2300,118133,1852,69,4,Color Mismatch,Refunded,2848
+2301,118133,1852,92,2,Color Mismatch,Rejected,952
+2302,118133,1852,65,1,Product Condition Not Good,Refunded,652
+2303,118188,1907,17,4,Product Condition Not Good,Refunded,2052
+2304,118209,1914,99,2,Changed with Another Product,Approved,2664
+2305,118210,612,13,8,Different Product Received,Approved,168
+2306,118210,612,3,4,Different Product Received,Rejected,5556
+2307,118210,612,25,2,Changed with Another Product,Approved,86
+2308,118251,739,66,4,Different Product Received,Pending,1064
+2309,118285,831,81,1,Product Condition Not Good,Rejected,93
+2310,118287,116,51,2,Changed with Another Product,Rejected,1444
+2311,118300,1073,83,1,Changed with Another Product,Rejected,1206
+2312,118300,1073,99,4,Different Product Received,Rejected,5328
+2313,118300,1073,71,1,Product Condition Not Good,Pending,7
+2314,118301,1859,65,3,Changed with Another Product,Rejected,1956
+2315,118301,1859,97,1,Different Product Received,Rejected,35
+2316,118301,1859,11,3,Color Mismatch,Pending,1719
+2317,118302,1530,69,1,Changed with Another Product,Pending,712
+2318,118323,730,74,8,Different Product Received,Refunded,72
+2319,118339,924,9,6,Different Product Received,Refunded,1212
+2320,118339,924,51,3,Color Mismatch,Approved,2166
+2321,118342,664,90,7,Changed with Another Product,Approved,28
+2322,118383,103,21,3,Product Condition Not Good,Refunded,696
+2323,118389,695,58,3,Product Condition Not Good,Approved,741
+2324,118389,695,78,2,Color Mismatch,Refunded,2236
+2325,118389,695,27,2,Different Product Received,Pending,418
+2326,118389,695,46,3,Different Product Received,Pending,3231
+2327,118389,695,2,6,Changed with Another Product,Rejected,4752
+2328,118430,1004,43,5,Different Product Received,Refunded,6060
+2329,118441,829,82,1,Product Condition Not Good,Refunded,9
+2330,118443,1782,87,2,Different Product Received,Refunded,858
+2331,118443,1782,63,5,Changed with Another Product,Refunded,35
+2332,118478,779,58,2,Product Condition Not Good,Rejected,494
+2333,118493,472,56,5,Changed with Another Product,Approved,445
+2334,118493,472,100,7,Changed with Another Product,Pending,2506
+2335,118498,1568,19,2,Different Product Received,Approved,2854
+2336,118503,1081,6,3,Color Mismatch,Refunded,1893
+2337,118503,1081,47,1,Changed with Another Product,Refunded,71
+2338,118503,1081,32,2,Product Condition Not Good,Refunded,178
+2339,118503,1081,77,4,Color Mismatch,Pending,3576
+2340,118504,623,36,1,Color Mismatch,Approved,220
+2341,118504,623,59,1,Different Product Received,Pending,95
+2342,118504,623,94,1,Changed with Another Product,Approved,88
+2343,118504,623,98,3,Changed with Another Product,Approved,9
+2344,118555,1859,72,3,Color Mismatch,Rejected,321
+2345,118555,1859,47,8,Color Mismatch,Pending,568
+2346,118582,1037,98,1,Different Product Received,Rejected,3
+2347,118582,1037,93,2,Color Mismatch,Rejected,2428
+2348,118582,1037,57,2,Changed with Another Product,Refunded,1424
+2349,118582,1037,51,3,Changed with Another Product,Approved,2166
+2350,118587,1413,90,1,Different Product Received,Rejected,4
+2351,118602,1035,2,2,Product Condition Not Good,Refunded,1584
+2352,118602,1035,27,2,Different Product Received,Pending,418
+2353,118602,1035,71,1,Product Condition Not Good,Refunded,7
+2354,118616,317,89,1,Product Condition Not Good,Refunded,124
+2355,118629,733,53,9,Product Condition Not Good,Approved,4005
+2356,118629,733,47,1,Changed with Another Product,Pending,71
+2357,118665,1512,35,1,Product Condition Not Good,Refunded,406
+2358,118665,1512,56,3,Different Product Received,Rejected,267
+2359,118665,1512,17,1,Product Condition Not Good,Approved,513
+2360,118669,1164,88,3,Different Product Received,Pending,1332
+2361,118671,1166,53,2,Color Mismatch,Rejected,890
+2362,118675,1204,76,1,Color Mismatch,Rejected,140
+2363,118695,1457,74,1,Different Product Received,Approved,9
+2364,118708,494,30,2,Changed with Another Product,Pending,2520
+2365,118708,494,54,2,Product Condition Not Good,Rejected,1226
+2366,118708,494,85,2,Color Mismatch,Pending,910
+2367,118708,494,74,2,Different Product Received,Rejected,18
+2368,118776,1458,2,5,Different Product Received,Pending,3960
+2369,118776,1458,47,1,Different Product Received,Rejected,71
+2370,118776,1458,53,9,Changed with Another Product,Pending,4005
+2371,118787,1042,18,4,Product Condition Not Good,Rejected,5472
+2372,118787,1042,1,4,Different Product Received,Rejected,924
+2373,118787,1042,84,4,Product Condition Not Good,Rejected,5260
+2374,118787,1042,27,2,Changed with Another Product,Approved,418
+2375,118788,1127,28,2,Color Mismatch,Approved,2342
+2376,118788,1127,85,1,Product Condition Not Good,Rejected,455
+2377,118788,1127,100,3,Product Condition Not Good,Refunded,1074
+2378,118794,1802,21,6,Product Condition Not Good,Rejected,1392
+2379,118794,1802,63,2,Changed with Another Product,Rejected,14
+2380,118812,215,86,3,Product Condition Not Good,Pending,75
+2381,118812,215,29,1,Changed with Another Product,Approved,206
+2382,118812,215,96,1,Different Product Received,Pending,20
+2383,118812,215,63,2,Changed with Another Product,Pending,14
+2384,118825,173,83,7,Changed with Another Product,Refunded,8442
+2385,118825,173,80,2,Changed with Another Product,Rejected,156
+2386,118825,173,45,5,Color Mismatch,Refunded,695
+2387,118840,1838,24,2,Product Condition Not Good,Approved,1734
+2388,118853,1678,13,3,Different Product Received,Refunded,63
+2389,118890,1774,20,2,Color Mismatch,Pending,202
+2390,118915,1765,50,4,Changed with Another Product,Rejected,2592
+2391,118924,588,77,1,Different Product Received,Pending,894
+2392,118924,588,4,3,Color Mismatch,Pending,2619
+2393,118924,588,31,1,Different Product Received,Rejected,84
+2394,118930,666,74,1,Changed with Another Product,Pending,9
+2395,118930,666,34,1,Changed with Another Product,Approved,88
+2396,118932,557,78,1,Different Product Received,Approved,1118
+2397,118932,557,22,7,Changed with Another Product,Approved,21
+2398,118932,557,16,6,Different Product Received,Approved,84
+2399,118985,1223,36,1,Different Product Received,Rejected,220
+2400,118985,1223,54,2,Different Product Received,Pending,1226
+2401,118996,1188,93,1,Product Condition Not Good,Refunded,1214
+2402,118996,1188,37,6,Product Condition Not Good,Refunded,2958
+2403,119020,692,46,1,Product Condition Not Good,Refunded,1077
+2404,119020,692,28,1,Changed with Another Product,Approved,1171
+2405,119042,792,63,1,Product Condition Not Good,Rejected,7
+2406,119043,772,52,2,Changed with Another Product,Pending,458
+2407,119043,772,78,2,Changed with Another Product,Pending,2236
+2408,119043,772,80,5,Color Mismatch,Approved,390
+2409,119043,772,97,2,Changed with Another Product,Pending,70
+2410,119133,206,21,5,Color Mismatch,Refunded,1160
+2411,119143,725,63,7,Different Product Received,Rejected,49
+2412,119143,725,8,2,Product Condition Not Good,Approved,398
+2413,119150,1332,51,1,Color Mismatch,Pending,722
+2414,119150,1332,92,8,Different Product Received,Rejected,3808
+2415,119191,778,82,4,Product Condition Not Good,Refunded,36
+2416,119216,1198,74,5,Color Mismatch,Pending,45
+2417,119216,1198,95,2,Color Mismatch,Pending,12
+2418,119216,1198,30,5,Different Product Received,Pending,6300
+2419,119246,1462,24,1,Changed with Another Product,Approved,867
+2420,119246,1462,6,2,Product Condition Not Good,Refunded,1262
+2421,119246,1462,3,1,Color Mismatch,Pending,1389
+2422,119246,1462,70,5,Different Product Received,Rejected,6240
+2423,119246,1462,30,1,Color Mismatch,Rejected,1260
+2424,119250,1507,24,1,Different Product Received,Refunded,867
+2425,119250,1507,26,3,Product Condition Not Good,Refunded,3603
+2426,119254,803,22,2,Product Condition Not Good,Pending,6
+2427,119256,1792,8,2,Different Product Received,Pending,398
+2428,119262,1096,5,5,Changed with Another Product,Refunded,6645
+2429,119273,603,32,2,Different Product Received,Pending,178
+2430,119298,1970,27,3,Product Condition Not Good,Rejected,627
+2431,119298,1970,95,7,Color Mismatch,Pending,42
+2432,119298,1970,87,8,Changed with Another Product,Rejected,3432
+2433,119313,518,33,9,Different Product Received,Refunded,1323
+2434,119313,518,68,1,Product Condition Not Good,Pending,953
+2435,119313,518,11,1,Changed with Another Product,Refunded,573
+2436,119313,518,72,1,Color Mismatch,Refunded,107
+2437,119349,82,43,1,Changed with Another Product,Approved,1212
+2438,119349,82,61,4,Different Product Received,Pending,4852
+2439,119349,82,1,8,Different Product Received,Refunded,1848
+2440,119378,104,29,1,Different Product Received,Pending,206
+2441,119389,1138,32,1,Different Product Received,Refunded,89
+2442,119395,1192,84,2,Different Product Received,Pending,2630
+2443,119416,31,8,1,Product Condition Not Good,Refunded,199
+2444,119416,31,11,5,Changed with Another Product,Pending,2865
+2445,119416,31,62,7,Different Product Received,Approved,2597
+2446,119419,1026,5,5,Product Condition Not Good,Refunded,6645
+2447,119443,821,36,1,Changed with Another Product,Pending,220
+2448,119443,821,60,5,Color Mismatch,Rejected,1235
+2449,119443,821,6,2,Different Product Received,Pending,1262
+2450,119482,939,99,2,Color Mismatch,Approved,2664
+2451,119485,176,88,6,Changed with Another Product,Refunded,2664
+2452,119485,176,78,7,Changed with Another Product,Pending,7826
+2453,119485,176,42,6,Different Product Received,Pending,1296
+2454,119492,1212,75,5,Color Mismatch,Pending,5395
+2455,119492,1212,3,1,Changed with Another Product,Rejected,1389
+2456,119511,788,12,5,Changed with Another Product,Rejected,3650
+2457,119511,788,15,3,Different Product Received,Approved,2193
+2458,119511,788,6,2,Changed with Another Product,Rejected,1262
+2459,119511,788,49,1,Different Product Received,Refunded,61
+2460,119511,788,87,1,Changed with Another Product,Approved,429
+2461,119519,391,30,2,Color Mismatch,Refunded,2520
+2462,119519,391,11,1,Changed with Another Product,Rejected,573
+2463,119519,391,96,1,Product Condition Not Good,Refunded,20
+2464,119519,391,50,8,Color Mismatch,Rejected,5184
+2465,119524,437,33,2,Different Product Received,Approved,294
+2466,119534,1686,33,1,Different Product Received,Pending,147
+2467,119607,1878,89,7,Color Mismatch,Rejected,868
+2468,119638,339,65,1,Product Condition Not Good,Rejected,652
+2469,119643,1741,66,2,Product Condition Not Good,Approved,532
+2470,119650,1807,76,1,Different Product Received,Rejected,140
+2471,119650,1807,24,4,Color Mismatch,Approved,3468
+2472,119651,1083,87,6,Changed with Another Product,Refunded,2574
+2473,119659,670,13,3,Color Mismatch,Refunded,63
+2474,119659,670,94,2,Different Product Received,Approved,176
+2475,119659,670,81,5,Product Condition Not Good,Rejected,465
+2476,119660,1939,27,4,Different Product Received,Rejected,836
+2477,119681,369,24,1,Product Condition Not Good,Refunded,867
+2478,119682,143,68,1,Different Product Received,Approved,953
+2479,119682,143,74,1,Product Condition Not Good,Pending,9
+2480,119779,218,42,5,Product Condition Not Good,Approved,1080
+2481,119779,218,16,8,Different Product Received,Approved,112
+2482,119796,84,17,5,Product Condition Not Good,Pending,2565
+2483,119797,1135,40,2,Color Mismatch,Refunded,484
+2484,119797,1135,7,3,Different Product Received,Rejected,603
+2485,119797,1135,17,4,Color Mismatch,Refunded,2052
+2486,119806,987,62,2,Color Mismatch,Refunded,742
+2487,119832,839,22,1,Product Condition Not Good,Refunded,3
+2488,119857,623,49,1,Changed with Another Product,Approved,61
+2489,119904,1551,94,4,Changed with Another Product,Rejected,352
+2490,119916,1576,9,3,Product Condition Not Good,Rejected,606
+2491,119916,1576,5,2,Different Product Received,Refunded,2658
+2492,119916,1576,63,1,Color Mismatch,Refunded,7
+2493,119923,1734,40,1,Changed with Another Product,Rejected,242
+2494,119923,1734,14,2,Product Condition Not Good,Approved,310
+2495,119926,1044,26,7,Changed with Another Product,Approved,8407
+2496,119932,514,25,1,Different Product Received,Approved,43
+2497,119939,648,95,5,Changed with Another Product,Approved,30
+2498,119942,1078,5,4,Product Condition Not Good,Refunded,5316
+2499,119942,1078,83,9,Color Mismatch,Rejected,10854
+2500,119949,1344,52,9,Color Mismatch,Rejected,2061
+2501,119962,978,32,9,Changed with Another Product,Approved,801
+2502,119967,392,38,6,Changed with Another Product,Approved,7158
+2503,119967,392,86,8,Color Mismatch,Refunded,200
+2504,119967,392,74,4,Color Mismatch,Approved,36
