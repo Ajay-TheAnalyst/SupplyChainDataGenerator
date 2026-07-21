@@ -14,6 +14,8 @@ def generate_inventory():
 
     random.seed(RANDOM_SEED)
 
+    inventory_id = 1
+
     # Read Products.csv
     products_df = pd.read_csv("data/Products.csv")
 
@@ -38,6 +40,7 @@ def generate_inventory():
             ).strftime("%Y-%m-%d")
 
             inventory.append([
+                inventory_id,
                 warehouse_id,
                 product_id,
                 current_stock,
@@ -46,9 +49,13 @@ def generate_inventory():
                 last_restocked
             ])
 
+            # Increase InventoryID for the next row
+            inventory_id += 1
+
     df = pd.DataFrame(
         inventory,
         columns=[
+            "InventoryID",
             "WarehouseID",
             "ProductID",
             "CurrentStock",
