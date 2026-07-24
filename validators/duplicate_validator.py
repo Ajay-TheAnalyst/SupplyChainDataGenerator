@@ -54,7 +54,7 @@ suppliers_df, \
 warehouses_df = validate_data()
 
 check_duplicates(customers_df,"CustomerID")
-check_duplicates(inventory_df, "WarehouseID")
+check_duplicates(inventory_df, "InventoryID")
 check_duplicates(inventory_transactions_df, "TransactionID")
 check_duplicates(order_items_df, "OrderItemID")
 check_duplicates(orders_df, "OrderID")
