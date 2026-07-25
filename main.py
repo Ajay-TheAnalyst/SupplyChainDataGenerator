@@ -9,6 +9,8 @@ from generators.inventory_transactions import generate_inventory_transactions
 from generators.purchase_orders import generate_purchase_orders
 from generators.purchase_order_items import generate_purchase_order_items
 from generators.returns import generate_returns
+from validators.foreign_key_validator import run_foreign_key_validation
+from validators.duplicate_validator import run_check_duplicates
 from validators.null_validator import run_null_validation
 
 print("====================================")
@@ -26,7 +28,9 @@ print("====================================")
 #generate_purchase_orders()
 #generate_purchase_order_items()
 #generate_returns()
-run_null_validation()
+#run_check_duplicates()
+#run_null_validation()
+run_foreign_key_validation()
 
 
 

@@ -3,7 +3,6 @@ from validators.duplicate_validator import validate_data
 
 
 def check_nulls(df, table_name):
-
     missing_values = df.isnull().sum()
 
     if (missing_values > 0).any():
@@ -18,18 +17,17 @@ def check_nulls(df, table_name):
 
 
 def run_null_validation():
-
     customers_df, \
-    inventory_df, \
-    inventory_transactions_df, \
-    order_items_df, \
-    orders_df, \
-    products_df, \
-    purchase_orders_items_df, \
-    purchase_orders_df, \
-    returns_df, \
-    suppliers_df, \
-    warehouses_df = validate_data()
+        inventory_df, \
+        inventory_transactions_df, \
+        order_items_df, \
+        orders_df, \
+        products_df, \
+        purchase_orders_items_df, \
+        purchase_orders_df, \
+        returns_df, \
+        suppliers_df, \
+        warehouses_df = validate_data()
 
     check_nulls(customers_df, "Customers")
     check_nulls(inventory_df, "Inventory")
