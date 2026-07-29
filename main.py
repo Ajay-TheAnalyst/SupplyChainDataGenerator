@@ -13,6 +13,7 @@ from validators.foreign_key_validator import run_foreign_key_validation
 from validators.duplicate_validator import run_check_duplicates
 from validators.null_validator import run_null_validation
 from validators.business_rule_validator import run_check_positive
+from validators.validation_report import print_report
 
 print("====================================")
 print(" Supply Chain Data Generator ")
@@ -29,10 +30,12 @@ print("====================================")
 #generate_purchase_orders()
 #generate_purchase_order_items()
 #generate_returns()
-#run_check_duplicates()
-#run_null_validation()
-#run_foreign_key_validation()
+run_check_duplicates()
+run_null_validation()
+run_foreign_key_validation()
 run_check_positive()
+print_report()
+
 
 print("====================================")
 print("All datasets generated successfully!")

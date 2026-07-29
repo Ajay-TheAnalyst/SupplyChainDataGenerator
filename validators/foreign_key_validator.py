@@ -1,3 +1,4 @@
+from validators.validation_report import add_result
 import pandas as pd
 from validators.null_validator import validate_data
 
@@ -24,7 +25,12 @@ def check_foreign_key(
 
     else:
 
-        print(f"✅ Foreign Key Valid for {relationship_name}")
+        add_result(
+            "Foreign Key",
+            relationship_name,
+            "PASS",
+            0
+        )
 
 
 def run_foreign_key_validation():

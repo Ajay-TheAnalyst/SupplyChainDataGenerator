@@ -1,3 +1,4 @@
+from validators.validation_report import add_result
 import pandas as pd
 from validators.duplicate_validator import validate_data
 
@@ -13,7 +14,12 @@ def check_nulls(df, table_name):
 
     else:
 
-        print(f"✅ No missing values in {table_name}")
+        add_result(
+            "Null",
+            table_name,
+            "PASS",
+            0
+        )
 
 
 def run_null_validation():

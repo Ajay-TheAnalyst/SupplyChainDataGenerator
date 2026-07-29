@@ -1,3 +1,4 @@
+from validators.validation_report import add_result
 import pandas as pd
 
 
@@ -30,13 +31,29 @@ def validate_data():
 
 
 def check_duplicates(df, column_name):
-    if df[column_name].duplicated().any():
+    duplicates = df[
+        df[column_name].duplicated()
+    ]
 
-        print(f"Duplicate {column_name} Found")
+    if len(duplicates) > 0:
+
+        add_result(
+            "Duplicate",
+            column_name,
+            "FAIL",
+            len(duplicates)
+        )
+
+        print(duplicates)
 
     else:
 
-        print(f"No Duplicates {column_name} Found")
+        add_result(
+            "Duplicate",
+            column_name,
+            "PASS",
+            0
+        )
 
 
 def run_check_duplicates():
